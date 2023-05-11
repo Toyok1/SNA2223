@@ -1,0 +1,810 @@
+track_id,track_pos,artists,track_name,writers,track_votes
+1951_0,1,Nilla Pizzi,Grazie dei Fiori,G. C. Testoni- M. Panzeri-S. Seracini,50
+1951_1,2,Nilla Pizzi-Achille Togliani,La luna si veste d'argento,V. Mascheroni-Biri,30
+1951_2,3,Achille Togliani,Serenata a nessuno,W. Colì,20
+1951_3,4,Achille Togliani-Duo Fasano,Al mercato di Pizzighettone,N. Ravasini-A. Locatelli,0
+1951_4,5,Nilla Pizzi-Achille Togliani,Eco tra gli abeti,E. Bonagura-C. A. Rossi,0
+1951_5,6,Achille Togliani-Duo Fasano,Famme durmì,V. Panzuti-Danpa,0
+1951_6,7,Duo Fasano,La cicogna distratta,Da Rovere- A. Valleroni-Carrel,0
+1951_7,8,Nilla Pizzi-Duo Fasano,La margherita,E. B. Valdes,0
+1951_8,9,Achille Togliani,Sedici anni,L. Gambetti- M. Mariotti-A. Mari,0
+1951_9,10,Duo Fasano,Sotto il mandorlo,G. C. Testoni- M. Panzeri-C. Donida,0
+1952_0,1,Nilla Pizzi,Vola Colomba,B. Cherubini-C. Concina,80
+1952_1,2,Nilla Pizzi,Papaveri e papere,N. Rastelli- M. Panzeri-V. Mascheroni,70
+1952_2,3,Nilla Pizzi,Una donna prega,Pinchi-V. Panzuti,50
+1952_3,4,Oscar Carboni,Madonna delle rose,G. Fiorelli-M. Ruccione,28
+1952_4,5,Gino Latilla,Un disco dall'Italia,N. Salerno-G. D'Anzi,20
+1952_5,6,Gino Latilla,L'attesa,Biri-N. Ravasini,19
+1952_6,7,Oscar Carboni,Perché le donne belle,A. Sopranzi-G. Fassino,11
+1952_7,8,Achille Togliani,Vecchie mura,Filibello-P. E. Bassi,7
+1952_8,9,Achille Togliani,Libro di novelle,L. Citi-M. Casini,4
+1952_9,10,Nilla Pizzi-Achille Togliani,Nel regno dei sogni,A. Papetti-C. A. Rossi,1
+1953_0,1,Carla Boni-Flo Sandon's,Viale d'autunno,G. D'Anzi,64
+1953_1,2,Nilla Pizzi-Doppio Quintetto Vocale-Teddy Reno-Quartetto Stars,Campanaro,B. Cherubini-C. Concina,56
+1953_2,3,Achille Togliani-Teddy Reno,Lasciami cantare una canzone,M. Cozzoli-C. A. Bixio,41
+1953_3,4,Gino Latilla-Doppio Quintetto Vocale-Giorgio Consolini,Vecchio scarpone,Calibi- Pinchi-C. Donida,41
+1953_4,5,Gino Latilla-Giorgio Consolini,Vecchia villa comunale,R. Ruocco-N. Oliviero,40
+1953_5,6,Achille Togliani-Katyna Ranieri,No Pierrot,A. Costanzo-R. Salani,39
+1953_6,7,Carla Boni-Quartetto Stars,Il passerotto,E. Di Lazzaro-D. Valentini,33
+1953_7,8,Nilla Pizzi-Doppio Quintetto Vocale-Teddy Reno-Quartetto Stars,Sussurrando buonanotte,Danpa- B. Pallesi-V. Panzuti,22
+1953_8,9,Gino Latilla-Doppio Quintetto Vocale-Giorgio Consolini,Tamburino del reggimento,Deani,15
+1953_9,10,Nilla Pizzi-Doppio Quintetto Vocale-Teddy Reno-Quartetto Stars,Papà Pacifico,N. Rastelli-A. Fragna,2
+1954_0,1,Giorgio Consolini-Gino Latilla,Tutte le mamme,U. Bertini-E. Falcocchio,92
+1954_1,2,Katyna Ranieri-Achille Togliani,Canzone da due soldi,Pinchi-C. Donida,88
+1954_2,3,Gino Latilla-Franco Ricci,...e la barca tornò sola,M. Ruccione,77
+1954_3,4,Natalino Otto-Vittoria Mongardi,Notturno (Per chi non ha nessuno),F. S. Mangieri,60
+1954_4,5,Flo Sandon's-Carla Boni,Non è mai troppo tardi,D. Olivieri,55
+1954_5,6,Quartetto Cetra-Vittoria Mongardi-Duo Fasano,Aveva un bavero,M. Panzeri-V. Ripa,40
+1954_6,7,Gino Latilla-Duo Fasano-Katyna Ranieri-Giorgio Consolini,Sotto l'ombrello,N. Casiroli,25
+1954_7,8,Achille Togliani-Natalino Otto,Mogliettina,S. Seracini,12
+1954_8,9,Achille Togliani-Flo Sandon's-Natalino Otto,Con te,A. De Curtis,10
+1954_9,10,Achille Togliani-Natalino Otto,Donnina sola,S. Simoni- A. Valleroni-M. Casini,9
+1955_0,1,Claudio Villa-Tullio Pane,Buongiorno tristezza,G. Fiorelli-M. Ruccione,67
+1955_1,2,Claudio Villa-Tullio Pane,Il torrente,C. A. Liman-L. Carmi,"38,2"
+1955_2,3,Natalino Otto-Trio Aurora-Bruno Pallesi- Nuccia Bongiovanni-Radio Boys,Canto nella valle,M. Panzeri-U. Fusco,"33,6"
+1955_3,4,Claudio Villa-Narciso Parigi,Incantatella,E. Bonagura,"27,4"
+1955_4,5,Antonio Basurto-Gianni Ravera,Un cuore,P. Mendes-E. Falcocchio,"20,4"
+1955_5,6,Jula de Palma-Marisa Colomber,L'ombra,W. Colì,"14,4"
+1955_6,7,Narciso Parigi-Radio Boys-Natalino Otto-Trio Aurora,Ci ciu cì (Cantava un usignol),E. Minoretti-S. Seracini,"10,4"
+1955_7,8,Natalino Otto-Antonio Basurto,Una fotografia nella cornice,Lucia Mannucci-E. Fecchi,"9,6"
+1956_0,1,Franca Raimondi,Aprite le finestre,Pinchi-V. Panzuti,171
+1956_1,2,Tonina Torrielli,Amami se vuoi,M. Panzeri-V. Mascheroni,163
+1956_2,3,Luciana Gonzales,La vita è un paradiso di bugie,D. Calcagno-N. Oliviero,153
+1956_3,4,Tonina Torrielli,Il cantico del cielo,A. Testa-C. A. Rossi,92
+1956_4,5,Ugo Molinari,La colpa fu,Gippi- L. Beretta-E. Sciorilli,88
+1956_5,6,Tonina Torrielli,Il bosco innamorato,G. C. Testoni-G. Kramer,77
+1956_6,7,Ugo Molinari,Albero caduto,G. Fiorelli-M. Ruccione,76
+1956_7,8,Gianni Marzocchi,Musetto (La più bella sei tu),D. Modugno,41
+1956_8,9,Ugo Molinari,Nota per nota,G. Viezzoli,24
+1956_9,10,Ugo Molinari,Due teste sul cuscino,G. C. Testoni-F. Rendine,20
+1957_0,1,Claudio Villa-Nunzio Gallo,Corde della mia chitarra,G. Fiorelli-M. Ruccione,63
+1957_1,2,Claudio Villa-Giorgio Consolini,Usignolo,G. Castellani- L. L. Martelli-C. Concina,57
+1957_2,3,Gino Latilla-Tonina Torrielli,Scusami,Biri- W. Malgoni-M. Perrone,43
+1957_3,4,Carla Boni- Gino Latilla-Duo Fasano-Gloria Christian-Poker di Voci,Casetta in Canadà,M. Panzeri-V. Mascheroni,32
+1957_4,5,Claudio Villa-Giorgio Consolini,Cancello tra le rose,U. Bertini-M. De Paolis,30
+1957_5,6,Claudio Villa-Gino Latilla-Natalino Otto-Poker di Voci,Il pericolo numero uno,E. Bonagura-M. Cozzoli,24
+1957_6,7,Tina Allori-Tonina Torrielli,Intorno a te (È sempre primavera),D. Bernazza- M. De Angelis- A. Piga-Falco,16
+1957_7,8,Carla Boni-Nunzio Gallo,Per una volta ancora,U. Bertini-G. D'Anzi,12
+1957_8,9,Gino Baldi-Duo Fasano-Natalino Otto-Poker di Voci,Un filo di speranza,G. C. Testoni-S. Seracini,7
+1957_9,10,Carla Boni-Duo Fasano-Gloria Christian- Natalino Otto-Poker di Voci,Le trote blu,D. Calcagno-L. Gelmini,4
+1958_0,1,Domenico Modugno-Johnny Dorelli,Nel blu dipinto di blu,D. Modugno-F. Migliacci,63
+1958_1,2,Nilla Pizzi-Tonina Torrielli,L'edera,V. D'Acquisto-S. Seracini,41
+1958_2,3,Gino Latilla-Nilla Pizzi,Amare un'altra,R. Pazzaglia-G. Fabor,22
+1958_3,4,Claudio Villa-Giorgio Consolini,Campana di Santa Lucia,B. Cherubini-C. Concina,18
+1958_4,5,Claudio Villa-Nilla Pizzi,Giuro d'amarti così,M. Panzeri-V. Mascheroni,17
+1958_5,6,Carla Boni-Gino Latilla-Aurelio Fierro-Gloria Christian,Timida serenata,N. Salerno-G. Redi,15
+1958_6,7,Claudio Villa-Duo Fasano-Aurelio Fierro-Trio Joyce,Fragole e cappellini,M. Panzeri-S. Seracini,13
+1958_7,8,Natalino Otto-Carla Boni-Gino Latilla,Non potrai dimenticare,B. Pallesi-W. Malgoni,8
+1958_8,9,Tonina Torrielli-Cristina Jorio,Mille volte,Zibio-G. Fabor,3
+1958_9,10,Johnny Dorelli-Natalino Otto,Fantastica,A. Costanzo- C. Gori-P. Bentivoglio,1
+1959_0,1,Domenico Modugno-Johnny Dorelli,Piove (ciao ciao bambina),D. Modugno-D. Verde,57
+1959_1,2,Arturo Testa-Gino Latilla,Io sono il vento,G. C. Testoni-G. Fanciulli,48
+1959_2,3,Teddy Reno-Achille Togliani,Conoscerti,G. D'Anzi,27
+1959_3,4,Jula de Palma-Tonina Torrielli,Tua,B. Pallesi-W. Malgoni,18
+1959_4,5,Teddy Reno-Aurelio Fierro,Lì per lì,L. Beretta-G. Viezzoli,14
+1959_5,6,Fausto Cigliano-Nilla Pizzi,Sempre con te,R. Murolo,13
+1959_6,7,Natalino Otto-Aurelio Fierro,Avevamo la stessa età,D. Calcagno-M. Marini,12
+1959_7,8,Betty Curtis-Wilma De Angelis,Nessuno,A. De Simone- E. Capotosti-V. Mascheroni,10
+1959_8,9,Johnny Dorelli-Betty Curtis-Gino Latilla-Claudio Villa,Una marcia in Fa,M. Panzeri-V. Mascheroni,9
+1959_9,10,Claudio Villa-Betty Curtis,Un bacio sulla bocca,A. Testa-G. Cichellero,3
+1960_0,1,Tony Dallara-Renato Rascel,Romantica,D. Verde-R. Rascel,186
+1960_1,2,Domenico Modugno-Teddy Reno,Libero,D. Modugno-F. Migliacci,84
+1960_2,3,Wilma De Angelis-Joe Sentieri,Quando vien la sera,A. Testa-C. A. Rossi,26
+1960_3,4,Nilla Pizzi-Tonina Torrielli,Colpevole,V. D'Acquisto-S. Seracini,22
+1960_4,5,Joe Sentieri-Sergio Bruni,È mezzanotte,A. Testa- R. Cozzoli-G. Compare,16
+1960_5,6,Giorgio Consolini-Sergio Bruni,Il mare,A. Pugliese-A. Vian,15
+1960_6,7,Jula de Palma-Tony Dallara,Noi,B. Pallesi-W. Malgoni,14
+1960_7,8,Teddy Reno-Mina,È vero,N. Salerno-U. Bindi,9
+1960_8,9,Fausto Cigliano-Irene D'Areni,Splende il sole,Pinchi-Danpa,8
+1960_9,10,Johnny Dorelli-Jula de Palma,Notte mia,M. Zanfagna-M. De Martino,1
+1961_0,1,Betty Curtis-Luciano Tajoli,Al di là,Mogol - Donida,708.104
+1961_1,2,Adriano Celentano-Little Tony,24mila baci,P. Vivarelli- L. Fulci-A. Celentano,679.175
+1961_2,3,Milva-Gino Latilla,Il mare nel cassetto,Rolla - La Valle - Lattuada,648.776
+1961_3,4,Mina-Nelly Fioramonti,Io amo tu ami,E. Bonagura - G. Redi,178.593
+1961_4,5,Mina-Jenny Luna,Le mille bolle blu,V. Pallavicini-C. A. Rossi,175.863
+1961_5,6,Pino Donaggio-Teddy Reno,Come sinfonia,P. Donaggio,127.679
+1961_6,7,Arturo Testa-Tonina Torrielli,Febbre di musica,Biri-V. Mascheroni,100.217
+1961_7,8,Teddy Reno-Sergio Bruni,Mandolino mandolino,A. Vian-A. Pugliese,75.218
+1961_8,9,Sergio Bruni-Rocco Granata,Carolina dai,D. Pace-M. Panzeri,68.907
+1961_9,10,Gino Paoli-Tony Dallara,Un uomo vivo,G. Paoli,65.499
+1962_0,1,Domenico Modugno-Claudio Villa,Addio...addio...,F. Migliacci-D. Modugno,1.496.411
+1962_1,2,Sergio Bruni-Milva,Tango italiano,B. Pallesi-W. Malgoni,1.255.805
+1962_2,3,Sergio Bruni-Ernesto Bonino,Gondolì gondolà,Nisa-R. Carosone,295.049
+1962_3,4,Tony Renis-Emilio Pericoli,Quando quando quando,A. Testa-T. Renis,224.686
+1962_4,5,Milva-Miriam Del Mare,Stanotte al luna park,V. Pallavicini- Biri-C. A. Rossi,208.573
+1962_5,6,Gino Bramieri-Aurelio Fierro,Lui andava a cavallo,N. Salerno-N. Ravasini,194.990
+1962_6,7,Arturo Testa-Jolanda Rossin,Un'anima leggera,P. Rolla-F. Bergamini,143.354
+1962_7,8,Joe Sentieri-Aurelio Fierro,Cipria di sole,G. Marotta-S. Mazzocco,118.826
+1962_8,9,Tonina Torrielli-Nelly Fioramonti,Aspettandoti,S. Seracini-V. D'Acquisto,111.785
+1962_9,10,Johnny Dorelli-Betty Curtis,Buongiorno amore,M. Panzeri-J. Dorelli,91.750
+1963_0,1,Tony Renis-Emilio Pericoli,Uno per tutte,Mogol- A. Testa-T. Renis,90
+1963_1,2,Claudio Villa-Eugenia Foligatti,Amor mon amour my love,W. Malgoni- Pinchi-B. Pallesi,77
+1963_2,3,Pino Donaggio-Cocky Mazzetti,Giovane giovane,P. Donaggio-A. Testa,71
+1963_3,4,Wilma De Angelis-Johnny Dorelli,Non costa niente,G. Calabrese- D. Calcagno-E. Sciorilli,48
+1963_4,5,Milva-Luciano Tajoli,Ricorda,C. Donida-Mogol,45
+1963_5,6,Tonina Torrielli-Eugenia Foligatti,Perdonarsi in due,G. D'Anzi-Pinchi,19
+1963_6,7,Aurelio Fierro-Claudio Villa,Occhi neri e cielo blu,M. Panzeri-D. Pace,16
+1963_7,8,Emilio Pericoli-Sergio Bruni,Sull'acqua,M. Pagano-F. Maresca,14
+1963_8,9,Aura D'Angelo-Arturo Testa,Tu venisti dal mare,F. Rendine-A. Pugliese,12
+1963_9,10,Milva-Gianni Lacommare,Non sapevo,P. Calvi-B. Pallesi,10
+1964_0,1,Gigliola Cinquetti-Patricia Carli,Non ho l'età (Per amarti),M. Panzeri- Nisa- G. Colonnello,0
+1965_0,1,Bobby Solo-The New Christy Minstrels,"Se piangi, se ridi",Mogol- G. Marchetti- R. Satti,0
+1966_0,1,Domenico Modugno-Gigliola Cinquetti,"Dio, come ti amo",D. Modugno,77
+1966_1,2,Caterina Caselli-Gene Pitney,Nessuno mi può giudicare,D. Pace- M. Panzeri- L. Beretta-M. Del Prete,31
+1966_2,3,Wilma Goich-Les Surfs,In un fiore,C. Donida-Mogol,19
+1966_3,4,Pino Donaggio-Claudio Villa,Una casa in cima al mondo,P. Donaggio-V. Pallavicini,16
+1966_4,5,Anna Identici-The New Christy Minstrels,Una rosa da Vienna,G. Guarnieri-B. Lauzi,14
+1966_5,6,Orietta Berti-Ornella Vanoni,Io ti darò di più,M. Remigi-A. Testa,11
+1966_6,7,Giorgio Gaber-Pat Boone,Mai mai mai Valentina,G. Colonnello-A. Testa,11
+1966_7,8,Edoardo Vianello-Françoise Hardy,Parlami di te,E. Vianello-V. Pallavicini,9
+1966_8,9,Sergio Endrigo-Chad & Jeremy,Adesso sì,S. Endrigo,8
+1966_9,10,Milva-Richard Anthony,Nessuno di voi,G. Kramer-V. Pallavicini,8
+1967_0,1,Claudio Villa-Iva Zanicchi,Non pensare a me,A. Testa-E. Sciorilli,45
+1967_1,2,Annarita Spinaci-Les Surfs,Quando dico che ti amo,A. Testa-T. Renis,43
+1967_2,3,I Giganti-The Bachelors,Proposta,Albula-G. B. Martelli,28
+1967_3,4,Ornella Vanoni-Mario Guarnera,La musica è finita,Nisa- F. Califano-U. Bindi,24
+1967_4,5,Orietta Berti-Les Compagnons de la Chanson,"Io, tu e le rose",D. Pace- M. Panzeri- M. G. Gili-L. Barazzetti,15
+1967_5,6,Lucio Dalla-The Rokes,Bisogna saper perdere,G. Cassia-R. Cini,14
+1967_6,7,Sergio Endrigo-Memo Remigi,Dove credi di andare,S. Endrigo,12
+1967_7,8,Gian Pieretti-Antoine,Pietre,G. Pieretti-R. Gianco,11
+1967_8,9,Johnny Dorelli-Don Backy,L'immensità,D. Backy- Mogol-D. Mariano,9
+1967_9,10,Little Tony-Mario Zelinotti,Cuore matto,A. Ambrosino-T. Savio,8
+1968_0,1,Sergio Endrigo-Roberto Carlos,Canzone per te,S. Endrigo- S. Bardotti,306
+1968_1,2,Ornella Vanoni-Marisa Sannia,Casa bianca,A. Caponi- E. La Valle,255
+1968_2,3,Adriano Celentano-Milva,Canzone,A. Caponi- D. Mariano,251
+1968_3,4,Fausto Leali-Wilson Pickett,Deborah,V. Pallavicini- P. Conte-P. Massara,224
+1968_4,5,Antoine-Gianni Pettenati,La tramontana,D. Pace-M. Panzeri,172
+1968_5,6,Anna Identici-The Sandpipers,Quando m'innamoro,M. Panzeri- D. Pace-R. Livraghi,126
+1968_6,7,Massimo Ranieri-I Giganti,Da bambino,R. Pradella-R. Angiolini,123
+1968_7,8,Gigliola Cinquetti-Giuliana Valci,Sera,R. Vecchioni-A. Lo Vecchio,97
+1968_8,9,Al Bano-Bobby Gentry,La siepe,V. Pallavicini-P. Massara,92
+1968_9,10,Little Tony-Mario Guarnera,Un uomo piange solo per amore,Petaluma- M. Vicari-M. Marrocchi,82
+1969_0,1,Bobby Solo-Iva Zanicchi,Zingara,L. Albertelli- E. Riccardi,237
+1969_1,2,Sergio Endrigo-Mary Hopkin,Lontano dagli occhi,S. Bardotti- S. Endrigo- L. Bacalov,228
+1969_2,3,Don Backy-Milva,Un sorriso,A. Caponi- D. Mariano-Don Backy,178
+1969_3,4,Fausto Leali-Tony Del Monaco,Un'ora fa,L. Beretta- E. Parazzini-G. Intra,154
+1969_4,5,Nada-The Rokes,Ma che freddo fa,F. Migliacci-C. Mattone,141
+1969_5,6,Gigliola Cinquetti-France Gall,La pioggia,D. Pace- G. Argenio- C. Conti-M. Panzeri,116
+1969_6,7,Mal-The Showmen,Tu sei bella come sei,G. Cassia- S. Bardotti- M. Marrocchi-M. Vicari,93
+1969_7,8,Caterina Caselli-Johnny Dorelli,Il gioco dell'amore,F. Migliacci-I. Callegari,86
+1969_8,9,Lucio Battisti-Wilson Pickett,Un'avventura,Mogol-L. Battisti,69
+1969_9,10,Orietta Berti-Massimo Ranieri,Quando l'amore diventa poesia,Mogol-P. Soffici,63
+1970_0,1,Adriano Celentano-Claudia Mori,Chi non lavora non fa l'amore,L. Beretta- M. Del Prete- A. Celentano- N. de Luca,344
+1970_1,2,Nicola Di Bari-Ricchi e Poveri,La prima cosa bella,Mogol- M. Scommegna- G. F. Reverberi,309
+1970_2,3,Sergio Endrigo-Iva Zanicchi,L'arca di Noè,S. Endrigo- L. Bacalov,296
+1970_3,4,Ornella Vanoni-Camaleonti,Eternità,G. Bigazzi- C. Cavallaro,235
+1970_4,5,Patty Pravo-Little Tony,La spada nel cuore,Mogol- Donida,133
+1970_5,6,Gigliola Cinquetti-Bobby Solo,Romantico blues,L. Pilat- M. Panzeri-D. Pace,96
+1970_6,7,Rosalino Cellamare-Nada,Pa' diglielo a ma',F. Migliacci- R. Gigli- J. Fontana- M. Cantini-L. Greco,70
+1970_7,8,Antoine-Anna Identici,Taxi,G. Argenio- F. Arrigoni- D. Pace- M. Panzeri-C. Conti,65
+1970_8,9,Orietta Berti-Mario Tessuto,Tipitipitì,L. Pilat- M. Panzeri-D. Pace,62
+1970_9,10,Luciano Tajoli-Mal,Sole pioggia e vento,Mogol-E. Isola,44
+1971_0,1,Nada-Nicola Di Bari,Il cuore è uno zingaro,F. Migliacci-C. Mattone,357
+1971_1,2,Ricchi e Poveri-José Feliciano,Che sarà,F. Migliacci- C. Pes-J. Fontana,316
+1971_2,3,Lucio Dalla-Equipe 84,4 marzo 1943,L. Dalla-P. Pallottino,297
+1971_3,4,Donatello-Marisa Sannia,Com'è dolce la sera,L. Albertelli-E. Riccardi,134
+1971_4,5,Adriano Celentano-Coro Alpino Milanese,Sotto le lenzuola,L. Beretta- M. Del Prete-A. Celentano,115
+1971_5,6,Domenico Modugno-Carmen Villani,Come stai?,R. Pazzaglia-D. Modugno,95
+1971_6,7,Don Backy-Gianni Nazzaro,Bianchi cristalli sereni,A. Caponi,76
+1971_7,8,Al Bano-Aguaviva,"13, storia d'oggi",V. Pallavicini-A. Carrisi,69
+1971_8,9,Gigliola Cinquetti-Ray Conniff,Rose nel buio,L. Pilat- M. Panzeri-D. Pace,58
+1971_9,10,Caterina Caselli-Dik Dik,Ninna nanna (Cuore mio),L. Albertelli-E. Riccardi,56
+1972_0,1,Nicola Di Bari,I giorni dell'arcobaleno,M. Scommegna- D. Masini- P. Pintucci,343
+1972_1,2,Peppino Gagliardi,Come le viole,P. Gagliardi-G. Amendola,168
+1972_2,3,Nada,Il re di denari,C. Mattone-F. Migliacci,141
+1972_3,4,Gianni Morandi,Vado a lavorare,F. Migliacci- Petaluma- M. Marrocchi-V. Tariciotti,139
+1972_4,5,Gianni Nazzaro,Non voglio innamorarmi mai,M. Signorini-G. Bigazzi,114
+1972_5,6,Delirium,Jesahel,O. Prudente-I. Fossati,105
+1972_6,7,Marcella Bella,Montagne verdi,G. Bigazzi-G. Bella,84
+1972_7,8,Lucio Dalla,Piazza Grande,L. Dalla- R. Cellamare- G. Baldazzi-S. Bardotti,68
+1972_8,9,Gigliola Cinquetti,Gira l'amore (Caro bebè),M. Panzeri-D. Pace,67
+1972_9,10,Donatello,Ti voglio,R. Sanna-D.L. Pieretti,63
+1973_0,1,Peppino Di Capri,Un grande amore e niente più,F. Califano- G. Wright- G. Faiella- C. Mattone,1.710
+1973_1,2,Peppino Gagliardi,Come un ragazzino,G. Amendola- P. Gagliardi,1.482
+1973_2,3,Milva,Da troppo tempo,L. Albertelli- G. Colonnello,1.463
+1973_3,4,Ricchi e Poveri,Dolce frutto,C. Minellono-U. Balsamo,1.430
+1973_4,5,Gilda Giuliani,Serena,V. Pallavicini-G. Mescoli,1.413
+1973_5,6,Wess-Dori Ghezzi,Tu nella mia vita,Lubiak- F. Monti Arduini,1.295
+1973_6,7,Roberto Vecchioni,L'uomo che si gioca il cielo a dadi,R. Vecchioni,1.246
+1973_7,8,Fausto Leali,La bandiera di sole,V. Pallavicini-F. Leali,1.226
+1973_8,9,Umberto Balsamo,Amore mio,C. Minellono- U. Balsamo,1.224
+1973_9,10,Anna Identici,Mi son chiesta tante volte,P. P. Preti-G. Guarneri,1.197
+1974_0,1,Iva Zanicchi,"Ciao cara, come stai?",C. Malgioglio- C. Daiano- Dinaro-I. Ianne,36
+1974_1,2,Domenico Modugno,Questa è la mia vita,L. Beretta- D. Modugno-E. Suligoj,27
+1974_2,3,Orietta Berti,Occhi rossi,D. Pace- C. Conti- L. Pilat-M. Panzeri,21
+1975_0,1,Gilda,Ragazza del sud,R. Scalabrino,24
+1975_3,4,Valentina Greco,Un grande addio,G. Puzzo- B. Moglia- P. Limiti- E. Capotosti-M. C. Lacamera,13
+1975_4,5,Laura,E poi e poi,N. La Mantia,10
+1975_5,6,Franco-le Piccole Donne,Come Humphrey Bogart,L. Raggi-B. Pallini,7
+1976_0,1,Peppino di Capri,Non lo faccio più,Depsa- S. Iodice-F. Berlincioni,46
+1976_1,2,Wess-Dori Ghezzi,"Come stai, con chi sei",C. Minellono- F. Piccarreda-U. Balsamo,40
+1976_4,5,Paolo Frescura,Due anelli,A. De Sanctis-P. Frescura,30
+1976_5,6,Drupi,Sambariò,L. Albertelli-E. Riccardi,24
+1976_6,7,Carlo Gigli,Più forte,Schiava-C. Gigli,23
+1976_7,8,Daniel Sentacruz Ensemble,Linda bella Linda,C. Dammicco- Querencio- Sentacruz-F. Specchia,21
+1976_8,9,Gli Opera,L'ho persa ancora,F. Ricciardi- O. Avogadro-D. Pace,20
+1976_9,10,Camaleonti,Cuore di vetro,G. Bigazzi-T. Savio,19
+1977_0,1,Homo Sapiens,Bella da morire,R. Pareti-A. Salerno,17
+1977_1,2,Collage,Tu mi rubi l'anima,G. Padovan-A. De Sanctis,7
+1977_2,3,I Santo California,Monica,P. Pinna- G. Simonelli-E. Palumbo,1
+1978_0,1,Matia Bazar,...e dirsi ciao,G. Golzi- A. Stellita- P. Cassano- C. Marrale-A. Ruggiero,34
+1978_1,2,Anna Oxa,Un'emozione da poco,I. Fossati-G. Guglielminetti,30
+1978_2,3,Rino Gaetano,Gianna,R. Gaetano,17
+1978_3,4,Ciro Sebastianelli,Il buio e tu,C. Sebastianelli- D. Pace-O. Avogadro,16
+1978_4,5,Anselmo Genovese,Tu sola,A. Genovese-L. Capello,12
+1978_5,6,Santino Rocchetti,Armonia e poesia,S. Rocchetti-A. Lo Vecchio,11
+1978_6,7,Schola Cantorum,Il mio amore,M. Luberti-E. Fusco,9
+1978_7,8,Laura Luca,Domani domani,G. Pieretti-A. Nicorelli,4
+1978_8,9,Daniel Sentacruz Ensemble,1/2 notte,Zacar- S. Grieco- C. Dammicco-Sentacruz,2
+1979_0,1,Mino Vergnaghi,Amare,P. Finà-S. Ortone,1441 (701+740)
+1979_1,2,Enzo Carella,Barbara,E. Carella-P. Panella,1257 (702+555)
+1979_2,3,I Camaleonti,Quell'attimo in più,M. Lavezzi- O. Avogadro-D. Pace,1256 (619+637)
+1979_3,4,Collage,La gente parla,A. De Sanctis- S. Di Nardo-M. Marrocchi,1210 (653+567)
+1979_4,5,Enrico Beruschi,Sarà un fiore,D. Pace- C. Conti-M. Panzeri,1196 (647+549)
+1979_5,6,Franco Fanigliulo,A me mi piace vivere alla grande,O. Avogadro- R. Borghetti- F. Fanigliulo-D. Pace,1156 (620+536)
+1979_6,7,Lorella Pescerelli,New York,F. Migliacci-F. Paulin,1149 (590+559)
+1979_7,8,Kim & The Cadillacs,C'era un'atmosfera,A. Stellita-P. Cassano,1054 (570+484)
+1979_8,9,Umberto Napolitano,Bimba mia,U. Napolitano,1044 (494+550)
+1979_9,10,Pandemonium,Tu fai schifo sempre,A. Giordano- M. Paulicelli-G. Mauro,993 (490+505)
+1980_0,1,Toto Cutugno,Solo noi,S. Cutugno,750
+1980_1,2,Enzo Malepasso,Ti voglio bene,Depsa-E. Malepasso,650
+1980_2,3,Pupo,Su di noi,P. Barabani- D. Milani-E. Ghinazzi,500
+1981_0,1,Alice,Per Elisa,C. Bissi- F. Battiato-G. Pio,736
+1981_1,2,Loretta Goggi,Maledetta primavera,P. A. Cassella-A. Rosario,700
+1981_2,3,Dario Baldan Bembo,Tu cosa fai stasera?,P. A. Cassella-D. Baldan Bembo,572
+1981_3,4,Luca Barbarossa,Roma spogliata,L. Barbarossa,532
+1981_4,5,Ricchi e Poveri,Sarà perché ti amo,E. Ghinazzi- D. Pace-D. Farina,520
+1981_5,6,Paolo Barabani,Hop hop somarello,P. Barabani- E. Ghinazzi-G. P. Reverberi,415
+1981_6,7,Marinella,Ma chi te lo fa fare,V. Pallavicini-G. P. Felisatti,389
+1981_7,8,Michele Zarrillo,Su quel pianeta libero,M. Zarrillo- A. Rosario-P. A. Cassella,377
+1981_8,9,Marcella,Pensa per te,G. Bigazzi-G. Bella,325
+1981_9,10,Passengers,Midnight,G. Arena-A. Piccareta,268
+1982_0,1,Riccardo Fogli,Storie di tutti i giorni,R. Fogli- G. Morra-M. Fabrizio,820
+1982_1,2,Al Bano-Romina Power,Felicità,C. Minellono- G. De Stefani-D. Farina,789
+1982_2,3,Drupi,Soli,G. Anelli- G. Belleno-V. De Scalzi,322
+1982_3,4,Giuseppe Cionfoli,Solo grazie,G. Cionfoli,156
+1982_4,5,Christian,Un'altra vita un altro amore,M. Balducci,123
+1982_5,6,Jimmy Fontana,Beguine,F. Migliacci- E. Sbriccoli- L. Greco-L. Pellegrino,108
+1983_0,1,Tiziana Rivale,Sarà quel che sarà,R. Ferri-M. Fabrizio,2.981 (3.208)
+1983_1,2,Donatella Milani,Volevo dirti,D. Milani- D. Pace-A. Fornaciari,2.942 (3.002)
+1983_2,3,Dori Ghezzi,Margherita non lo sa,O. Prudente-O. Avogadro,2.912 (2.780)
+1983_3,4,Matia Bazar,Vacanze romane,C. Marrale-G. Golzi,2.831 (2.894)
+1983_4,5,Toto Cutugno,L'italiano,C. Minellono-T. Cutugno,2.733 (2.869)
+1983_5,6,Fiordaliso,Oramai,C. Daiano- A. Valsiglio-Depsa,2.701 (2.650)
+1983_6,7,Stefano Sani,Complimenti,L. Albertelli-A. Fornaciari,2.674
+1983_7,8,Gianni Morandi,La mia nemica amatissima,Mogol- G. Bella-G. Morandi,2.593
+1983_8,9,Amii Stewart,Working Late Tonight,M. Capuano- G. Capuano-S. Boswell,2.592
+1983_9,10,Marco Armani,È la vita,M. Armani-P. Armenise,2.586
+1984_0,1,Al Bano-Romina Power,Ci sarà,C. Minellono-D. Farina,2.122.616
+1984_1,2,Toto Cutugno,Serenata,S. Cutugno-V. Pallavicini,1.042.864
+1984_2,3,Christian,Cara,M. Balducci,486.102
+1984_3,4,Pupo,Un amore grande,G. Savio- G. Bigazzi-U. Tozzi,409.954
+1984_4,5,Fiordaliso,Non voglio mica la luna,E. Malepasso- L. Albertelli-A. Fornaciari,358.626
+1984_5,6,Mario Castelnuovo,Nina,M. Castelnuovo,266.020
+1984_6,7,Anna Oxa,Non scendo,O. Avogadro-M. Lavezzi,238.960
+1984_7,8,Drupi,Regalami un sorriso,A. Cogliati- G. Anelli-F. Fasano,232.536
+1984_8,9,Iva Zanicchi,Chi (Mi darà),U. Balsamo-C. Malgioglio,221.908
+1984_9,10,Patty Pravo,Per una bambola,M. Monti,175.414
+1984_0,1,Eros Ramazzotti,Terra promessa,E. Ramazzotti- A. Salerno-R. Brioschi,99
+1984_1,2,Marco Armani,Solo con l'anima mia,R. Cellamare-L. Carboni,58
+1984_2,3,Flavia Fortunato,Aspettami ogni sera,E. Palumbo- V. Magelli- Lazzari-Sebastiani,43
+1984_3,4,Canton,Sonnambulismo,L. Schiavone-E. Ruggeri,25
+1984_4,5,Valentino,Notte di luna,S. Basile,23
+1984_5,6,Ivano Calcagno,Principessa delle rose,I. Calcagno,22
+1984_6,7,Fabio Vanni,Lei balla sola,F. Poli-E. Paselli,16
+1984_7,8,Dhuo,Walkin',M. Logan-B. Bergonzi,15
+1985_0,1,Ricchi e Poveri,Se m'innamoro,D. Farina-C. Minellono,1.506.812
+1985_1,2,Luis Miguel,"Noi, ragazzi di oggi",T. Cutugno-C. Minellono,843.494
+1985_2,3,Gigliola Cinquetti,Chiamalo amore,D. Farina-P. A. Cassella,788.772
+1985_3,4,Riccardo Fogli,Sulla buona strada,M. Fabrizio-V. Spampinato,770.188
+1985_4,5,Christian,Notte serena,M. Balducci,674.024
+1985_5,6,Eros Ramazzotti,Una storia importante,E. Ramazzotti- P. Cassano-A. Cogliati,606.338
+1985_6,7,Anna Oxa,A lei,R. Vecchioni-M. Paoluzzi,580.176
+1985_7,8,Fiordaliso,Il mio angelo,L. Albertelli-E. Malepasso,479.812
+1985_8,9,Peppino Di Capri,E mo' e mo',G. Faiella- Depsa-F. Fasano,409.954
+1985_9,10,Matia Bazar,Souvenir,A. Stellita- C. Marrale-S. Cossu,380.410
+1985_0,1,Cinzia Corrado,Niente di più,Cavaros-P. Mangini,638
+1985_1,2,Miani,Me ne andrò,Miani-P. Montanari,637
+1985_2,3,Lena Biolcati,Innamoratevi come me,V. Negrini-R. Facchinetti,636
+1985_3,4,Cristiano De André,Bella più di me,R. Ferri- C. De André-F. Mussida,627
+1985_4,5,Marco Rancati,Occhi neri,R. Cellamare,607
+1985_5,6,Stefano Borgia,Se ti senti veramente un amico,S. Borgia,606
+1985_6,7,Lanfranco Carnacina,A goccia a goccia,Cashin- M. Colucci- L. Carnacina- D. Pace-S. Testi,551
+1985_7,8,Antonella Ruggiero,Sul mare,M. Vicino- D. Pace-M. Fabrizio,542
+1986_0,1,Eros Ramazzotti,Adesso tu,E. Ramazzotti- P. Cassano-A. Cogliati,2.667.284
+1986_1,2,Renzo Arbore,Il clarinetto,C. Mattone-L. G. Arbore,2.185.692
+1986_2,3,Marcella Bella,Senza un briciolo di testa,G. Bella- Mogol-G. Westley,2.170.986
+1986_3,4,Toto Cutugno,Azzurra malinconia,S. Cutugno,1.700.648
+1986_4,5,Anna Oxa,È tutto un attimo,A. Cogliati- F. Ciani- M. Lavezzi-U. Smaila,1.675.098
+1986_5,6,Orietta Berti,Futuro,U. Balsamo-L. Raggi,1.381.726
+1986_6,7,Nino D'Angelo,Vai,G. D'Angelo-A. Annona,1.322.677
+1986_7,8,Fred Bongusto,Cantare,S. Iodice- F. Bongusto-M. Di Francia,863.202
+1986_8,9,Loredana Bertè,Re,A. Mango-G. Mango,742.124
+1986_9,10,Fiordaliso,Fatti miei,Zucchero Fornaciari- E. Malepasso-L. Albertelli,629.856
+1986_0,1,Lena Biolcati,Grande grande amore,S. D'Orazio-M. Fabrizio,720
+1986_1,2,Aleandro Baldi,La nave va,A. Civai,708
+1986_2,3,Giampiero Artegiani,...E le rondini sfioravano il grano,G. Artegiani-M. Marrocchi,620
+1986_3,4,Lanfranco Carnacina,E camminiamo,P. Calabrese- F. Ventura-L. Carnacina,604
+1986_4,5,Meccano,Ipnotica,E. Aldrighetti-W. Bassani,583
+1986_5,6,Francesco Hertz,Ma non finisce mica qui,G. Morra-M. Fabrizio,568
+1986_6,7,Chiari-Forti,Come una guerra,Cheope-O. Angelillo,539
+1987_0,1,Gianni Morandi- Enrico Ruggeri-Umberto Tozzi,Si può dare di più,G. Bigazzi- U. Tozzi-R. Riefoli,5.575.402
+1987_1,2,Toto Cutugno,Figli,S. Cutugno,5.299.344
+1987_2,3,Al Bano-Romina Power,Nostalgia canaglia,V. Pallavicini- W. Molco- A. Carrisi- R. Power-V. Mercurio,4.415.396
+1987_3,4,Fausto Leali,Io amo,T. Cutugno- G. Fasano- I. Ianne-F. Leali,2.390.316
+1987_4,5,Peppino Di Capri,Il sognatore,T. Cutugno-Depsa,2.113.446
+1987_5,6,Marcella,Tanti auguri,G. Paoli-G. Bella,1.833.606
+1987_6,7,Ricchi e Poveri,Canzone d'amore,T. Cutugno- G. Rampazzo-D. Farina,1.452.680
+1987_7,8,Fiorella Mannoia,Quello che le donne non dicono,E. Ruggeri-L. Schiavone,1.082.624
+1987_8,9,Luca Barbarossa,Come dentro un film,L. Barbarossa,916.812
+1987_9,10,Christian,Aria e musica,S. Amato-F. Morgia,785.680
+1987_0,1,Michele Zarrillo,La notte dei pensieri,L. Albertelli- L. Lopez- D. Baima Besquet-M. Zarrillo,1.225
+1987_1,2,Miki,Straniero,M. Porru-M. Tansini,1.175
+1987_2,3,Future,Briciole di pane,M. Festuccia,1.161
+1987_3,4,Andrea Mirò,Notte di Praga,A. Istroni-G. Pegoraro,1.086
+1987_4,5,Enrico Cifiello,Un bacio alla mia età,S. Testi- R. Zaneli-R. Musumarra,1.052
+1987_5,6,Claudio Patti,La forza della mente,C. Patti-N. Piras,1.003
+1987_6,7,Ricky Palazzolo,In volo nel futuro,A. Salerno-R. Brioschi,990
+1987_7,8,Mariella Nava,Fai piano,M. G. Nava,849
+1988_0,1,Massimo Ranieri,Perdere l'amore,M. Marrocchi-G. Artegiani,7.327.344
+1988_1,2,Toto Cutugno,Emozioni,T. Cutugno,4.800.912
+1988_2,3,Luca Barbarossa,L'amore rubato,L. Barbarossa,2.510.100
+1988_3,4,Marcella,Dopo la tempesta,A. Salerno-G. Bella,1.543.532
+1988_4,5,Fausto Leali,Mi manchi,F. Berlincioni-G. Fasano,1.442.346
+1988_5,6,Mino Reitano,Italia,U. Balsamo,1.149.372
+1988_6,7,Anna Oxa,Quando nasce un amore,A. Cogliati- F. Ciani-P. Cassano,853.124
+1988_7,8,Fiordaliso con Claudio Cabrini,Per noi,T. Cutugno,758.874
+1988_8,9,Ricchi e Poveri,Nascerà Gesù,U. Balsamo,654.466
+1988_9,10,Fiorella Mannoia,Le notti di maggio,I. Fossati,615.478
+1988_0,1,Future,Canta con noi,M. Battistini- M. Reitano- G. Reitano- F. Sacco-R. Bolognesi,1.255
+1988_1,2,Stefano Palatresi,Una carezza d'aiuto,R. Arbore-C. Mattone,1.199
+1988_2,3,Lijao,Per noi giovani,P. Cassano- L. Visentin-A. Cogliati,1.151
+1988_3,4,Miki,Ogni tanto si sogna,M. Porru,1.135
+1989_0,1,Anna Oxa-Fausto Leali,Ti lascerò,G. Fasano- F. Leali- F. Ciani- F. Berlincioni-S. Bardotti,5.851.574
+1989_1,2,Toto Cutugno,Le mamme,T. Cutugno-S. Borgia,1.969.704
+1989_2,3,Al Bano-Romina Power,Cara terra mia,A. Carrisi- R. Power-V. Pallavicini,1.188.172
+1989_3,4,Riccardo Fogli,Non finisce così,Laurex- M. Patrignani- C. Cofani-F. Evangelisti,985.291
+1989_4,5,Jovanotti,Vasco,L. Cherubini- C. Cecchetto-L. Cersosimo,981.646
+1989_5,6,Fiordaliso con Claudio Cabrini,Se non avessi te,T. Cutugno,907.979
+1989_6,7,Francesco Salvi,Esatto!,F. Salvi- S. Melloni-M. Natale,869.662
+1989_7,8,Ricchi e Poveri,Chi voglio sei tu,P. Cassano-A. Cogliati,681.179
+1989_8,9,Mia Martini,Almeno tu nell'universo,B. Lauzi-M. Fabrizio,651.484
+1989_9,10,Ornella Vanoni,Io come farò,M. Pagani- G. Paoli-S. Bardotti,589.356
+1989_0,1,Paola Turci,Bambini,R. Righini-A. Rizzo,1.732
+1989_1,2,Stefano Borgia,Sei tu,T. Cutugno-S. Borgia,1.565
+1989_2,3,Aleandro Baldi,E sia così,A. Civai,1.345
+1989_3,4,Gepy & Gepy,Per lei,Sergepy,789
+1990_0,1,Pooh,Uomini soli,V. Negrini-C. Facchinetti,0
+1990_1,2,Toto Cutugno,Gli amori,F. Berlincioni- S. Cutugno-Depsa,0
+1990_2,3,Amedeo Minghi-Mietta,Vattene amore,A. Minghi- P. Panella-A. Martelli,0
+1990_0,1,Marco Masini,Disperato,M. Masini- G. Bigazzi-G. Dati,0
+1990_1,2,Franco Fasano,Vieni a stare qui,F. Berlincioni- A. Cogliati- I. Ianne-G. Fasano,0
+1990_2,3,Gianluca Guidi,Secondo te,G. Calabrese-A. Martelli,0
+1991_0,1,Riccardo Cocciante,Se stiamo insieme,R. Cocciante-Mogol,0
+1991_1,2,Renato Zero,Spalle al muro,M. Nava,0
+1991_2,3,Marco Masini,Perché lo fai,G. Bigazzi- M. Manzani-M. Masini,0
+1991_3,4,Umberto Tozzi,Gli altri siamo noi,U. Tozzi-G. Bigazzi,0
+1991_4,5,Pierangelo Bertoli-Tazenda,Spunta la Luna dal monte,L. Marielli-P. Bertoli,0
+1991_5,6,Amedeo Minghi,Nené,A. Minghi-P. Panella,0
+1991_6,7,Mietta,Dubbi no,A. Minghi-P. Panella,0
+1991_7,8,Al Bano-Romina Power,Oggi sposi,Depsa-G. Andreetto,0
+1991_8,9,Riccardo Fogli,Io ti prego di ascoltare,G. Morra-M. Fabrizio,0
+1991_9,10,Raf,Oggi un Dio non ho,R. Riefoli-G. Dati,0
+1991_0,1,Paolo Vallesi,Le persone inutili,G. Dati-P. Vallesi,0
+1991_1,2,Irene Fargo,La donna di Ibsen,E. Miceli-G. Lorefice,0
+1991_2,3,Rita Forte,È soltanto una canzone,E. Palumbo-A. Cheli,0
+1992_0,1,Luca Barbarossa,Portami a ballare,L. Barbarossa,7.865
+1992_1,2,Mia Martini,Gli uomini non cambiano,G. Dati- M. Falagiani-G. Bigazzi,7.247
+1992_2,3,Paolo Vallesi,La forza della vita,G. Dati-P. Vallesi,7.067
+1992_3,4,Pierangelo Bertoli,Italia d'oro,P. Bertoli-M. Negri,7.036
+1992_4,5,Massimo Ranieri,Ti penso,F. Berlincioni-S. Amato,6.745
+1992_5,6,Matia Bazar,Piccoli giganti,A. Stellita- S. Cossu- C. Marrale-L. Valente,6.731
+1992_6,7,Flavia Fortunato-Franco Fasano,Per niente al mondo,G. Fasano-F. Berlincioni,6.682
+1992_7,8,Tazenda,Pitzinnos in sa gherra,L. Marielli-F. De André,6.474
+1992_8,9,Fausto Leali,Perché,A. Civai-G. Bigazzi,6.445
+1992_9,10,Riccardo Fogli,In una notte così,G. Morra-M. Fabrizio,6.427
+1992_0,1,Aleandro Baldi-Francesca Alotta,Non amarmi,A. Civai- G. Bigazzi-M. Falagiani,8.808
+1992_1,2,Irene Fargo,Come una Turandot,E. Miceli-G. Lorefice,7.256
+1992_2,3,Alessandro Bono-Andrea Mingardi,Con un amico vicino,C. Mattone,7.001
+1992_3,4,Lorenzo Zecchino,Che ne sai della notte,L. Zecchino,6.840
+1992_4,5,Patrizia Bulgari,Amica di scuola,G. Ciarella-M. De Peppe,6.745
+1992_5,6,Alessandro Canino,Brutta,G. Dati-B. Zucchetti,6.699
+1992_6,7,Rita Forte,Non è colpa di nessuno,Comas- A. Bella-A. Zitelli,6.432
+1992_7,8,Massimo Modugno,Uomo allo specchio,F. Migliacci-F. Palazzolo,6.226
+1992_8,9,Statuto,Abbiamo vinto il Festival di Sanremo,O. Giammarinaro,5.238
+1993_0,1,Enrico Ruggeri,Mistero,E. Ruggeri,7.077
+1993_1,2,Cristiano De Andrè,Dietro la porta,D. Fossati-C. De Andrè,7.019
+1993_2,3,Rossana Casale-Grazia Di Michele,Gli amori diversi,R. Casale- G. Restelli-G. Di Michele,6.862
+1993_3,4,Matia Bazar,Dedicato a te,L. Valente- M. Bassi- S. Cossu- A. Stellita-C. Marrale,6.782
+1993_4,5,Renato Zero,Ave Maria,R. Fiacchini-R. Serio,6.773
+1993_5,6,Mietta-i Ragazzi di Via Meda,Figli di chi,D. Miglietta- A. De Sanctis- G. Isgrò-F. Neviani,6.770
+1993_6,7,Paola Turci,Stato di calma apparente,P. Turci-G. Chiocchio,6.693
+1993_7,8,Biagio Antonacci,Non so più a chi credere,B. Antonacci,6.554
+1993_8,9,Amedeo Minghi,"Notte bella, magnifica",A. Minghi,6.209
+1993_9,10,Francesca Alotta,Un anno di noi,G. Bigazzi- M. Falagiani-G. Dati,6.161
+1993_0,1,Laura Pausini,La solitudine,P. Cremonesi- A. Valsiglio-F. Cavalli,7.464
+1993_1,2,Gerardina Trovato,Ma non ho più la mia città,G. Trovato- D. Milani-M. Malavasi,7.209
+1993_2,3,Nek,In te,F. Neviani- A. De Sanctis-G. Isgrò,5.952
+1993_3,4,Bracco Di Graci,Guardia o ladro,D. Di Graci,5.890
+1993_4,5,Erminio Sinni,L'amore vero,E. Sinni-R. Cocciante,5.876
+1993_5,6,Rosario Di Bella,Non volevo,R. Di Bella,5.860
+1993_6,7,Marco Conidi,Non è tardi,M. Conidi-M. Mastrangeli,5.648
+1993_7,8,Fandango,Non ci prenderanno mai,L. Fiori-R. Lanzo,5.007
+1993_8,9,Tony Blescia,Quello che non siamo,A. Blescia,4.679
+1994_0,1,Aleandro Baldi,Passerà,A. Civai- G. Bigazzi-M. Falagiani,27.145
+1994_1,2,Giorgio Faletti,Signor tenente,G. Faletti,25.742
+1994_2,3,Laura Pausini,Strani amori,A. Valsiglio- R. Buti- Cheope- M. Marati-F. Tanini,25.587
+1994_3,4,Gerardina Trovato,Non è un film,A. Anastasio- C. Valli-G. Trovato,25.076
+1994_4,5,Michele Zarrillo,Cinque giorni,V. Incenzo-M. Zarrillo,23.441
+1994_5,6,Enzo Jannacci-Paolo Rossi,I soliti accordi,E. Jannacci- P. Rossi-P. Jannacci,22.413
+1994_6,7,Ivan Graziani,Maledette malelingue,I. Graziani,22.248
+1994_7,8,Andrea Mingardi,Amare amare,A. Mingardi-M. Tirelli,21.863
+1994_8,9,Marco Armani,Esser duri,M. Armenise-L. Carboni,19.359
+1994_9,10,Donatella Rettore,Di notte specialmente,Cheope- D. Rettore-C. Rego,18.943
+1994_0,1,Andrea Bocelli,Il mare calmo della sera,Malise- G. P. Felisatti-G. Nuti,12.641
+1994_1,2,Antonella Arancio,Ricordi del cuore (Anime sole),C. Allia-R. Distefano,10.672
+1994_2,3,Danilo Amerio,Quelli come noi,D. Amerio,9.978
+1994_3,4,Irene Grandi,Fuori,Telonio-I. Grandi,9.743
+1994_4,5,Valeria Visconti,Così vivrai,E. Croce-R. Eleuteri,9.252
+1994_5,6,Lighea,Possiamo realizzare i nostri sogni,S. Jurgens- T. Montelpare-G. Galgani,9.204
+1994_6,7,Giorgia,E poi,G. Todrani- M. Calabrese-M. Rinalduzzi,9.171
+1994_7,8,Francesca Schiavo,Il mondo è qui,V. Venturi,8.832
+1994_8,9,Silvia Cecchetti,Il mondo dove va,V. B. Scanu,8.536
+1994_9,10,Giò Di Tonno,Senti uomo,G. Di Tonno-A. Di Zio,8.294
+1995_0,1,Giorgia,Come saprei,G. Todrani- E. Ramazzotti- V. Tosetto-A. Cogliati,20.885
+1995_1,2,Gianni Morandi-Barbara Cola,In amore,Duchesca-B. Zambrini,19.774
+1995_2,3,Ivana Spagna,Gente come noi,I. Spagna- G. Spagna- F. Zanotti- A. Valsiglio-M. Marati,18.768
+1995_3,4,Andrea Bocelli,Con te partirò,L. Quarantotto-F. Sartori,18.270
+1995_4,5,Fiorello,Finalmente tu,M. Pezzali-M. Repetto,18.025
+1995_5,6,Danilo Amerio,Bisogno d'amore,D. Amerio,16.999
+1995_6,7,Lighea,Rivoglio la mia vita,Zenonazza- T. Montelpare-M. Pecora,16.656
+1995_7,8,883,Senza averti qui,M. Pezzali- P. P. Peroni-M. Guarniero,16.415
+1995_8,9,Antonella Arancio,Più di così,F. Carraresi- F. Migliacci- L. Bechelli-M. Goldsand,16.382
+1995_9,10,Lorella Cuccarini,Un altro amore no,V. Incenzo- D. Pinelli-S. Testi,15.820
+1995_0,1,Neri per Caso,Le ragazze,C. Mattone,13.202
+1995_1,2,Massimo Di Cataldo,Che sarà di me,V. Incenzo- Laurex-M. Di Cataldo,9.981
+1995_2,3,Gigi Finizio,Lo specchio dei pensieri,G. Finizio-V. Capasso,9.751
+1995_3,4,Rossella Marcone,Un posto al sole,M. Morante,9.528
+1995_4,5,Dhamm,Ho bisogno di te,A. Ventura- M. Conti- D. Benedetti-M. Munzi,9.485
+1995_5,6,Gianluca Grignani,Destinazione Paradiso,G. Grignani,9.434
+1995_6,7,Raffaella Cavalli,Sentimento,M. Marati-A. Valsiglio,9.354
+1995_7,8,Fedele Boccassini,Le foglie,F. Boccassini,9.148
+1995_8,9,Mara,Dentro di me,M. Riva-D. Civaschi,8.984
+1995_9,10,Daniele Silvestri,L'uomo col megafono,D. Silvestri,8.392
+1996_0,1,Ron-Tosca,Vorrei incontrarti fra cent'anni,R. Cellamare,18.591
+1996_1,2,Elio-le Storie Tese,La terra dei cachi,D. Civaschi- S. Belisari- S. Conforti-N. Fasani,18.080
+1996_2,3,Giorgia,Strano il mio destino,M. Fabrizio-G. Todrani,17.881
+1996_3,4,Ivana Spagna,E io penso a te,I. Spagna-G. Spagna,17.681
+1996_4,5,Neri per Caso,Mai più sola,C. Mattone,16.949
+1996_5,6,Massimo Di Cataldo,Se adesso te ne vai,M. Di Cataldo-B. Laurenti,16.561
+1996_6,7,Al Bano,È la mia vita,P. Marino-M. Fabrizio,16.305
+1996_7,8,Aleandro Baldi-Marco Guerzoni,Soli al bar,F. Palmieri- G. Bigazzi-A. Civai,16.139
+1996_8,9,Amedeo Minghi,Cantare è d'amore,A. Minghi-P. Panella,15.990
+1996_9,10,Paola Turci,Volo così,P. Turci-R. Casini,15.854
+1996_0,1,Syria,Non ci sto,M. Saracino,17.649
+1996_1,2,Adriana Ruocco,Sarò bellissima,F. Migliacci- S. Cenci- E. Fratini-L. Silvi,17.321
+1996_2,3,Marina Rei,Al di là di questi anni,F. Minoia-M. Rei,17.177
+1996_3,4,O.R.O.,Quando ti senti sola,A. Manfredi-M. Manzani,16.534
+1996_4,5,Silvia Salemi,Quando il cuore,G. Artegiani,16.441
+1996_5,6,Jalisse,Liberami,C. Di Domenico-F. Ricci,15.329
+1996_6,7,Olivia,Sottovoce,F. Evangelisti- S. Borzi-S. Mattoccia,15.321
+1996_7,8,Carmen Consoli,Amore di plastica,C. Consoli-M. Venuti,15.053
+1996_8,9,Petra Magoni,E ci sei,M. D'Angelo- M. Rinalduzzi- M. Calabrese- M. Zenima Granieri-P. Magoni,14.961
+1996_9,10,Camilla,Zerotretresette,P. Martella- C. Lessona- M. Violante-Kynsha,14.949
+1997_0,1,Jalisse,Fiumi di parole,C. Di Domenico- A. Drusian-F. Ricci,15.325
+1997_1,2,Anna Oxa,Storie,Depsa- M. Marati- S. Monetti- A. Valsiglio-F. Zanotti,14.911
+1997_2,3,Syria,Sei tu,C. Mattone-A. Salerno,14.753
+1997_3,4,Silvia Salemi,A casa di Luca,G. Artegiani,14.635
+1997_4,5,Fausto Leali,Non ami che te,R. Pacco,14.550
+1997_5,6,O.R.O.,Padre Nostro,E. Ruggeri-M. Manzani,14.145
+1997_6,7,Nek,Laura non c'è,A. De Sanctis- F. Neviani-M. Varini,13.995
+1997_7,8,Patty Pravo,...E dimmi che non vuoi morire,V. Rossi- G. Curreri-R. Ferri,13.490
+1997_8,9,Massimo Ranieri,Ti parlerò d'amore,G. Togni-G. Morra,13.016
+1997_9,10,Tosca,Nel respiro più grande,S. Tamaro-R. Cellamare,13.009
+1997_0,1,Paola-Chiara,Amici come prima,P. Iezzi-C. Iezzi,0
+1998_0,1,Annalisa Minetti *,Senza te o con te,M. Luca-P. Palma,0
+1998_1,2,Antonella Ruggiero,Amore lontanissimo,A. Ruggiero-Roberto Colombo,0
+1998_2,3,Lisa *,Sempre,G. Morra-M. Fabrizio,0
+1998_3,4,Paola Turci,Solo come me,P. Turci-R. Casini,0
+1998_4,5,Silvia Salemi,Pathos,G. Artegiani-S. Salemi,0
+1998_5,6,Mango-Zenîma,Luce,A. Salerno- A. Mango-P. Mango,0
+1998_6,7,Luca Sepe *,Un po' di te,F. Leali- E. Malepasso- L. Sepe-M. Schembri,0
+1998_7,8,Niccolò Fabi,Lasciarsi un giorno a Roma,C. Dazzi- D. Sinigallia- N. Fabi-R. Sinigallia,0
+1998_8,9,Ron,Un porto nel vento,R. Cellamare- F. Coppini-G. Zagni,0
+1998_9,10,Andrea Mingardi,Canto per te,A. Mingardi-M. Tirelli,0
+1998_0,1,Annalisa Minetti,Senza te o con te,M. Luca-P. Palma,0
+1998_1,2,Lisa,Sempre,G. Morra-M. Fabrizio,0
+1998_2,3,Luca Sepe,Un po' di te,F. Leali- E. Malepasso- L. Sepe-M. Schembri,0
+1999_0,1,Anna Oxa,Senza pietà,A. Salerno-C. Guidetti,0
+1999_1,2,Antonella Ruggiero,Non ti dimentico (Se non ci fossero le nuvole),A. Ruggiero- Kaballà-R. Colombo,0
+1999_2,3,Mariella Nava,Così è la vita,M. Nava,0
+1999_3,4,Enzo Gragnaniello con Ornella Vanoni,Alberi,E. Gragnaniello,0
+1999_4,5,Stadio,Lo zaino,V. Rossi-G. Curreri,0
+1999_5,6,Al Bano,Ancora in volo,M. Bizzarri- G. Marcucci-A. Carrisi,0
+1999_6,7,Marina Rei,Un inverno da baciare,M. Rei-D. Pinelli,0
+1999_7,8,Nino D'Angelo,Senza giacca e cravatta,G. D'Angelo-C. Tortora,0
+1999_8,9,Daniele Silvestri,Aria,D. Silvestri,0
+1999_9,10,Nada,Guardami negli occhi,N. Malanima,0
+1999_0,1,Alex Britti,Oggi sono io,A. Britti,0
+1999_1,2,Filippa Giordano,Un giorno in più,A. Cogliati- S. Galante-V. Thoma,0
+1999_2,3,Leda Battisti,Un fiume in piena,L. Battisti,0
+1999_3,4,Arianna,C'è che ti amo,V. Chiaravalle-A. Bergamaschi,0
+1999_4,5,Daniele Groff,Adesso,D. Groff,0
+1999_5,6,Elena Cataneo,Nessuno può fermare questo tempo,S. Cenci-R. Zappalorto,0
+1999_6,7,Francesca Chiara,Ti amo che strano,M. Spina- F. C. Casellati-T. Palamara,0
+1999_7,8,Max Gazzè,Una musica può fare,M. Gazzè-F. Gazzè,0
+1999_8,9,Allegra,Puoi fidarti di me,A. Lusini,0
+1999_9,10,Soerba,Noi non ci capiamo,L. Urbani-G. D'Amora,0
+2000_0,1,Piccola Orchestra Avion Travel,Sentimento,D. Ciaramella- G. D'Argenzio- F. Mesolella- F. Spinetti-M. Tronco e G. Servillo,0
+2000_1,2,Irene Grandi,La tua ragazza sempre,V. Rossi-G. Curreri,0
+2000_2,3,Gianni Morandi,Innamorato,A. Cogliati- E. Ramazzotti-C. Guidetti,0
+2000_3,4,Max Gazzè,Il timido ubriaco,M. Gazzè-F. Gazzè,0
+2000_4,5,Samuele Bersani,Replay,S. Bersani- L. Dalla-B. D'Onghia,0
+2000_5,6,Gerardina Trovato,Gechi e vampiri,G. Trovato-T. Sinatra,0
+2000_6,7,Carmen Consoli,In bianco e nero,C. Consoli,0
+2000_7,8,Matia Bazar,Brivido caldo,G. Golzi-P. Cassano,0
+2000_8,9,Alice,Il giorno dell'indipendenza,J. Camisasca,0
+2000_9,10,Gigi D'Alessio,Non dirgli mai,V. D'Agostino-L. D'Alessio,0
+2000_0,1,Jenny B,Semplice sai,F. Minoia-G. Bersola,0
+2000_1,2,Tiromancino-Riccardo Sinigallia,Strade,F. Zampaglione- F. Zampaglione-R. Sinigallia,0
+2000_2,3,Luna,Cronaca,C. Mattone,0
+2000_3,4,Andrea Mirò,La canzone del perdono,E. Ruggeri-R. Mogliotti,0
+2000_4,5,Davide De Marinis,Chiedi quello che vuoi,D. De Marinis- C. Farolfi-D. Bosio,0
+2000_5,6,Padre Alfonso Maria Parente,Che giorno sarà,A. Parente,0
+2000_6,7,Lythium,Noël,S. Piro,0
+2000_7,8,Enrico Sognato,E io ci penso ancora,E. Sognato,0
+2000_8,9,Marjorie Biondo,Le margherite,M. Biondo-M. Fiorilla,0
+2000_9,10,Erredieffe,Ognuno per sé,P. Calabrese,0
+2001_0,1,Elisa,Luce (tramonti a nord est),E. Toffoli-Zucchero Fornaciari,0
+2001_1,2,Giorgia,Di sole e d'azzurro,Zucchero Fornaciari- M. Saggese-M. Vergnaghi,0
+2001_2,3,Matia Bazar,Questa nostra grande storia d'amore,G. Golzi-P. Cassano,0
+2001_3,4,Michele Zarrillo,L'acrobata,V. Incenzo-M. Zarrillo,0
+2001_4,5,Paola Turci,Saluto l'inverno,P. Turci-C. Consoli,0
+2001_5,6,Jenny B,Anche tu,G. Golzi-P. Cassano,0
+2001_6,7,Alex Britti,Sono contento,A. Britti,0
+2001_7,8,Gigi D'Alessio,Tu che ne sai,V. D'Agostino-L. D'Alessio,0
+2001_8,9,Fabio Concato,Ciao Ninìn,F. Concato,0
+2001_9,10,Anna Oxa,L'eterno movimento,G. Fulcheri-Laurex,0
+2001_0,1,Gazosa,Stai con me (Forever),E. Caterini- S. Nasuti-S. Borzi,0
+2001_1,2,Moses,Maggie,M. Di Franco- S. Moschetto-A. Zuppini,0
+2001_2,3,Francesco-Giada,Turuturu,F. Boccia-G. Caliendo,0
+2001_3,4,Principe e Socio M.,Targato NA,M. Spenillo-A. De Carmine,0
+2001_4,5,Carlotta,Promessa,Carlotta- Assolo- L. Angelosanti- M. De Iaco- D. Massa- F. Morettini-A. Zuccaro,0
+2001_5,6,Francesco Renga,Raccontami...,P. Renga-U. Iervolino,0
+2001_6,7,Paolo Meneguzzi,Ed io non ci sto più,R. Zappalorto,0
+2001_7,8,Carlito,Emily,C. De Bei,0
+2001_8,9,XSense,Luna,P. Brera- A. Branca- J. Monasta-G. Godi,0
+2001_9,10,Roberto Angelini,Il Signor Domani,R. Angelini,0
+2002_0,1,Matia Bazar,Messaggio d'amore,G. Golzi-P. Cassano,17.449
+2002_1,2,Alexia,Dimmi come...,A. Aquilani-M. Marcolini,16.973
+2002_2,3,Gino Paoli,Un altro amore,G. Paoli,16.507
+2002_3,4,Fausto Leali-Luisa Corna,Ora che ho bisogno di te,F. Berlincioni- F. Leali-V. Tosetto,16.311
+2002_4,5,Enrico Ruggeri,Primavera a Sarajevo,E. Ruggeri,15.857
+2002_5,6,Mariella Nava,Il cuore mio,M. Nava,15.390
+2002_6,7,Filippa Giordano,Amarti sì,L. Quarantotto-A. Napoletano,15.257
+2002_7,8,Francesco Renga,Tracce di te,F. Renga,14.888
+2002_8,9,Fiordaliso,Accidenti a te,G. Bigazzi-M. Falagiani,14.717
+2002_9,10,Gazosa,Ogni giorno di più,M. Z. Granieri- R. Siani-S. Sichel,14.538
+2002_0,1,Anna Tatangelo,Doppiamente fragili,M. Del Freo-D. Marchetti,7.654
+2002_1,2,Valentina Giovagnini,Il passo silenzioso della neve,V. Incenzo-D. Pinelli,7.633
+2002_2,3,Simone Patrizi,Se poi mi chiami,F. Fiumara,7.020
+2002_3,4,Gianni Fiorellino,Ricomincerei,A. Casaburi-G. Fiorellino,6.680
+2002_4,5,Archinuè,La marcia dei santi,F. Sciacca,6.643
+2002_5,6,78 Bit,Fotografia,G. Novi- M. Monticelli- F. Serafini- M. Pasini- S. Dionigi-M. Pilato,6.110
+2002_6,7,Marco Morandi,Che ne so,M. Morandi-F. Godi,6.076
+2002_7,8,Botero,Siamo treni,L. Santoro-F. Riccardi,6.025
+2002_8,9,Andrea Febo,All'infinito,A. Carnevali- A. Febo-S. Profeta,5.757
+2002_9,10,Daniele Vit,Non finirà,D. De Vitis-L. Panico,5.741
+2003_0,1,Alexia,Per dire di no,A. Salerno-Alexia,24.248
+2003_1,2,Alex Britti,7000 caffè,A. Britti,23.298
+2003_2,3,Sergio Cammariere,Tutto quello che un uomo,R. Kunstler-S. Cammariere,21.919
+2003_3,4,Enrico Ruggeri-Andrea Mirò,Nessuno tocchi Caino,E. Ruggeri-A. Mirò,21.779
+2003_4,5,Syria,L'amore è,Jovanotti,20.482
+2003_5,6,Lisa,Oceano,M. Malavasi- Leozed-A. Sandri,20.310
+2003_6,7,Giuni Russo,Morirò d'amore,G. Russo- V. Magelli-M. A. Sisini,18.147
+2003_7,8,Silvia Salemi,Nel cuore delle donne,G. Artegiani-S. Salemi,17.869
+2003_8,9,Antonella Ruggiero,Di un amore,A. Ruggiero-A. Volpe,17.722
+2003_9,10,Luca Barbarossa,Fortuna,L. Barbarossa,17.487
+2003_0,1,Dolcenera,Siamo tutti là fuori,Dolcenera,0
+2003_1,2,Alina,Un piccolo amore,A. De Sanctis- A. Bettini- M. Telli-A. Cheli,0
+2003_2,3,Zurawski,Lei che,A. Zurawski- V. Tempera-M. Martellini,0
+2003_3,4,Verdiana,Chi sei non lo so,V. Centrone- E. Giudizi-M. Minoia,0
+2003_4,5,Gianni Fiorellino,Bastava un niente,A. Casaburi-G. Fiorellino,0
+2003_5,6,Daniele Stefani,Chiaraluna,G. Boursier-D. Stefani,0
+2003_6,7,Patrizia Laquidara,Lividi e fiori,G. Romanelli-P. Laquidara,0
+2003_7,8,Elsa Lila,Valeria,L. Bechelli- G. Mattei-M. Marati,0
+2003_8,9,Roberto Giglio,Cento cose,R. Giglio,0
+2003_9,10,Jacqueline Maiello Ferry,Vicina e lontana,J. Maiello Ferry-J. M. Maiello Ferry,0
+2004_0,1,Marco Masini,L'uomo volante,M. Masini- G. Dati-G. Orlandi,295.639
+2004_1,2,Mario Rosini,Sei la vita mia,A. Leone- L. Patruno- C. Noto- L. Rana-G. Giorgilli,152.479
+2004_2,3,Linda,"Aria, sole, terra e mare",L. Valori- L. Bruti- M. Di Paolo- D. De Santis,134.636
+2004_3,4,Paolo Meneguzzi,Guardami negli occhi (Prego),P. Meneguzzo- R. Di Bella- L. Mattioni-D. Melotti,127.346
+2004_4,5,Bungaro,Guardastelle,G. Romanelli-Bungaro,75.613
+2004_5,6,Massimo Modugno-Gipsy Kings,Quando l'aria mi sfiora,Mogol-G. Bella,62.930
+2004_6,7,Stefano Picchi,Generale Kamikaze,S. Picchi,61.343
+2004_7,8,Morris Albert-Mietta,Cuore,S. Dall'Ora-S. Boffa,51.362
+2004_8,9,Neffa,Le ore piccole,G. Pellino,45.696
+2004_9,10,Mario Venuti,Crudele,M. Venuti-Kaballà,45.545
+2005_0,1,Francesco Renga,Angelo,F. Renga-M. Zappatini,"54,41%"
+2005_1,2,Toto Cutugno-Annalisa Minetti,Come noi nessuno al mondo,S. Cutugno,"17,79%"
+2005_2,3,Antonella Ruggiero,Echi d'infinito,M. Venuti-Kaballà,"16,45%"
+2005_3,4,Nicky Nicolai-Stefano Di Battista Jazz Quartet,Che mistero è l'amore,M. Fabrizio- G. Lucariello-P. Marino,"7,21%"
+2005_4,5,Laura Bono,Non credo nei miracoli,L. Bonometti- M. Natale-P. Cassano,"4,13%"
+2006_0,1,Povia,Vorrei avere il becco,G. Povia,"10,45%"
+2006_1,2,Nomadi,Dove si va,C. Cattini- D. Sacco- M. Vecchi-G. Carletti,"9,58%"
+2006_2,3,Anna Tatangelo,Essere una donna,L. D'Alessio-Mogol,"5,75%"
+2006_3,4,Riccardo Maffoni,Sole negli occhi,R. Maffoni,"3,21%"
+2007_0,1,Simone Cristicchi,Ti regalerò una rosa,S. Cristicchi,"8,22%"
+2007_1,2,Al Bano,Nel perdono,R. Zero- V. Incenzo- A. Paoletti-Y. Carrisi,"7,22%"
+2007_2,3,Piero Mazzocchetti,Schiavo d'amore,G. Morra-M. Fabrizio,"6,51%"
+2007_3,4,Daniele Silvestri,La paranza,D. Silvestri,"5,64%"
+2007_4,5,Mango,Chissà se nevica,G. Mango-C. De Bei,"5,46%"
+2007_5,6,Paolo Meneguzzi,Musica,P. Meneguzzi- R. Di Bella-D. Melotti,"5,38%"
+2007_6,7,Tosca,Il terzo fuochista,R. Mascellino- M. Venturiello-Tosca,"5,32%"
+2007_7,8,Francesco-Roby Facchinetti,Vivere normale,S. Bertolotti- D. Calvetti- M. Ciappelli-F. Facchinetti,"5,05%"
+2007_8,9,Zero Assoluto,Appena prima di partire,M. Maffucci- T. De Gasperi- D. Pao ed E. Ciarallo,"5,04%"
+2007_9,10,Antonella Ruggiero,Canzone fra le guerre,C. Carrara-A. Ruggiero,"4,99%"
+2008_0,1,Giò Di Tonno-Lola Ponce,Colpo di fulmine,G. Nannini,"5,17%"
+2008_1,2,Anna Tatangelo,Il mio amico,L. D'Alessio,"4,88%"
+2008_2,3,Fabrizio Moro,Eppure mi hai cambiato la vita,F. Mobrici,"4,36%"
+2008_3,4,Toto Cutugno,Un falco chiuso in gabbia,S. Cutugno-D. De Marinis,"4,25%"
+2008_4,5,Finley,Ricordi,C. Ruggiero- D. Persoglio- M. Pedretti- S. Mantegazza-D. Calvio,"3,57%"
+2008_5,6,Paolo Meneguzzi,Grande,G. Panceri- P. Meneguzzo-D. Melotti,"3,33%"
+2008_6,7,Sergio Cammariere,L'amore non si spiega,R. Kunstler-S. Cammariere,"3,10%"
+2008_7,8,Gianluca Grignani,Cammina nel sole,G. Grignani,"2,77%"
+2008_8,9,Little Tony,Non finisce qui,D. Amerio,"2,64%"
+2008_9,10,Eugenio Bennato,Grande sud,E. Bennato,"2,57%"
+2008_0,1,Sonohra,L'amore,L. Fainello- R. Tini-D. Fainello,"2,85%"
+2008_1,2,La Scelta,Il nostro tempo,M. Del Forno- F. Ferraguzzo- F. Caprara- E. Mangia-R. Cardelli,"2,25%"
+2008_2,3,Jacopo Troiani,Ho bisogno di sentirmi dire ti voglio bene,S. Cenci,"1,15%"
+2009_0,1,Marco Carta,La forza mia,Paolo Carta,"57,62%"
+2009_1,2,Povia,Luca era gay,Giuseppe Povia,"25,27%"
+2009_2,3,Sal Da Vinci,Non riesco a farti innamorare,V. D'Agostino- L. D'Alessio-S. M. Sorrentino,"17,11%"
+2009_0,1,Arisa,Sincerità,G. Anastasi- G. Mangiaracina-M. Filardo,"7,00%"
+2009_1,2,Malika Ayane,Come foglie,G. Sangiorgi,0
+2009_2,3,Karima,Come in ogni ora,K. Ammar-P. Frassi,0
+2009_3,4,Chiara Canzian,Prova a dire il mio nome,C. Canzian-Pellecalamaio,0
+2009_4,5,Simona Molinari,Egocentrica,S. Molinari,0
+2009_5,6,Iskra,Quasi amore,L. Dalla- M. Alemanno-R. Costa,0
+2009_6,7,Filippo Perbellini,Cuore senza cuore,Cheope-R. Cocciante,0
+2009_7,8,Barbara Gilbo,Che ne sai di me,G. Bigazzi- B. Gilbo-S. Martelli,0
+2009_8,9,Irene Fornaciari,Spiove il sole,I. Fornaciari- C. Ori- E. Pietrelli-M. Marcolini,0
+2009_9,10,Silvia Aprile,Un desiderio arriverà,P. Daniele,0
+2010_0,1,Valerio Scanu,Per tutte le volte che...,P. Carone,"17,1% / 37,1% (Finalissima)"
+2010_1,2,Pupo ed Emanuele Filiberto con Luca Canonici,Italia amore mio,E. Filiberto ed E. Ghinazzi,"15,2% / 33,5% (Finalissima)"
+2010_2,3,Marco Mengoni,Credimi ancora,M. Mengoni- S. Fabiani- M. Calabrese-P. Calabrese,"10,2% / 29,4% (Finalissima)"
+2010_3,4,Noemi,Per tutta la vita,D. Calvetti- M. Ciappelli,"9,9%"
+2010_4,5,Malika Ayane,Ricomincio da qui,M. Ayane- Pacifico-F. Arnò,"9,8%"
+2010_5,6,Irene Fornaciari feat. Nomadi,Il mondo piange,A. Fornaciari- D. Dattoli-I. Fornaciari,"8,1%"
+2010_6,7,Simone Cristicchi,Meno male,S. Cristicchi- F. Di Gesù- E. Marcelli-A. Canini,"8,0%"
+2010_7,8,Irene Grandi,La cometa di Halley,F. Bianconi-I. Grandi,"7,8%"
+2010_8,9,Arisa,Malamorenò,G. Anastasi,"7,6%"
+2010_9,10,Povia,La verità,Povia,"6,3%"
+2010_0,1,Tony Maiello,Il linguaggio della resa,T. Maiello- F. Zanotti- F. Ferraguzzo-R. Cardelli,"7,43%"
+2010_1,2,Jessica Brando,Dove non ci sono ore,V. Rossi,"7,11%"
+2010_2,3,Nina Zilli,L'uomo che amava le donne,N. Zilli-Kaballà,"6,71%"
+2010_3,4,Luca Marino,Non mi dai pace,L. Marino,"4,12%"
+2011_0,1,Roberto Vecchioni,Chiamami ancora amore,R. Vecchioni,"43,0%"
+2011_1,2,Modà con Emma,Arriverà,F. Silvestre- E. Zapparoli-E. Palmosi,"29,3%"
+2011_2,3,Al Bano,Amanda è libera,F. Berlincioni- A. Carrisi-A. Paoletti,"5,5%"
+2011_3,4,Davide Van de Sfroos,Yanez,Davide Bernasconi,"5,3%"
+2011_4,5,Luca Madonia con Franco Battiato,L'alieno,Luca Madonia,"4,0%"
+2011_5,6,La Crus,Io confesso,M. E. Giovanardi-M. Curallo,"3,8%"
+2011_6,7,Nathalie,Vivo sospesa,Nathalie Giannitrapani,"3,5%"
+2011_7,8,Luca Barbarossa-Raquel del Rosario,Fino in fondo,Luca Barbarossa,"2,3%"
+2011_8,9,Anna Tatangelo,Bastardo,V. D'Agostino- A. Tatangelo-G. D'Alessio,"2,1%"
+2011_9,10,Giusy Ferreri,Il mare immenso,Bungaro- G. Ferreri-M. Calò,"1,2%"
+2011_0,1,Raphael Gualazzi,Follia d'amore,R. Gualazzi,0
+2011_1,2,Micaela,Fuoco e cenere,A. Santonocito- L. Nigro-F. Muggeo,0
+2011_2,3,Roberto Amadè,Come pioggia,R. Amadè,0
+2011_3,4,Serena Abrami,Lontano da tutto,N. Fabi,0
+2012_0,1,Emma,Non è l'inferno,F. Silvestre- E. Palmosi-L. Sala,"49,63% (Finalissima)"
+2012_1,2,Arisa,La notte,Giuseppe Anastasi,"35,53% (Finalissima)"
+2012_2,3,Noemi,Sono solo parole,F. Moro,"14,84% (Finalissima)"
+2012_3,4,Gigi D'Alessio-Loredana Bertè,Respirare,L. D'Alessio-V. D'Agostino,"12,09%"
+2012_4,5,Pierdavide Carone-Lucio Dalla,Nanì,P. Carone-L. Dalla,"10,76%"
+2012_5,6,Dolcenera,Ci vediamo a casa,Dolcenera,"8,22%"
+2012_6,7,Nina Zilli,Per sempre,R. Casalino-N. Zilli,"7,15%"
+2012_7,8,Francesco Renga,La tua bellezza,F. Renga- D. Mancino-D. Faini,"4,13%"
+2012_8,9,Samuele Bersani,Un pallone,S. Bersani,"3,09%"
+2012_9,10,Eugenio Finardi,E tu lo chiami Dio,R. Di Lorenzo,"1,10%"
+2012_0,1,Alessandro Casillo,È vero (che ci sei),M. Bassi-E. Bassi,"15,99%"
+2012_1,2,Iohosemprevoglia,Incredibile,V. Nacci,"3,01%"
+2012_2,3,Erica Mou,Nella vasca da bagno del tempo,E. Mou,"2,87%"
+2012_3,4,Marco Guazzone,Guasto,M. Guazzone- S. Costantini-D. Ceruti,"1,00%"
+2013_0,1,Marco Mengoni,L'essenziale,R. Casalino- M. Mengoni-F. De Benedittis,0
+2013_1,2,Elio-le Storie Tese,La canzone mononota,S. Belisari- S. Conforti- D. L. Civaschi-N. Fasani,0
+2013_2,3,Modà,Se si potesse non morire,Francesco Silvestre,0
+2013_3,4,Malika Ayane,E se poi,Giuliano Sangiorgi,0
+2013_4,5,Raphael Gualazzi,Sai (ci basta un sogno),Raphael Gualazzi,0
+2013_5,6,Daniele Silvestri,A bocca chiusa,Daniele Silvestri,0
+2013_6,7,Max Gazzè,Sotto casa,M. Gazzè- F. Gazzè-F. De Benedittis,0
+2013_7,8,Chiara,Il futuro che sarà,F. Bianconi- L. Chiaravalli-L. Gonzalez Alea,0
+2013_8,9,Annalisa,Scintille,D. Faini-A. Galbiati,0
+2013_9,10,Maria Nazionale,È colpa mia,P. Servillo-F. Mesolella,0
+2013_0,1,Antonio Maggio,Mi servirebbe sapere,A. Maggio,0
+2013_1,2,Ilaria Porceddu,In equilibrio,I. Porceddu- A. Fontana-C. Ferrari,0
+2013_2,3,Renzo Rubino,Il postino (amami uomo),R. Rubino-A. Rodini,0
+2013_3,4,Blastema,Dietro l'intima ragione,M. Casadei- D. Gambi-A. Nanni,0
+2014_0,1,Arisa,Controvento,Giuseppe Anastasi,0
+2014_1,2,Raphael Gualazzi & The Bloody Beetroots,Liberi o no,R. Gualazzi-B. Rifo,0
+2014_2,3,Renzo Rubino,Ora,O. Rubino-A. Rodini,0
+2014_3,4,Francesco Renga,Vivendo adesso,Elisa Toffoli,0
+2014_4,5,Noemi,Bagnati dal sole,Noemi- C. Ailin-R. Frenneaux,0
+2014_5,6,Perturbazione,L'unica,T. Cerasuolo- G. Giancursi- R. Lo Mele- A. Baracco- E. Diana-C. Lo Mele,0
+2014_6,7,Cristiano De André,Il cielo è vuoto,D. Mancino- C. De André-D. Faini,0
+2014_7,8,Frankie hi-nrg mc,Pedala,F. Di Gesù- C. Galbignani-L. Beccafichi,0
+2014_8,9,Giusy Ferreri,Ti porto a cena con me,R. Casalino-D. Faini,0
+2014_9,10,Francesco Sarcina,Nel tuo sorriso,Francesco Sarcina,0
+2014_0,1,Rocco Hunt,Nu juorno buono,R. Pagliarulo- A. Merli-F. Clemente,0
+2014_1,2,Diodato,Babilonia,A. Diodato,0
+2014_2,3,Zibba,Senza di te,Zibba-A. Balestrieri,0
+2014_3,4,The Niro,1969,D. Combusti,0
+2015_0,1,Il Volo,Grande amore,F. Boccia-C. Esposito,0
+2015_1,2,Nek,Fatti avanti amore,Nek- L. Chiaravalli- A. Bonomo-G. Fazio,0
+2015_2,3,Malika Ayane,Adesso e qui (nostalgico presente),M. Ayane- Pacifico- G. Caccamo-A. Flora,0
+2015_3,4,Annalisa,Una finestra tra le stelle,F. Silvestre,0
+2015_4,5,Chiara,Straordinario,E. Meta-G. Pollex,0
+2015_5,6,Marco Masini,Che giorno è,F. Camba- D. Coro-M. Masini,0
+2015_6,7,Dear Jack,Il mondo esplode tranne noi,P. Romitelli-D. Simonetta,0
+2015_7,8,Gianluca Grignani,Sogni infranti,G. Grignani,0
+2015_8,9,Nina Zilli,Sola,N. Zilli,0
+2015_9,10,Lorenzo Fragola,Siamo uguali,L. Fragola- Fedez-F. Cogliati,0
+2015_0,1,Giovanni Caccamo,Ritornerò da te,G. Caccamo,0
+2015_1,2,KuTso,Elisa,M. Gabbianelli,0
+2016_0,1,Stadio,Un giorno mi dirai,S. Grandi- G. Curreri-L. Chiaravalli,0
+2016_1,2,Francesca Michielin,Nessun grado di separazione,F. Abbate- F. Michielin- Cheope-F. Gargiulo,0
+2016_2,3,Giovanni Caccamo-Deborah Iurato,Via da qui,G. Sangiorgi,0
+2016_3,4,Enrico Ruggeri,Il primo amore non si scorda mai,E. Ruggeri,0
+2016_4,5,Lorenzo Fragola,Infinite volte,L. Fragola- R. Di Benedetto- R. Canale- F. Ferraguzzo-A. Filippelli,0
+2016_5,6,Patty Pravo,Cieli immensi,F. Zampaglione,0
+2016_6,7,Clementino,Quando sono lontano,C. Maccaro- V. Stein-K. Scherer,0
+2016_7,8,Noemi,La borsa di una donna,M. Masini- M. Adami-A. Iammarino,0
+2016_8,9,Rocco Hunt,Wake Up,R. Pagliarulo- V. Catanzaro-S. Benussi,0
+2016_9,10,Arisa,Guardando il cielo,G. Anastasi,0
+2016_0,1,Francesco Gabbani,Amen,F. Ilacqua-F. Gabbani,0
+2016_1,2,Chiara Dello Iacovo,Introverso,C. Dello Iacovo,0
+2016_2,3,Ermal Meta,Odio le favole,E. Meta,0
+2016_3,4,Mahmood,Dimentica,A. Mahmoud- M. Grilli-F. Fugazza,0
+2017_0,1,Francesco Gabbani,Occidentali's Karma,F. Gabbani- F. Gabbani- F. Ilacqua-L. Chiaravalli,0
+2017_1,2,Fiorella Mannoia,Che sia benedetta,E. Mineo-S. Mineo,0
+2017_2,3,Ermal Meta,Vietato morire,E. Meta,0
+2017_3,4,Michele Bravi,Il diario degli errori,F. Abbate- G. Anastasi-Cheope,0
+2017_4,5,Paola Turci,Fatti bella per te,P. Turci- G. Anania- L. Chiaravalli-D. Simonetta,0
+2017_5,6,Sergio Sylvestre,Con te,G. Todrani- S. Sylvestre-S. Maiuolo,0
+2017_6,7,Fabrizio Moro,Portami via,F. Mobrici-R. Cardelli,0
+2017_7,8,Elodie,Tutta colpa mia,E. Marrone- O. Angiuli- F. Cianciola-G. Pollex,0
+2017_8,9,Bianca Atzei,Ora esisti solo tu,F. Silvestre,0
+2017_9,10,Samuel,Vedrai,S. Romano- C. Rigano-R. Onori,0
+2017_0,1,Lele,Ora mai,R. Esposito- R. Di Benedetto-R. Canale,0
+2017_1,2,Maldestro,Canzone per Federica,A. Prestieri,0
+2017_2,3,Francesco Guasti,Universo,F. Guasti- M. Musumeci-F. Ciccotti,0
+2017_3,4,Leonardo Lamacchia,Ciò che resta,G. Pollex-M. Lusini,0
+2018_0,1,Ermal Meta-Fabrizio Moro,Non mi avete fatto niente,E. Meta- F. Moro-A. Febo,0
+2018_1,2,Lo Stato Sociale,Una vita in vacanza,A. Cazzola- F. Draicchio- L. Guenzi- A. Guidetti- E. Roberto-M. Romagnoli,0
+2018_2,3,Annalisa,Il mondo prima di te,A. Scarrone- D. Simonetta-A. Raina,0
+2018_3,4,Ron,Almeno pensami,L. Dalla,0
+2018_4,5,Ornella Vanoni con Bungaro-Pacifico,Imparare ad amarsi,Bungaro- Pacifico- C. Chiodo-A. Fresa,0
+2018_5,6,Max Gazzè,La leggenda di Cristalda e Pizzomunno,F. Gazzè- M. Gazzè-F. De Benedittis,0
+2018_6,7,Luca Barbarossa,Passame er sale,L. Barbarossa,0
+2018_7,8,Diodato-Roy Paci,Adesso,A. Diodato,0
+2018_8,9,The Kolors,"Frida (mai, mai, mai)",D. Petrella- D. Faini- A. Raina-Stash,0
+2018_9,10,Giovanni Caccamo,Eterno,G. Caccamo-Cheope,0
+2018_0,1,Ultimo,Il ballo delle incertezze,Ultimo,0
+2018_1,2,Mirkoeilcane,Stiamo tutti bene,Mirkoeilcane,0
+2018_2,3,Mudimbi,Il mago,M. Mudimbi- A. Bonomo- M. Zangirolami- A. Bavo- F. Vaccari-P. Miano,0
+2018_3,4,Lorenzo Baglioni,Il congiuntivo,L. Baglioni- M. Baglioni-L. Piscopo,0
+2018_4,5,Alice Caioli,Specchi rotti,A. Caioli-P. Muscolino,0
+2018_5,6,Eva,Cosa ti salverà,A. Di Martino-A. Filippelli,0
+2018_6,7,Giulia Casieri,Come stai,G. Casieri-A. Ravasio,0
+2018_7,8,Leonardo Monteiro,Bianca,M. Ciappelli-V. Tosetto,0
+2019_0,1,Mahmood,Soldi,Mahmood- Dardust-Charlie Charles,0
+2019_1,2,Ultimo,I tuoi particolari,Niccolò Moriconi,0
+2019_2,3,Il Volo,Musica che resta,G. Nannini- E. Munda- P. Romitelli- P. Mammaro-A. Carozza,0
+2019_3,4,Loredana Bertè,Cosa ti aspetti da me,G. Curreri- G. Pulli-P. Romitelli,0
+2019_4,5,Simone Cristicchi,Abbi cura di me,S. Cristicchi- N. Brunialti-G. Ortenzi,0
+2019_5,6,Daniele Silvestri,Argentovivo,D. Silvestri- T. Iurcich- F. Rondanini-M. Agnelli,0
+2019_6,7,Irama,La ragazza con il cuore di latta,Irama- G. Colonnelli- A. Debernardi-G. Nenna,0
+2019_7,8,Arisa,Mi sento bene,M. Buzzanca- L. Vizzini- R. Pippa-A. Flora,0
+2019_8,9,Achille Lauro,Rolls Royce,Achille Lauro- D. Petrella- D. Dezi- D. Mungai-Boss Doms,0
+2019_9,10,Enrico Nigiotti,Nonno Hollywood,Enrico Nigiotti,0
