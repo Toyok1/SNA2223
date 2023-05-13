@@ -1,1318 +1,1300 @@
 Source,Target,Weigth
-A. Civai,G. Bigazzi,14
-A. Civai,M. Falagiani,14
-A. Civai,F. Palmieri,7
-L. Carmi,C. A. Liman,4
-A. Diodato,D. Groff,2
-Filibello,P. E. Bassi,2
-A. Rizzo,R. Righini,2
-B. Rifo,R. Gualazzi,2
+M. Curallo,M. E. Giovanardi,36
+P. Marino,G. Lucariello,16
+P. Marino,M. Fabrizio,16
+R. Pagliarulo,S. Benussi,29
+R. Pagliarulo,V. Catanzaro,3
+R. Pagliarulo,F. Clemente,3
+R. Pagliarulo,A. Merli,3
+G. Cassia,R. Cini,3
+G. Cassia,M. Vicari,29
+G. Cassia,M. Marrocchi,3
+G. Cassia,S. Bardotti,3
+C. Allia,R. Distefano,15
+P. Limiti,M. C. Lacamera,15
+P. Limiti,E. Capotosti,3
+P. Limiti,G. Puzzo,3
+P. Limiti,B. Moglia,3
+A. Zuccaro,F. Morettini,3
+A. Zuccaro,L. Angelosanti,3
+A. Zuccaro,Carlotta,9
+A. Zuccaro,Assolo,9
+A. Zuccaro,D. Massa,9
+A. Zuccaro,M. De Iaco,9
+G. Romanelli,P. Laquidara,3
+G. Romanelli,Bungaro,3
+L. Dalla,G. Baldazzi,9
+L. Dalla,R. Cellamare,4
+L. Dalla,P. Carone,3
+L. Dalla,P. Pallottino,9
+L. Dalla,M. Alemanno,4
+L. Dalla,R. Costa,4
+L. Dalla,B. D'Onghia,22
+L. Dalla,S. Bersani,4
+L. Dalla,S. Bardotti,4
+E. Parazzini,L. Beretta,4
+E. Parazzini,G. Intra,2
+D. Sinigallia,N. Fabi,3
+D. Sinigallia,C. Dazzi,1
+D. Sinigallia,R. Sinigallia,4
+B. Lauzi,M. Fabrizio,4
+B. Lauzi,G. Guarnieri,1
+M. Pagano,F. Maresca,4
+G. Ferreri,M. CalÃ²,4
+G. Ferreri,Bungaro,4
+E. Sinni,R. Cocciante,4
+N. Ravasini,A. Locatelli,3
+N. Ravasini,Biri,18
+N. Ravasini,N. Salerno,3
+P. Meneguzzi,D. Melotti,3
+P. Meneguzzi,R. Di Bella,9
+G. Caliendo,F. Boccia,31
+A. Caioli,P. Muscolino,3
+F. Cianciola,G. Pollex,3
+F. Cianciola,E. Marrone,3
+F. Cianciola,O. Angiuli,1
+Albula,G. B. Martelli,7
+R. Cocciante,Cheope,16
+R. Cocciante,Mogol,9
+J. M. Maiello Ferry,J. Maiello Ferry,9
+S. Benussi,V. Catanzaro,7
+V. D'Acquisto,S. Seracini,7
+M. Zappatini,F. Renga,7
+P. Vivarelli,A. Celentano,9
+P. Vivarelli,L. Fulci,9
+Gippi,L. Beretta,9
+Gippi,E. Sciorilli,9
+A. Bonomo,Nek,9
+A. Bonomo,M. Zangirolami,4
+A. Bonomo,A. Bavo,4
+A. Bonomo,G. Fazio,4
+A. Bonomo,P. Miano,4
+A. Bonomo,F. Vaccari,4
+A. Bonomo,M. Mudimbi,9
+A. Bonomo,L. Chiaravalli,9
+Boss Doms,D. Mungai,9
+Boss Doms,Achille Lauro,9
+Boss Doms,D. Petrella,1
+Boss Doms,D. Dezi,7
+M. Minoia,V. Centrone,7
+M. Minoia,E. Giudizi,7
+S. Simoni,A. Valleroni,4
+S. Simoni,M. Casini,4
+Cavaros,P. Mangini,9
+G. Bella,G. Morandi,18
+G. Bella,G. Bigazzi,9
+G. Bella,G. Paoli,18
+G. Bella,G. Westley,5
+G. Bella,Mogol,1
+G. Bella,A. Salerno,3
+G. Nuti,G. P. Felisatti,3
+G. Nuti,Malise,5
+D. Calcagno,N. Oliviero,5
+D. Calcagno,M. Marini,5
+D. Calcagno,L. Gelmini,7
+D. Calcagno,E. Sciorilli,7
+D. Calcagno,G. Calabrese,4
+R. Facchinetti,V. Negrini,4
+F. Minoia,M. Rei,9
+F. Minoia,G. Bersola,9
+E. Marcelli,S. Cristicchi,9
+E. Marcelli,A. Canini,9
+E. Marcelli,F. Di GesÃ¹,1
+G. Baldazzi,R. Cellamare,9
+G. Baldazzi,S. Bardotti,9
+R. Esposito,R. Canale,6
+R. Esposito,R. Di Benedetto,6
+A. Civai,G. Bigazzi,4
+A. Civai,M. Falagiani,6
+A. Civai,F. Palmieri,4
+M. Buzzanca,L. Vizzini,6
+M. Buzzanca,R. Pippa,7
+M. Buzzanca,A. Flora,7
+R. Cellamare,F. Coppini,7
+R. Cellamare,L. Carboni,7
+R. Cellamare,G. Zagni,6
+R. Cellamare,S. Tamaro,6
+R. Cellamare,S. Bardotti,6
+A. Vian,A. Pugliese,3
+M. Spina,T. Palamara,18
+M. Spina,F. C. Casellati,4
+A. Annona,G. D'Angelo,9
+M. Paulicelli,A. Giordano,9
+M. Paulicelli,G. Mauro,16
+G. F. Reverberi,M. Scommegna,16
+G. F. Reverberi,Mogol,9
+M. A. Sisini,G. Russo,1
+M. A. Sisini,V. Magelli,5
+M. Guazzone,S. Costantini,5
+M. Guazzone,D. Ceruti,1
+S. Dionigi,M. Pilato,6
+S. Dionigi,M. Monticelli,1
+S. Dionigi,M. Pasini,7
+S. Dionigi,G. Novi,2
+S. Dionigi,F. Serafini,2
+Carrel,A. Valleroni,2
+Carrel,Da Rovere,2
+A. Giordano,G. Mauro,1
+S. Grandi,G. Curreri,2
+S. Grandi,L. Chiaravalli,2
+L. Beretta,M. Del Prete,9
+L. Beretta,G. Intra,4
+L. Beretta,N. de Luca,4
+L. Beretta,D. Pace,1
+L. Beretta,G. Viezzoli,9
+L. Beretta,A. Celentano,9
+L. Beretta,E. Suligoj,1
+L. Beretta,D. Modugno,7
+L. Beretta,E. Sciorilli,4
+L. Beretta,M. Panzeri,7
+R. Kunstler,S. Cammariere,9
+S. Cristicchi,A. Canini,9
+S. Cristicchi,N. Brunialti,9
+S. Cristicchi,F. Di GesÃ¹,9
+S. Cristicchi,G. Ortenzi,9
+M. Cozzoli,E. Bonagura,1
+M. Cozzoli,C. A. Bixio,2
+M. Fiorilla,M. Biondo,1
+F. Mussida,R. Ferri,4
+F. Mussida,C. De AndrÃ©,5
+L. G. Arbore,C. Mattone,4
+R. Onori,C. Rigano,5
+R. Onori,S. Romano,4
+V. Mascheroni,E. Capotosti,6
+V. Mascheroni,N. Rastelli,3
+V. Mascheroni,Biri,3
+V. Mascheroni,A. De Simone,3
+V. Mascheroni,M. Panzeri,3
+E. Roberto,F. Draicchio,6
+E. Roberto,M. Romagnoli,6
+E. Roberto,L. Guenzi,6
+E. Roberto,A. Guidetti,6
+E. Roberto,A. Cazzola,6
+A. Paoletti,A. Carrisi,6
+A. Paoletti,Y. Carrisi,6
+A. Paoletti,R. Zero,6
+A. Paoletti,V. Incenzo,6
+A. Paoletti,F. Berlincioni,9
+T. Sinatra,G. Trovato,18
+L. Albertelli,A. Fornaciari,9
+L. Albertelli,L. Lopez,18
+L. Albertelli,Zucchero Fornaciari,1
+L. Albertelli,M. Zarrillo,6
+L. Albertelli,E. Riccardi,1
+L. Albertelli,E. Malepasso,6
+L. Albertelli,D. Baima Besquet,6
+L. Albertelli,G. Colonnello,6
+V. Stein,K. Scherer,4
+V. Stein,C. Maccaro,7
+F. Salvi,S. Melloni,2
+F. Salvi,M. Natale,2
+P. Cassano,G. Golzi,2
+P. Cassano,C. Marrale,2
+P. Cassano,A. Ruggiero,4
+P. Cassano,M. Natale,4
+P. Cassano,A. Stellita,2
+P. Cassano,L. Visentin,43
+P. Cassano,L. Bonometti,3
+P. Cassano,F. Ciani,7
+P. Cassano,A. Cogliati,3
+P. Cassano,E. Ramazzotti,7
+G. Artegiani,S. Salemi,3
+G. Artegiani,M. Marrocchi,1
+R. Ferri,G. Curreri,1
+R. Ferri,C. De AndrÃ©,9
+R. Ferri,M. Fabrizio,9
+R. Ferri,V. Rossi,9
+S. Amato,F. Berlincioni,5
+S. Amato,F. Morgia,10
+F. Ricciardi,D. Pace,5
+F. Ricciardi,O. Avogadro,5
+G. Chiocchio,P. Turci,10
+N. Fabi,C. Dazzi,13
+N. Fabi,R. Sinigallia,7
+P. Rolla,F. Bergamini,23
+G. Fanciulli,G. C. Testoni,12
+C. Canzian,Pellecalamaio,10
+D. Verde,R. Rascel,6
+D. Verde,D. Modugno,17
+G. Colonnelli,A. Debernardi,29
+G. Colonnelli,G. Nenna,8
+G. Colonnelli,Irama,9
+P. P. Peroni,M. Guarniero,10
+P. P. Peroni,M. Pezzali,9
+E. Pietrelli,C. Ori,7
+E. Pietrelli,M. Marcolini,10
+E. Pietrelli,I. Fornaciari,9
+M. C. Lacamera,E. Capotosti,10
+M. C. Lacamera,G. Puzzo,3
+M. C. Lacamera,B. Moglia,8
+A. Branca,P. Brera,8
+A. Branca,J. Monasta,8
+A. Branca,G. Godi,8
+R. Brioschi,A. Salerno,5
+R. Brioschi,E. Ramazzotti,5
+E. Bonagura,G. Redi,5
+E. Bonagura,C. A. Rossi,2
+Lazzari,Sebastiani,2
+Lazzari,E. Palumbo,8
+Lazzari,V. Magelli,3
+F. Cavalli,P. Cremonesi,8
+F. Cavalli,A. Valsiglio,22
+C. Mattone,F. Migliacci,22
+C. Mattone,F. Califano,7
+C. Mattone,R. Arbore,16
+C. Mattone,G. Wright,12
+C. Mattone,A. Salerno,3
+C. Mattone,G. Faiella,3
+P. Donaggio,A. Testa,1
+P. Donaggio,V. Pallavicini,6
+F. Ricci,C. Di Domenico,9
+F. Ricci,A. Drusian,7
+G. Marchetti,R. Satti,8
+G. Marchetti,Mogol,9
+L. Citi,M. Casini,6
+T. Montelpare,M. Pecora,8
+T. Montelpare,G. Galgani,4
+T. Montelpare,Zenonazza,6
+T. Montelpare,S. Jurgens,6
+F. Cogliati,Fedez,6
+F. Cogliati,L. Fragola,8
+U. Bindi,F. Califano,6
+U. Bindi,N. Salerno,8
+U. Bindi,Nisa,1
+C. Guidetti,A. Salerno,9
+C. Guidetti,A. Cogliati,9
+C. Guidetti,E. Ramazzotti,1
+C. Concina,L. L. Martelli,10
+C. Concina,B. Cherubini,6
+C. Concina,G. Castellani,4
+G. Golzi,C. Marrale,3
+G. Golzi,A. Ruggiero,8
+G. Golzi,A. Stellita,8
+M. Morandi,F. Godi,8
+S. Boffa,S. Dall'Ora,5
+M. Logan,B. Bergonzi,13
+M. Rei,D. Pinelli,8
+D. Gambi,M. Casadei,6
+D. Gambi,A. Nanni,6
+M. CalÃ²,Bungaro,8
+P. E. Bassi,Filibello,13
+A. Zuppini,M. Di Franco,10
+A. Zuppini,S. Moschetto,3
+Lucia Mannucci,E. Fecchi,10
+S. Cossu,M. Bassi,13
+S. Cossu,C. Marrale,3
+S. Cossu,L. Valente,10
+S. Cossu,A. Stellita,7
+D. Pinelli,S. Testi,7
+D. Pinelli,V. Incenzo,3
+P. Mendes,E. Falcocchio,9
+M. Bassi,C. Marrale,6
+M. Bassi,L. Valente,6
+M. Bassi,A. Stellita,13
+M. Bassi,E. Bassi,8
+M. Zenima Granieri,M. Rinalduzzi,5
+M. Zenima Granieri,P. Magoni,9
+M. Zenima Granieri,M. D'Angelo,5
+M. Zenima Granieri,M. Calabrese,7
+M. Spenillo,A. De Carmine,17
+V. Negrini,C. Facchinetti,9
+G. Redi,N. Salerno,6
+A. Cheli,A. Bettini,9
+A. Cheli,A. De Sanctis,13
+A. Cheli,M. Telli,4
+A. Cheli,E. Palumbo,7
+R. Siani,M. Z. Granieri,9
+R. Siani,S. Sichel,4
+M. Mengoni,S. Fabiani,7
+M. Mengoni,F. De Benedittis,1
+M. Mengoni,R. Casalino,16
+M. Mengoni,P. Calabrese,1
+M. Mengoni,M. Calabrese,9
+S. Galante,V. Thoma,8
+S. Galante,A. Cogliati,4
+G. Savio,G. Bigazzi,8
+G. Savio,U. Tozzi,8
+M. Di Cataldo,V. Incenzo,1
+M. Di Cataldo,Laurex,9
+M. Di Cataldo,B. Laurenti,8
+M. De Paolis,U. Bertini,4
+Mahmood,Dardust,18
+Mahmood,Charlie Charles,5
+E. Zapparoli,F. Silvestre,7
+E. Zapparoli,E. Palmosi,7
+C. Dazzi,R. Sinigallia,7
+M. Martellini,V. Tempera,7
+M. Martellini,A. Zurawski,8
+C. Carrara,A. Ruggiero,4
+G. Morra,G. Togni,3
+G. Morra,M. Fabrizio,10
+G. Morra,R. Fogli,3
+G. De Stefani,C. Minellono,3
+G. De Stefani,D. Farina,23
+Nek,G. Fazio,8
+Nek,L. Chiaravalli,8
+R. Canale,L. Fragola,6
+R. Canale,F. Ferraguzzo,6
+R. Canale,R. Di Benedetto,6
+R. Canale,A. Filippelli,6
+D. Miglietta,F. Neviani,4
+D. Miglietta,G. IsgrÃ²,10
+D. Miglietta,A. De Sanctis,9
+Donida,Mogol,9
+R. Satti,Mogol,9
+C. Cofani,M. Patrignani,4
+C. Cofani,F. Evangelisti,4
+C. Cofani,Laurex,6
+P. Servillo,F. Mesolella,10
+N. Oliviero,R. Ruocco,3
+C. Minellono,F. Piccarreda,1
+C. Minellono,U. Balsamo,7
+C. Minellono,D. Farina,7
+C. Minellono,T. Cutugno,8
+G. Compare,A. Testa,3
+G. Compare,R. Cozzoli,3
+Rolla,La Valle,6
+Rolla,Lattuada,5
+G. Lorefice,E. Miceli,20
+P. Rossi,E. Jannacci,10
+P. Rossi,P. Jannacci,9
+M. Manzani,G. Bigazzi,9
+M. Manzani,M. Masini,9
+M. Manzani,A. Manfredi,8
+M. Manzani,E. Ruggeri,8
+F. Piccarreda,U. Balsamo,9
+Danpa,B. Pallesi,4
+Danpa,V. Panzuti,4
+Danpa,Pinchi,9
+M. Armani,P. Armenise,9
+K. Scherer,C. Maccaro,9
+C. Lessona,Kynsha,9
+C. Lessona,M. Violante,9
+C. Lessona,P. Martella,9
+Zibio,G. Fabor,4
+R. Pradella,R. Angiolini,4
+L. Schiavone,E. Ruggeri,4
+R. Lo Mele,A. Baracco,4
+R. Lo Mele,E. Diana,3
+R. Lo Mele,C. Lo Mele,2
+R. Lo Mele,G. Giancursi,2
+R. Lo Mele,T. Cerasuolo,3
+A. Testa,C. A. Rossi,2
+A. Testa,M. Remigi,5
+A. Testa,G. Cichellero,12
+A. Testa,E. Sciorilli,7
+A. Testa,R. Cozzoli,7
+A. Testa,Mogol,3
+A. Testa,T. Renis,9
+A. Testa,G. Colonnello,9
+D. Melotti,G. Panceri,9
+D. Melotti,R. Di Bella,7
+D. Melotti,P. Meneguzzo,8
+D. Melotti,L. Mattioni,3
+A. Volpe,A. Ruggiero,20
+Dinaro,I. Ianne,18
+Dinaro,C. Malgioglio,10
+Dinaro,C. Daiano,5
+M. Capuano,S. Boswell,3
+M. Capuano,G. Capuano,5
+R. Serio,R. Fiacchini,10
+KaballÃ ,R. Colombo,10
+KaballÃ ,A. Ruggiero,17
+KaballÃ ,M. Venuti,6
+KaballÃ ,N. Zilli,8
+S. Monetti,Depsa,12
+S. Monetti,F. Zanotti,6
+S. Monetti,M. Marati,6
+S. Monetti,A. Valsiglio,4
+G. Boursier,D. Stefani,3
+A. MirÃ²,E. Ruggeri,3
+C. Bissi,F. Battiato,3
+C. Bissi,G. Pio,5
+R. Zappalorto,S. Cenci,5
+M. Reitano,M. Battistini,9
+M. Reitano,G. Reitano,9
+M. Reitano,R. Bolognesi,5
+M. Reitano,F. Sacco,5
+M. Del Prete,N. de Luca,5
+M. Del Prete,D. Pace,5
+M. Del Prete,A. Celentano,5
+M. Del Prete,M. Panzeri,2
+P. Panella,A. Martelli,2
+P. Panella,E. Carella,9
+P. Panella,A. Minghi,9
+I. Grandi,Telonio,8
+I. Grandi,F. Bianconi,8
+A. Di Zio,G. Di Tonno,6
+F. Battiato,G. Pio,6
+D.L. Pieretti,R. Sanna,2
+M. Vergnaghi,Zucchero Fornaciari,2
+M. Vergnaghi,M. Saggese,9
+A. Fresa,Pacifico,9
+A. Fresa,C. Chiodo,9
+A. Fresa,Bungaro,9
+F. Moro,A. Febo,9
+F. Moro,E. Meta,6
+E. Capotosti,G. Puzzo,9
+E. Capotosti,A. De Simone,19
+E. Capotosti,B. Moglia,10
+D. Bernazza,Falco,6
+D. Bernazza,A. Piga,6
+D. Bernazza,M. De Angelis,10
+R. Power,A. Carrisi,6
+R. Power,V. Pallavicini,9
+R. Power,V. Mercurio,9
+R. Power,W. Molco,7
+G. Pollex,E. Marrone,7
+G. Pollex,O. Angiuli,6
+G. Pollex,E. Meta,6
+G. Pollex,M. Lusini,6
+S. Grieco,C. Dammicco,6
+S. Grieco,Zacar,5
+S. Grieco,Sentacruz,5
+R. Carosone,Nisa,6
+M. GazzÃ¨,F. De Benedittis,6
+M. GazzÃ¨,F. GazzÃ¨,6
+Calibi,C. Donida,5
+Calibi,Pinchi,5
+T. De Gasperi,M. Maffucci,5
+T. De Gasperi,D. Pao ed E. Ciarallo,5
+C. Gigli,Schiava,5
+G. Panceri,P. Meneguzzo,9
+M. Maffucci,D. Pao ed E. Ciarallo,19
+G. Anastasi,F. Abbate,10
+G. Anastasi,Cheope,1
+G. Anastasi,M. Filardo,1
+G. Anastasi,G. Mangiaracina,9
+S. Profeta,A. Carnevali,7
+S. Profeta,A. Febo,7
+M. De Martino,M. Zanfagna,7
+G. Mango,C. De Bei,9
+G. Mango,A. Mango,1
+V. D'Agostino,L. D'Alessio,5
+V. D'Agostino,G. D'Alessio,5
+V. D'Agostino,A. Tatangelo,4
+V. D'Agostino,S. M. Sorrentino,8
+Pacifico,G. Caccamo,6
+Pacifico,M. Ayane,6
+Pacifico,F. ArnÃ²,6
+Pacifico,C. Chiodo,6
+Pacifico,Bungaro,8
+Pacifico,A. Flora,8
+F. Clemente,A. Merli,9
+M. Vicari,M. Marrocchi,8
+M. Vicari,Petaluma,8
+M. Vicari,S. Bardotti,4
+P. Cremonesi,A. Valsiglio,9
+R. Livraghi,D. Pace,13
+R. Livraghi,M. Panzeri,4
+M. Vicino,D. Pace,4
+M. Vicino,M. Fabrizio,3
+S. Mantegazza,D. Persoglio,7
+S. Mantegazza,C. Ruggiero,7
+S. Mantegazza,M. Pedretti,3
+S. Mantegazza,D. Calvio,3
+F. Morettini,L. Angelosanti,3
+F. Morettini,Carlotta,9
+F. Morettini,Assolo,10
+F. Morettini,D. Massa,10
+F. Morettini,M. De Iaco,4
+A. Di Martino,A. Filippelli,4
+M. Zangirolami,A. Bavo,4
+M. Zangirolami,P. Miano,4
+M. Zangirolami,F. Vaccari,7
+M. Zangirolami,M. Mudimbi,7
+R. Gigli,F. Migliacci,19
+R. Gigli,M. Cantini,8
+R. Gigli,J. Fontana,5
+R. Gigli,L. Greco,5
+U. Balsamo,L. Raggi,5
+U. Balsamo,C. Malgioglio,2
+A. Valleroni,M. Casini,2
+A. Valleroni,Da Rovere,1
+M. Malavasi,D. Milani,4
+M. Malavasi,Leozed,10
+M. Malavasi,G. Trovato,10
+M. Malavasi,A. Sandri,5
+D. De Santis,L. Valori,10
+D. De Santis,L. Bruti,7
+D. De Santis,M. Di Paolo,7
+R. Casini,P. Turci,10
+M. Perrone,Biri,10
+M. Perrone,W. Malgoni,5
+V. De Scalzi,G. Anelli,10
+V. De Scalzi,G. Belleno,9
+A. Martelli,A. Minghi,10
+A. Martelli,G. Calabrese,9
+L. Pilat,D. Pace,10
+L. Pilat,C. Conti,16
+L. Pilat,M. Panzeri,6
+A. Mari,M. Mariotti,6
+A. Mari,L. Gambetti,6
+G. D'Argenzio,D. Ciaramella,6
+G. D'Argenzio,M. Tronco e G. Servillo,6
+G. D'Argenzio,F. Spinetti,6
+G. D'Argenzio,F. Mesolella,9
+C. Cavallaro,G. Bigazzi,9
+S. Di Nardo,A. De Sanctis,10
+S. Di Nardo,M. Marrocchi,8
+F. Neviani,G. IsgrÃ²,10
+F. Neviani,M. Varini,10
+F. Neviani,A. De Sanctis,8
+A. Raina,D. Faini,17
+A. Raina,Stash,17
+A. Raina,A. Scarrone,8
+A. Raina,D. Simonetta,4
+A. Raina,D. Petrella,6
+M. Scommegna,P. Pintucci,6
+M. Scommegna,D. Masini,8
+M. Scommegna,Mogol,6
+R. Eleuteri,E. Croce,2
+D. Valentini,E. Di Lazzaro,2
+A. Ravasio,G. Casieri,2
+C. Sebastianelli,D. Pace,2
+C. Sebastianelli,O. Avogadro,5
+U. Smaila,M. Lavezzi,5
+U. Smaila,F. Ciani,10
+U. Smaila,A. Cogliati,2
+F. Facchinetti,D. Calvetti,10
+F. Facchinetti,S. Bertolotti,4
+F. Facchinetti,M. Ciappelli,2
+L. Cherubini,L. Cersosimo,2
+L. Cherubini,C. Cecchetto,15
+G. Marotta,S. Mazzocco,8
+Depsa,S. Iodice,8
+Depsa,F. Fasano,8
+Depsa,T. Cutugno,4
+Depsa,F. Berlincioni,4
+Depsa,G. Andreetto,8
+Depsa,S. Cutugno,8
+Depsa,F. Zanotti,9
+Depsa,M. Marati,6
+Depsa,E. Malepasso,6
+Depsa,G. Faiella,9
+Depsa,A. Valsiglio,2
+Depsa,C. Daiano,2
 M. Vecchi,D. Sacco,2
 M. Vecchi,G. Carletti,2
-M. Vecchi,C. Cattini,2
-A. Flora,L. Vizzini,3
-A. Flora,G. Caccamo,3
-A. Flora,M. Ayane,2
-A. Flora,M. Buzzanca,2
-A. Flora,R. Pippa,2
-A. Flora,Pacifico,2
-M. Rei,D. Pinelli,2
-M. Rei,F. Minoia,4
-A. Napoletano,L. Quarantotto,1
-S. Cammariere,R. Kunstler,1
-F. Morgia,S. Amato,1
-D. Verde,R. Rascel,1
-D. Verde,D. Modugno,1
-F. Ventura,P. Calabrese,1
-F. Ventura,L. Carnacina,1
-J. Monasta,A. Branca,1
-J. Monasta,P. Brera,1
-J. Monasta,G. Godi,1
-S. Mantegazza,M. Pedretti,1
-S. Mantegazza,C. Ruggiero,2
-S. Mantegazza,D. Calvio,2
-S. Mantegazza,D. Persoglio,1
-F. Cogliati,Fedez,3
-F. Cogliati,L. Fragola,4
-A. Istroni,G. Pegoraro,1
-F. Evangelisti,M. Patrignani,1
-F. Evangelisti,Laurex,1
-F. Evangelisti,S. Borzi,1
-F. Evangelisti,C. Cofani,1
-F. Evangelisti,S. Mattoccia,1
-M. Cantini,L. Greco,1
-M. Cantini,J. Fontana,1
-M. Cantini,R. Gigli,1
-M. Cantini,F. Migliacci,1
-A. Martelli,G. Calabrese,1
-A. Martelli,P. Panella,1
-A. Martelli,A. Minghi,2
-S. Ortone,P. Finà,1
-M. Patrignani,Laurex,1
-M. Patrignani,C. Cofani,1
-M. C. Lacamera,P. Limiti,1
-M. C. Lacamera,G. Puzzo,1
-M. C. Lacamera,E. Capotosti,1
-M. C. Lacamera,B. Moglia,2
-E. Palmosi,L. Sala,2
-E. Palmosi,E. Zapparoli,2
-E. Palmosi,F. Silvestre,1
-B. Pallesi,Danpa,1
-B. Pallesi,Pinchi,1
-B. Pallesi,W. Malgoni,1
-B. Pallesi,V. Panzuti,1
-B. Pallesi,P. Calvi,1
-F. Fanigliulo,O. Avogadro,1
-F. Fanigliulo,D. Pace,1
-F. Fanigliulo,R. Borghetti,1
-L. Capello,A. Genovese,1
-Gippi,L. Beretta,1
-Gippi,E. Sciorilli,1
-D. Milani,E. Ghinazzi,1
-D. Milani,D. Pace,1
-D. Milani,P. Barabani,1
-D. Milani,M. Malavasi,2
-D. Milani,G. Trovato,1
-D. Milani,A. Fornaciari,1
-F. Serafini,M. Monticelli,1
-F. Serafini,M. Pasini,1
-F. Serafini,S. Dionigi,1
-F. Serafini,G. Novi,2
-F. Serafini,M. Pilato,4
-S. Dall'Ora,S. Boffa,1
-G. Bigazzi,C. Cavallaro,1
-G. Bigazzi,G. Savio,1
-G. Bigazzi,R. Riefoli,1
-G. Bigazzi,G. Dati,1
-G. Bigazzi,B. Gilbo,1
-G. Bigazzi,U. Tozzi,1
-G. Bigazzi,S. Martelli,1
-G. Bigazzi,M. Falagiani,1
-G. Bigazzi,M. Masini,1
-G. Bigazzi,F. Palmieri,1
-G. Bigazzi,G. Bella,1
-G. Bigazzi,M. Signorini,1
-G. Bigazzi,M. Manzani,1
-G. Bigazzi,T. Savio,1
-G. Fasano,F. Berlincioni,1
-G. Fasano,F. Ciani,1
-G. Fasano,I. Ianne,1
-G. Fasano,F. Leali,1
-G. Fasano,T. Cutugno,1
-G. Fasano,S. Bardotti,1
-G. Fasano,A. Cogliati,1
-M. De Peppe,G. Ciarella,1
-A. Zuppini,M. Di Franco,1
-A. Zuppini,S. Moschetto,1
-G. Lucariello,P. Marino,1
-G. Lucariello,M. Fabrizio,1
-C. Rigano,R. Onori,1
-C. Rigano,S. Romano,1
-F. Piccarreda,C. Minellono,1
-F. Piccarreda,U. Balsamo,1
-F. Guasti,F. Ciccotti,1
-F. Guasti,M. Musumeci,1
-F. Ferraguzzo,R. Canale,1
-F. Ferraguzzo,F. Zanotti,1
-F. Ferraguzzo,M. Del Forno,1
-F. Ferraguzzo,R. Di Benedetto,1
-F. Ferraguzzo,L. Fragola,1
-F. Ferraguzzo,E. Mangia,1
-F. Ferraguzzo,R. Cardelli,1
-F. Ferraguzzo,F. Caprara,1
-F. Ferraguzzo,A. Filippelli,1
-F. Ferraguzzo,T. Maiello,1
-M. Maffucci,T. De Gasperi,1
-M. Maffucci,D. Pao ed E. Ciarallo,1
-M. Adami,M. Masini,1
-M. Adami,A. Iammarino,1
-Telonio,I. Grandi,1
-R. Cozzoli,A. Testa,1
-R. Cozzoli,G. Compare,2
-Laurex,G. Fulcheri,2
-Laurex,C. Cofani,1
-Laurex,V. Incenzo,1
-Laurex,M. Di Cataldo,1
-L. Mattioni,R. Di Bella,2
-L. Mattioni,D. Melotti,1
-L. Mattioni,P. Meneguzzo,1
-G. Di Tonno,A. Di Zio,1
-F. Arrigoni,C. Conti,1
-F. Arrigoni,M. Panzeri,1
-F. Arrigoni,D. Pace,1
-F. Arrigoni,G. Argenio,1
-L. Gelmini,D. Calcagno,2
-M. Minoia,E. Giudizi,2
-M. Minoia,V. Centrone,1
-M. E. Giovanardi,M. Curallo,1
-D. Silvestri,T. Iurcich,1
-D. Silvestri,M. Agnelli,1
-D. Silvestri,F. Rondanini,1
-G. Reitano,F. Sacco,1
-G. Reitano,R. Bolognesi,1
-G. Reitano,M. Reitano,1
-G. Reitano,M. Battistini,2
-F. Carraresi,F. Migliacci,1
-F. Carraresi,M. Goldsand,2
-F. Carraresi,L. Bechelli,1
-E. Bassi,M. Bassi,1
-M. Venuti,Kaballà,5
-M. Venuti,C. Consoli,1
-M. Bizzarri,G. Marcucci,1
-M. Bizzarri,A. Carrisi,1
-V. Ripa,M. Panzeri,2
-S. Belisari,D. L. Civaschi,1
-S. Belisari,D. Civaschi,5
-S. Belisari,N. Fasani,1
-S. Belisari,S. Conforti,2
-S. Seracini,G. C. Testoni,1
-S. Seracini,E. Minoretti,1
-S. Seracini,V. D'Acquisto,1
-S. Seracini,M. Panzeri,1
-G. C. Testoni,M. Panzeri,1
-G. C. Testoni,G. Fanciulli,1
-G. C. Testoni,F. Rendine,1
-G. C. Testoni,C. Donida,1
-G. C. Testoni,G. Kramer,1
-C. Bissi,G. Pio,1
-C. Bissi,F. Battiato,1
-Charlie Charles,Dardust,1
-Charlie Charles,Mahmood,1
-G. Pio,F. Battiato,1
-R. Lanzo,L. Fiori,1
-L. Beretta,M. Panzeri,1
-L. Beretta,D. Pace,1
-L. Beretta,G. Viezzoli,2
-L. Beretta,E. Sciorilli,1
-L. Beretta,A. Celentano,1
-L. Beretta,E. Suligoj,1
-L. Beretta,N. de Luca,1
-L. Beretta,M. Del Prete,1
-L. Beretta,D. Modugno,1
-L. Beretta,G. Intra,1
-L. Beretta,E. Parazzini,1
-L. G. Arbore,C. Mattone,1
-D. L. Civaschi,N. Fasani,1
-D. L. Civaschi,S. Conforti,1
-G. Todrani,E. Ramazzotti,1
-G. Todrani,M. Rinalduzzi,1
-G. Todrani,M. Fabrizio,1
-G. Todrani,S. Sylvestre,1
-G. Todrani,V. Tosetto,1
-G. Todrani,A. De Curtis,1
-G. Todrani,M. Calabrese,1
-G. Todrani,S. Maiuolo,1
-G. Todrani,A. Cogliati,1
-M. Tansini,M. Porru,1
-V. Pallavicini,G. P. Felisatti,1
-V. Pallavicini,W. Molco,1
-V. Pallavicini,P. Conte,1
-V. Pallavicini,F. Leali,1
-V. Pallavicini,E. Vianello,1
-V. Pallavicini,R. Power,3
-V. Pallavicini,G. Mescoli,1
-V. Pallavicini,S. Cutugno,1
-V. Pallavicini,Biri,1
-V. Pallavicini,P. Donaggio,1
-V. Pallavicini,C. A. Rossi,1
-V. Pallavicini,V. Mercurio,1
-V. Pallavicini,G. Kramer,1
-V. Pallavicini,P. Massara,1
-V. Pallavicini,A. Carrisi,1
-M. Paulicelli,A. Giordano,1
-M. Paulicelli,G. Mauro,1
-E. Sinni,R. Cocciante,1
-L. Sala,F. Silvestre,1
-P. Calabrese,L. Carnacina,2
-P. Calabrese,M. Mengoni,1
-P. Calabrese,M. Calabrese,1
-P. Calabrese,S. Fabiani,2
-B. Zucchetti,G. Dati,1
-M. Zangirolami,A. Bavo,1
-M. Zangirolami,F. Vaccari,1
-M. Zangirolami,P. Miano,1
-M. Zangirolami,M. Mudimbi,1
-M. Zangirolami,A. Bonomo,1
-A. Raina,D. Simonetta,1
-A. Raina,D. Faini,1
-A. Raina,D. Petrella,1
-A. Raina,Stash,1
-A. Raina,A. Scarrone,1
-D. Benedetti,M. Conti,1
-D. Benedetti,A. Ventura,1
-D. Benedetti,M. Munzi,1
-M. Conti,A. Ventura,1
-M. Conti,M. Munzi,1
-F. C. Casellati,T. Palamara,1
-F. C. Casellati,M. Spina,1
-U. Iervolino,P. Renga,1
-M. Mastrangeli,M. Conidi,1
-G. Caliendo,F. Boccia,2
-L. Dalla,G. Baldazzi,1
-L. Dalla,M. Alemanno,1
-L. Dalla,S. Bersani,2
-L. Dalla,P. Carone,1
-L. Dalla,B. D'Onghia,1
-L. Dalla,R. Costa,1
-L. Dalla,S. Bardotti,1
-L. Dalla,P. Pallottino,1
-L. Dalla,R. Cellamare,1
-Cheope,F. Tanini,1
-Cheope,F. Abbate,1
-Cheope,O. Angelillo,2
-Cheope,D. Rettore,5
-Cheope,G. Caccamo,2
-Cheope,M. Marati,1
-Cheope,C. Rego,1
-Cheope,G. Anastasi,2
-Cheope,F. Gargiulo,1
-Cheope,R. Cocciante,1
-Cheope,F. Michielin,1
-Cheope,A. Valsiglio,2
-Cheope,R. Buti,1
-A. Giordano,G. Mauro,1
-C. Concina,G. Castellani,1
-C. Concina,B. Cherubini,1
-C. Concina,L. L. Martelli,1
-F. Ciccotti,M. Musumeci,1
-R. Ruocco,N. Oliviero,1
-G. Calabrese,E. Sciorilli,1
-G. Calabrese,D. Calcagno,1
-M. Riva,D. Civaschi,1
-V. Catanzaro,R. Pagliarulo,2
-V. Catanzaro,S. Benussi,1
-D. Mancino,C. De André,1
-D. Mancino,F. Renga,1
-D. Mancino,D. Faini,1
-P. Rossi,P. Jannacci,1
-P. Rossi,E. Jannacci,1
-F. Spinetti,G. D'Argenzio,1
-F. Spinetti,F. Mesolella,1
-F. Spinetti,M. Tronco e G. Servillo,1
-F. Spinetti,M. Marati,1
-F. Spinetti,A. Valsiglio,1
-F. Spinetti,D. Ciaramella,2
-G. Nannini,P. Mammaro,1
-G. Nannini,P. Romitelli,1
-G. Nannini,E. Munda,1
-G. Nannini,A. Carozza,1
-E. Carella,P. Panella,1
-M. Monticelli,M. Pasini,1
-M. Monticelli,S. Dionigi,1
-M. Monticelli,G. Novi,3
-M. Monticelli,M. Pilato,1
-R. Zaneli,S. Testi,1
-R. Zaneli,R. Musumarra,1
-F. Bongusto,M. Di Francia,1
-F. Bongusto,S. Iodice,1
-R. Distefano,C. Allia,1
-G. P. Felisatti,G. Nuti,1
-G. P. Felisatti,Malise,1
-S. Testi,L. Carnacina,1
-S. Testi,M. Colucci,1
-S. Testi,D. Pace,1
-S. Testi,Cashin,1
-S. Testi,D. Pinelli,1
-S. Testi,R. Musumarra,1
-S. Testi,V. Incenzo,1
-F. Berlincioni,A. Paoletti,1
-F. Berlincioni,F. Ciani,1
-F. Berlincioni,I. Ianne,1
-F. Berlincioni,F. Leali,1
-F. Berlincioni,S. Iodice,1
-F. Berlincioni,V. Tosetto,1
-F. Berlincioni,S. Amato,1
-F. Berlincioni,S. Cutugno,1
-F. Berlincioni,S. Bardotti,1
-F. Berlincioni,Depsa,1
-F. Berlincioni,A. Carrisi,1
-F. Berlincioni,A. Cogliati,1
-F. Di Gesù,A. Canini,1
-F. Di Gesù,C. Galbignani,1
-F. Di Gesù,L. Beccafichi,2
-F. Di Gesù,E. Marcelli,1
-F. Di Gesù,S. Cristicchi,1
-A. Bettini,A. Cheli,1
-A. Bettini,A. De Sanctis,2
-A. Bettini,M. Telli,1
-E. Zapparoli,F. Silvestre,1
-M. Luberti,E. Fusco,1
-P. Mendes,E. Falcocchio,1
-M. Logan,B. Bergonzi,1
-E. Caterini,S. Borzi,1
-E. Caterini,S. Nasuti,1
-P. Jannacci,E. Jannacci,1
-A. Merli,R. Pagliarulo,2
-A. Merli,F. Clemente,1
-V. Mascheroni,A. De Simone,1
-V. Mascheroni,M. Panzeri,1
-V. Mascheroni,N. Rastelli,1
-V. Mascheroni,Biri,1
-V. Mascheroni,E. Capotosti,1
-F. Cianciola,G. Pollex,1
-F. Cianciola,O. Angiuli,1
-F. Cianciola,E. Marrone,1
-F. Neviani,D. Miglietta,1
-F. Neviani,G. Isgrò,1
-F. Neviani,M. Varini,1
-F. Neviani,A. De Sanctis,1
-Albula,G. B. Martelli,1
-R. Frenneaux,Noemi,1
-R. Frenneaux,C. Ailin,1
-G. Pulli,P. Romitelli,1
-G. Pulli,G. Curreri,1
-G. Boursier,D. Stefani,1
-R. Zero,A. Paoletti,1
-R. Zero,Y. Carrisi,1
-R. Zero,V. Incenzo,1
-D. Bosio,D. De Marinis,1
-D. Bosio,C. Farolfi,1
-A. Vian,A. Pugliese,4
-S. M. Sorrentino,V. D'Agostino,1
-S. M. Sorrentino,L. D'Alessio,1
-I. Grandi,F. Bianconi,1
-A. Ravasio,G. Casieri,1
-L. Carboni,M. Armenise,1
-L. Carboni,R. Cellamare,1
-M. Zarrillo,D. Baima Besquet,1
-M. Zarrillo,A. Rosario,1
-M. Zarrillo,L. Albertelli,1
-M. Zarrillo,V. Incenzo,1
-M. Zarrillo,L. Lopez,1
-M. Zarrillo,P. A. Cassella,1
-A. Cheli,E. Palumbo,1
-A. Cheli,A. De Sanctis,1
-A. Cheli,M. Telli,1
-G. Castellani,L. L. Martelli,1
-M. Negri,P. Bertoli,1
-G. Panceri,D. Melotti,1
-G. Panceri,P. Meneguzzo,1
-R. Canale,R. Esposito,1
-R. Canale,R. Di Benedetto,1
-R. Canale,L. Fragola,1
-R. Canale,A. Filippelli,2
-F. Sacco,R. Bolognesi,1
-F. Sacco,M. Reitano,1
-F. Sacco,M. Battistini,1
-R. Di Bella,D. Melotti,1
-R. Di Bella,P. Meneguzzi,1
-R. Di Bella,P. Meneguzzo,1
-E. Ramazzotti,R. Brioschi,1
-E. Ramazzotti,A. Salerno,1
-E. Ramazzotti,V. Tosetto,1
-E. Ramazzotti,P. Cassano,1
-E. Ramazzotti,C. Guidetti,1
-E. Ramazzotti,A. Cogliati,1
-G. D'Amora,L. Urbani,1
-F. Arnò,M. Ayane,1
-F. Arnò,Pacifico,1
-R. Esposito,R. Di Benedetto,1
-Sentacruz,Querencio,1
-Sentacruz,F. Specchia,1
-Sentacruz,Zacar,1
-Sentacruz,C. Dammicco,1
-Sentacruz,S. Grieco,1
-M. Grilli,A. Mahmoud,1
-M. Grilli,F. Fugazza,1
-Don Backy,A. Caponi,1
-Don Backy,D. Mariano,1
-A. Galbiati,D. Faini,1
-T. De Gasperi,D. Pao ed E. Ciarallo,1
-A. Zuccaro,F. Morettini,1
-A. Zuccaro,D. Massa,1
-A. Zuccaro,Assolo,1
-A. Zuccaro,Carlotta,1
-A. Zuccaro,M. De Iaco,2
-A. Zuccaro,L. Angelosanti,1
-C. De André,R. Ferri,2
-C. De André,D. Faini,1
-C. De André,F. Mussida,1
-G. Anelli,F. Fasano,1
-G. Anelli,G. Belleno,1
-G. Anelli,V. De Scalzi,1
-G. Anelli,A. Cogliati,1
-D. Marchetti,M. Del Freo,2
-L. Carnacina,M. Colucci,1
-L. Carnacina,D. Pace,1
-L. Carnacina,Cashin,1
-M. Morandi,F. Godi,1
-G. Fiorellino,A. Casaburi,1
-A. Nicorelli,G. Pieretti,1
-M. Rinalduzzi,M. Zenima Granieri,1
-M. Rinalduzzi,M. Calabrese,1
-M. Rinalduzzi,M. D'Angelo,1
+M. Vecchi,C. Cattini,9
+M. Battistini,G. Reitano,9
+M. Battistini,R. Bolognesi,9
+M. Battistini,F. Sacco,8
+F. Caprara,R. Cardelli,8
+F. Caprara,F. Ferraguzzo,8
+F. Caprara,E. Mangia,8
+F. Caprara,M. Del Forno,8
+C. A. Rossi,A. Papetti,6
+C. A. Rossi,V. Pallavicini,6
+C. A. Rossi,Biri,2
+M. Rinalduzzi,G. Todrani,2
 M. Rinalduzzi,P. Magoni,2
-C. Lo Mele,T. Cerasuolo,1
-C. Lo Mele,G. Giancursi,1
-C. Lo Mele,A. Baracco,1
-C. Lo Mele,E. Diana,1
-C. Lo Mele,R. Lo Mele,1
-D. Baldan Bembo,P. A. Cassella,1
-F. Draicchio,L. Guenzi,1
-F. Draicchio,A. Guidetti,1
-F. Draicchio,A. Cazzola,1
-F. Draicchio,M. Romagnoli,1
-F. Draicchio,E. Roberto,1
-E. Di Lazzaro,D. Valentini,1
-C. Gori,A. Costanzo,1
-C. Gori,P. Bentivoglio,1
-G. D'Argenzio,F. Mesolella,1
-G. D'Argenzio,M. Tronco e G. Servillo,1
-G. D'Argenzio,M. Marati,1
-G. D'Argenzio,A. Valsiglio,1
-G. D'Argenzio,D. Ciaramella,1
-R. Mogliotti,E. Ruggeri,1
-D. Simonetta,L. Chiaravalli,1
-D. Simonetta,P. Romitelli,1
-D. Simonetta,P. Turci,1
-D. Simonetta,A. Scarrone,3
-D. Simonetta,G. Anania,2
-A. Locatelli,N. Ravasini,3
-Danpa,Pinchi,1
-Danpa,V. Panzuti,1
-A. Branca,P. Brera,1
-A. Branca,G. Godi,1
-R. Bolognesi,M. Reitano,1
-R. Bolognesi,M. Battistini,1
-E. Fecchi,Lucia Mannucci,1
-F. Mesolella,M. Tronco e G. Servillo,2
-F. Mesolella,M. Marati,1
-F. Mesolella,A. Valsiglio,1
-F. Mesolella,P. Servillo,1
-F. Mesolella,D. Ciaramella,1
-D. Miglietta,G. Isgrò,2
-D. Miglietta,A. De Sanctis,2
-R. Casalino,M. Mengoni,1
-R. Casalino,D. Faini,1
-R. Casalino,F. De Benedittis,1
-R. Casalino,N. Zilli,1
-R. Ferri,M. Fabrizio,2
-R. Ferri,V. Rossi,1
-R. Ferri,F. Mussida,1
-R. Ferri,G. Curreri,1
-G. Russo,V. Magelli,1
-G. Russo,M. A. Sisini,1
-R. Pagliarulo,S. Benussi,1
-R. Pagliarulo,F. Clemente,1
-M. Tronco e G. Servillo,M. Marati,1
-M. Tronco e G. Servillo,A. Valsiglio,1
-M. Tronco e G. Servillo,D. Ciaramella,1
-L. Battisti,Mogol,1
-G. Lorefice,E. Miceli,1
-Pinchi,W. Malgoni,1
-Pinchi,G. D'Anzi,1
-Pinchi,V. Panzuti,1
-Pinchi,Calibi,1
-Pinchi,C. Donida,1
-J. Dorelli,M. Panzeri,2
-F. Paulin,F. Migliacci,1
-A. Paoletti,Y. Carrisi,1
-A. Paoletti,V. Incenzo,2
-A. Paoletti,A. Carrisi,1
-P. Montanari,Miani,1
-C. Valli,A. Anastasio,3
-C. Valli,G. Trovato,1
-L. Greco,L. Pellegrino,1
-L. Greco,J. Fontana,1
-L. Greco,R. Gigli,1
-L. Greco,F. Migliacci,1
-L. Greco,E. Sbriccoli,1
-G. Baldazzi,S. Bardotti,3
-G. Baldazzi,R. Cellamare,1
-A. Piccareta,G. Arena,1
-M. Di Francia,S. Iodice,1
-E. Riccardi,L. Albertelli,1
-V. Magelli,Sebastiani,1
-V. Magelli,E. Palumbo,1
-V. Magelli,M. A. Sisini,1
-V. Magelli,Lazzari,1
-A. Canini,E. Marcelli,1
-A. Canini,S. Cristicchi,1
-P. Panella,A. Minghi,1
-L. Santoro,F. Riccardi,1
-G. Ortenzi,N. Brunialti,1
-G. Ortenzi,S. Cristicchi,1
-M. Casini,S. Simoni,1
-M. Casini,L. Citi,1
-M. Casini,A. Valleroni,1
-M. Colucci,D. Pace,1
-M. Colucci,Cashin,1
-M. Baglioni,L. Baglioni,2
-M. Baglioni,L. Piscopo,1
-W. Molco,R. Power,1
-W. Molco,V. Mercurio,1
-W. Molco,A. Carrisi,3
-N. Piras,C. Patti,1
-T. Cerasuolo,G. Giancursi,1
-T. Cerasuolo,A. Baracco,1
-T. Cerasuolo,E. Diana,1
-T. Cerasuolo,R. Lo Mele,1
-E. Bonagura,M. Cozzoli,1
-E. Bonagura,G. Redi,1
-E. Bonagura,C. A. Rossi,1
-P. Marino,M. Fabrizio,1
-Dardust,Mahmood,1
-A. Caponi,D. Mariano,1
-A. Caponi,E. La Valle,1
-M. Paoluzzi,R. Vecchioni,1
-F. Ilacqua,L. Chiaravalli,1
-F. Ilacqua,F. Gabbani,1
-M. Vicari,M. Marrocchi,1
-M. Vicari,S. Bardotti,1
-M. Vicari,Petaluma,1
-M. Vicari,G. Cassia,1
-M. G. Gili,M. Panzeri,1
-M. G. Gili,L. Barazzetti,1
-M. G. Gili,D. Pace,1
-F. Ciani,F. Leali,1
-F. Ciani,U. Smaila,2
-F. Ciani,P. Cassano,1
-F. Ciani,S. Bardotti,1
-F. Ciani,M. Lavezzi,1
-F. Ciani,A. Cogliati,1
-P. Rolla,F. Bergamini,1
-F. Tanini,M. Marati,1
-F. Tanini,A. Valsiglio,1
-F. Tanini,R. Buti,1
-C. Daiano,I. Ianne,1
-C. Daiano,Dinaro,1
-C. Daiano,Depsa,1
-C. Daiano,C. Malgioglio,1
-C. Daiano,A. Valsiglio,1
-A. De Simone,E. Capotosti,1
-C. Ori,E. Pietrelli,1
-C. Ori,I. Fornaciari,1
-C. Ori,M. Marcolini,1
-G. Savio,U. Tozzi,1
-D. Civaschi,N. Fasani,1
-D. Civaschi,S. Conforti,1
-C. Galbignani,L. Beccafichi,1
-G. Giancursi,A. Baracco,1
-G. Giancursi,E. Diana,1
-G. Giancursi,R. Lo Mele,1
-P. Frassi,K. Ammar,1
-A. Costanzo,P. Bentivoglio,1
-A. Costanzo,R. Salani,1
-D. Coro,F. Camba,2
-D. Coro,M. Masini,1
-A. Ruggiero,Roberto Colombo,1
-A. Ruggiero,G. Golzi,1
-A. Ruggiero,C. Marrale,1
-A. Ruggiero,A. Volpe,1
-A. Ruggiero,C. Carrara,1
-A. Ruggiero,P. Cassano,1
-A. Ruggiero,Kaballà,1
-A. Ruggiero,A. Stellita,1
-A. Ruggiero,R. Colombo,1
-C. De Andrè,D. Fossati,1
-S. Sichel,M. Z. Granieri,1
-S. Sichel,R. Siani,1
-S. Mineo,E. Mineo,1
-F. Morettini,D. Massa,1
-F. Morettini,Assolo,1
-F. Morettini,Carlotta,1
-F. Morettini,M. De Iaco,1
-F. Morettini,L. Angelosanti,1
-E. Meta,A. Febo,1
-E. Meta,F. Moro,1
-E. Meta,G. Pollex,1
-G. Orlandi,G. Dati,1
-G. Orlandi,M. Masini,1
-C. Conti,M. Panzeri,1
-C. Conti,D. Pace,1
-C. Conti,L. Pilat,1
-C. Conti,G. Argenio,1
-M. Cozzoli,C. A. Bixio,1
-D. Mariano,Mogol,1
-D. Mariano,D. Backy,1
-W. Malgoni,M. Perrone,1
-W. Malgoni,Biri,1
-C. Chiodo,Bungaro,1
-C. Chiodo,A. Fresa,1
-C. Chiodo,Pacifico,1
-L. Quarantotto,F. Sartori,1
-A. Bavo,F. Vaccari,1
-A. Bavo,P. Miano,1
-A. Bavo,M. Mudimbi,1
-A. Bavo,A. Bonomo,1
-G. Marotta,S. Mazzocco,1
-M. Pasini,S. Dionigi,4
-M. Pasini,G. Novi,2
-M. Pasini,M. Pilato,2
-L. Vizzini,M. Buzzanca,3
-L. Vizzini,R. Pippa,1
-M. Fabrizio,S. D'Orazio,1
-M. Fabrizio,M. Vicino,1
-M. Fabrizio,V. Spampinato,1
-M. Fabrizio,D. Pace,1
-M. Fabrizio,G. Morra,1
-M. Fabrizio,B. Lauzi,1
-M. Fabrizio,R. Fogli,1
-R. Mascellino,Tosca,1
-R. Mascellino,M. Venturiello,2
-F. Califano,U. Bindi,1
-F. Califano,C. Mattone,1
-F. Califano,G. Wright,1
-F. Califano,Nisa,1
-F. Califano,G. Faiella,1
-P. Conte,P. Massara,1
-M. Capuano,G. Capuano,1
-M. Capuano,S. Boswell,1
-M. Pedretti,C. Ruggiero,1
-M. Pedretti,D. Calvio,1
-M. Pedretti,D. Persoglio,1
-A. Testa,M. Remigi,1
-A. Testa,G. Colonnello,1
-A. Testa,E. Sciorilli,1
-A. Testa,G. Cichellero,1
-A. Testa,P. Donaggio,1
-A. Testa,C. A. Rossi,1
-A. Testa,G. Compare,1
-A. Testa,T. Renis,1
-A. Testa,Mogol,1
-E. Paselli,F. Poli,1
-M. Vicino,D. Pace,1
-Schiava,C. Gigli,1
-M. Ciappelli,V. Tosetto,1
-M. Ciappelli,F. Facchinetti,1
-M. Ciappelli,S. Bertolotti,1
-M. Ciappelli,D. Calvetti,1
-G. Isgrò,A. De Sanctis,1
-M. Z. Granieri,R. Siani,2
-Zibio,G. Fabor,1
-N. Fabi,C. Dazzi,1
-N. Fabi,R. Sinigallia,2
-N. Fabi,D. Sinigallia,1
-V. Chiaravalle,A. Bergamaschi,1
-A. Fontana,C. Ferrari,2
-A. Fontana,I. Porceddu,1
-G. Artegiani,M. Marrocchi,1
-G. Artegiani,S. Salemi,1
-A. Febo,F. Moro,1
-A. Febo,S. Profeta,1
-A. Febo,A. Carnevali,1
-R. Onori,S. Romano,1
-L. Patruno,G. Giorgilli,1
-L. Patruno,A. Leone,1
-L. Patruno,L. Rana,2
-L. Patruno,C. Noto,3
-C. Ruggiero,D. Calvio,1
-C. Ruggiero,D. Persoglio,1
-A. Manfredi,M. Manzani,2
-A. Drusian,C. Di Domenico,1
-A. Drusian,F. Ricci,1
-E. Falcocchio,U. Bertini,1
-R. Riefoli,G. Dati,1
-R. Riefoli,U. Tozzi,1
-R. Carosone,Nisa,1
-S. Sylvestre,A. De Curtis,1
-S. Sylvestre,S. Maiuolo,1
-A. Ventura,M. Munzi,1
-I. Ianne,Dinaro,1
-I. Ianne,F. Leali,1
-I. Ianne,T. Cutugno,1
-I. Ianne,C. Malgioglio,1
-I. Ianne,A. Cogliati,1
-L. Pellegrino,F. Migliacci,1
-L. Pellegrino,E. Sbriccoli,1
-A. Tatangelo,V. D'Agostino,1
-A. Tatangelo,G. D'Alessio,1
-A. Debernardi,G. Colonnelli,1
-A. Debernardi,Irama,1
-A. Debernardi,G. Nenna,1
-D. Dezi,D. Petrella,1
-D. Dezi,Achille Lauro,1
-D. Dezi,D. Mungai,1
-D. Dezi,Boss Doms,1
-M. Calò,Bungaro,1
-M. Calò,G. Ferreri,1
-G. Bersola,F. Minoia,1
-M. Zanfagna,M. De Martino,1
-J. Maiello Ferry,J. M. Maiello Ferry,1
-G. Dati,M. Falagiani,1
-G. Dati,M. Masini,1
-G. Dati,P. Vallesi,1
-M. Saggese,M. Vergnaghi,1
-M. Saggese,Zucchero Fornaciari,1
-L. Guenzi,A. Guidetti,1
-L. Guenzi,A. Cazzola,1
-L. Guenzi,M. Romagnoli,2
-L. Guenzi,E. Roberto,1
-G. Guglielminetti,I. Fossati,1
-U. Bindi,N. Salerno,1
-U. Bindi,Nisa,1
-G. Guarneri,P. P. Preti,1
-R. Casale,G. Restelli,1
-R. Casale,G. Di Michele,1
-V. D'Agostino,G. D'Alessio,1
-V. D'Agostino,L. D'Alessio,1
-F. Vaccari,P. Miano,1
-F. Vaccari,M. Mudimbi,1
-F. Vaccari,A. Bonomo,1
-M. Marrocchi,S. Di Nardo,1
-M. Marrocchi,S. Bardotti,1
-M. Marrocchi,F. Migliacci,1
-M. Marrocchi,V. Tariciotti,1
-M. Marrocchi,A. De Sanctis,3
-M. Marrocchi,Petaluma,1
-M. Marrocchi,G. Cassia,1
-A. Aquilani,M. Marcolini,2
-V. Rossi,G. Curreri,1
-R. Pradella,R. Angiolini,1
-Bungaro,G. Romanelli,1
-Bungaro,A. Fresa,1
-Bungaro,G. Ferreri,1
-Bungaro,Pacifico,1
-C. Cecchetto,L. Cersosimo,1
-C. Cecchetto,L. Cherubini,1
-Sebastiani,E. Palumbo,1
-Sebastiani,Lazzari,1
-M. Zenima Granieri,M. Calabrese,1
-M. Zenima Granieri,M. D'Angelo,1
-M. Zenima Granieri,P. Magoni,1
-Zibba,A. Balestrieri,1
-M. Panzeri,L. Barazzetti,1
-M. Panzeri,D. Pace,1
-M. Panzeri,L. Pilat,1
-M. Panzeri,N. Rastelli,1
-M. Panzeri,G. Colonnello,1
-M. Panzeri,R. Livraghi,1
-M. Panzeri,U. Fusco,1
-M. Panzeri,Nisa,1
-M. Panzeri,C. Donida,1
-M. Panzeri,M. Del Prete,1
-M. Panzeri,G. Argenio,1
-R. Pazzaglia,D. Modugno,1
-R. Pazzaglia,G. Fabor,2
-F. Fasano,Depsa,1
-F. Fasano,G. Faiella,1
-F. Fasano,A. Cogliati,1
-M. Di Franco,S. Moschetto,1
-D. Calvio,D. Persoglio,1
-P. Limiti,G. Puzzo,1
-P. Limiti,E. Capotosti,2
-P. Limiti,B. Moglia,1
-G. Fiorelli,M. Ruccione,1
-D. Melotti,P. Meneguzzi,1
-D. Melotti,P. Meneguzzo,1
-R. Gianco,G. Pieretti,1
-D. Massa,Assolo,1
-D. Massa,Carlotta,1
-D. Massa,M. De Iaco,1
-D. Massa,L. Angelosanti,1
-G. Spagna,F. Zanotti,2
-G. Spagna,M. Marati,1
-G. Spagna,A. Valsiglio,1
-G. Spagna,I. Spagna,1
-F. Renga,D. Faini,1
-F. Renga,M. Zappatini,3
-A. Annona,G. D'Angelo,1
-M. Alemanno,R. Costa,1
-J. Fontana,R. Gigli,1
-J. Fontana,F. Migliacci,1
-J. Fontana,C. Pes,1
-S. Di Nardo,A. De Sanctis,1
-C. Dazzi,R. Sinigallia,3
-C. Dazzi,D. Sinigallia,1
-F. Abbate,G. Anastasi,1
-F. Abbate,F. Gargiulo,1
-F. Abbate,F. Michielin,3
-M. Mengoni,F. De Benedittis,1
-M. Mengoni,M. Calabrese,1
-M. Mengoni,S. Fabiani,1
-F. Camba,M. Masini,1
-C. Tortora,G. D'Angelo,1
-Querencio,F. Specchia,1
-Querencio,C. Dammicco,1
-A. Papetti,C. A. Rossi,1
-Cavaros,P. Mangini,1
-E. Ghinazzi,G. P. Reverberi,1
-E. Ghinazzi,D. Pace,1
-E. Ghinazzi,P. Barabani,1
-E. Ghinazzi,D. Farina,1
-M. Filardo,G. Anastasi,1
-M. Filardo,G. Mangiaracina,1
-Dinaro,C. Malgioglio,1
-Y. Carrisi,V. Incenzo,1
-G. D'Anzi,U. Bertini,1
-G. D'Anzi,N. Salerno,1
-F. Zanotti,M. Marati,1
-F. Zanotti,Depsa,1
-F. Zanotti,R. Cardelli,4
-F. Zanotti,S. Monetti,1
-F. Zanotti,A. Valsiglio,1
-F. Zanotti,I. Spagna,1
-F. Zanotti,T. Maiello,1
-L. Marielli,F. De André,3
-L. Marielli,P. Bertoli,2
-G. Giorgilli,A. Leone,1
-G. Giorgilli,L. Rana,1
-G. Giorgilli,C. Noto,1
-Tosca,M. Venturiello,1
-Da Rovere,Carrel,1
-Da Rovere,A. Valleroni,1
-P. Mammaro,P. Romitelli,1
-P. Mammaro,E. Munda,1
-P. Mammaro,A. Carozza,1
-I. Callegari,F. Migliacci,1
-L. Valori,M. Di Paolo,1
-L. Valori,D. De Santis,1
-L. Valori,L. Bruti,1
-La Valle,Lattuada,1
-La Valle,Rolla,1
-L. Chiaravalli,P. Turci,1
-L. Chiaravalli,F. Gabbani,1
-L. Chiaravalli,Nek,1
-L. Chiaravalli,G. Curreri,1
-L. Chiaravalli,G. Fazio,1
-L. Chiaravalli,F. Bianconi,1
-L. Chiaravalli,L. Gonzalez Alea,1
-L. Chiaravalli,G. Anania,1
-L. Chiaravalli,S. Grandi,1
-L. Chiaravalli,A. Bonomo,2
-O. Rubino,A. Rodini,1
-G. Redi,N. Salerno,1
-O. Avogadro,D. Pace,1
-O. Avogadro,M. Lavezzi,1
-O. Avogadro,C. Sebastianelli,1
-O. Avogadro,F. Ricciardi,1
-O. Avogadro,R. Borghetti,1
-O. Avogadro,O. Prudente,1
-L. Barazzetti,D. Pace,1
-Fedez,L. Fragola,1
-C. Maccaro,K. Scherer,1
-C. Maccaro,V. Stein,1
-G. Nuti,Malise,1
-S. Bersani,B. D'Onghia,1
-E. Palumbo,P. Pinna,1
-E. Palumbo,G. Simonelli,1
-E. Palumbo,Lazzari,1
-G. P. Reverberi,P. Barabani,3
-D. Pace,L. Pilat,1
-D. Pace,Cashin,1
-D. Pace,R. Livraghi,1
-D. Pace,M. Lavezzi,1
-D. Pace,C. Sebastianelli,1
-D. Pace,F. Ricciardi,1
-D. Pace,R. Borghetti,1
-D. Pace,M. Del Prete,1
-D. Pace,D. Farina,1
-D. Pace,G. Argenio,1
-D. Pace,A. Fornaciari,1
-M. Del Forno,E. Mangia,1
-M. Del Forno,R. Cardelli,1
-M. Del Forno,F. Caprara,1
-D. Gambi,A. Nanni,1
-D. Gambi,M. Casadei,1
-G. Morra,G. Togni,1
-G. Morra,R. Fogli,1
-G. Romanelli,P. Laquidara,1
-R. Rubino,A. Rodini,1
-R. Zappalorto,S. Cenci,1
-F. Leali,V. Tosetto,2
-F. Leali,T. Cutugno,4
-F. Leali,S. Bardotti,2
-F. Leali,L. Sepe,1
-F. Leali,M. Schembri,1
+M. Rinalduzzi,M. D'Angelo,2
+M. Rinalduzzi,M. Calabrese,2
+S. Seracini,G. C. Testoni,2
+S. Seracini,M. Panzeri,2
+S. Seracini,E. Minoretti,4
+L. Rana,A. Leone,2
+L. Rana,C. Noto,5
+L. Rana,G. Giorgilli,2
+L. Rana,L. Patruno,3
+G. Padovan,A. De Sanctis,3
+C. Ori,M. Marcolini,5
+C. Ori,I. Fornaciari,5
+M. Adami,M. Masini,4
+M. Adami,A. Iammarino,4
+P. Frescura,A. De Sanctis,4
+C. Dammicco,Zacar,1
+C. Dammicco,Querencio,8
+C. Dammicco,F. Specchia,8
+C. Dammicco,Sentacruz,4
+M. Riva,D. Civaschi,4
+F. Leali,G. Fasano,4
+F. Leali,L. Sepe,4
+F. Leali,I. Ianne,13
+F. Leali,M. Schembri,10
+F. Leali,T. Cutugno,10
+F. Leali,F. Berlincioni,1
+F. Leali,V. Pallavicini,5
 F. Leali,E. Malepasso,1
-M. Tirelli,A. Mingardi,1
-M. Varini,A. De Sanctis,1
-Donida,Mogol,1
-L. Silvi,S. Cenci,1
-L. Silvi,F. Migliacci,1
-L. Silvi,E. Fratini,1
-E. Pietrelli,I. Fornaciari,1
-E. Pietrelli,M. Marcolini,1
-M. Di Paolo,D. De Santis,2
-M. Di Paolo,L. Bruti,2
-M. Violante,Kynsha,2
-M. Violante,C. Lessona,1
-M. Violante,P. Martella,1
+F. Leali,V. Tosetto,3
+F. Leali,F. Ciani,3
+F. Leali,S. Bardotti,5
+A. Sopranzi,G. Fassino,5
+A. Debernardi,G. Nenna,4
+A. Debernardi,Irama,9
+L. Vizzini,R. Pippa,10
+L. Vizzini,A. Flora,29
+Falco,A. Piga,5
+Falco,M. De Angelis,9
+G. Fasano,I. Ianne,3
+G. Fasano,T. Cutugno,4
+G. Fasano,F. Berlincioni,8
+G. Fasano,F. Ciani,2
+G. Fasano,A. Cogliati,6
+G. Fasano,S. Bardotti,6
+A. Istroni,G. Pegoraro,6
+D. Calvetti,S. Bertolotti,6
+D. Calvetti,M. Ciappelli,5
+M. Grilli,F. Fugazza,6
+M. Grilli,A. Mahmoud,6
+P. Bertoli,L. Marielli,6
+P. Bertoli,M. Negri,6
+M. Pilato,M. Monticelli,6
+M. Pilato,M. Pasini,6
+M. Pilato,G. Novi,7
+M. Pilato,F. Serafini,6
+G. Dati,B. Zucchetti,10
+G. Dati,G. Bigazzi,7
+G. Dati,G. Orlandi,6
+G. Dati,M. Falagiani,3
+G. Dati,M. Masini,3
+G. Dati,P. Vallesi,9
+G. Dati,R. Riefoli,9
+E. Isola,Mogol,6
+P. Brera,J. Monasta,6
+P. Brera,G. Godi,10
+A. Bettini,A. De Sanctis,2
+A. Bettini,M. Telli,2
+D. Persoglio,C. Ruggiero,10
+D. Persoglio,M. Pedretti,9
+D. Persoglio,D. Calvio,8
+E. Marrone,O. Angiuli,8
+A. Baracco,E. Diana,6
+A. Baracco,C. Lo Mele,2
+A. Baracco,G. Giancursi,2
+A. Baracco,T. Cerasuolo,10
+L. Sepe,M. Schembri,4
+L. Sepe,E. Malepasso,10
+G. Lucariello,M. Fabrizio,4
+Miani,P. Montanari,1
+M. Z. Granieri,S. Sichel,10
+L. D'Alessio,Mogol,3
+L. D'Alessio,S. M. Sorrentino,3
+A. Aquilani,M. Marcolini,6
+B. Gilbo,G. Bigazzi,6
+B. Gilbo,S. Martelli,6
+A. Carrisi,M. Bizzarri,6
+A. Carrisi,F. Berlincioni,6
+A. Carrisi,V. Pallavicini,6
+A. Carrisi,G. Marcucci,5
+A. Carrisi,V. Mercurio,1
+A. Carrisi,W. Molco,1
+S. Fabiani,P. Calabrese,4
+S. Fabiani,M. Calabrese,7
+O. Prudente,O. Avogadro,1
+O. Prudente,I. Fossati,14
+F. Coppini,G. Zagni,1
+E. Falcocchio,U. Bertini,16
+R. Cardelli,T. Maiello,8
+R. Cardelli,F. Ferraguzzo,8
+R. Cardelli,F. Zanotti,4
+R. Cardelli,F. Mobrici,9
+R. Cardelli,E. Mangia,5
+R. Cardelli,M. Del Forno,4
+S. Bertolotti,M. Ciappelli,4
+M. Agnelli,D. Silvestri,5
+M. Agnelli,F. Rondanini,9
+M. Agnelli,T. Iurcich,9
+A. Bavo,P. Miano,9
+A. Bavo,F. Vaccari,9
+A. Bavo,M. Mudimbi,5
+D. Baldan Bembo,P. A. Cassella,9
+L. Angelosanti,Carlotta,19
+L. Angelosanti,Assolo,10
+L. Angelosanti,D. Massa,9
+L. Angelosanti,M. De Iaco,9
+N. Rastelli,A. Fragna,6
+N. Rastelli,M. Panzeri,6
+I. Porceddu,C. Ferrari,12
+I. Porceddu,A. Fontana,7
+M. Monticelli,M. Pasini,7
+M. Monticelli,G. Novi,10
+M. Monticelli,F. Serafini,3
+A. Caponi,D. Mariano,3
+A. Caponi,E. La Valle,3
+A. Caponi,Don Backy,6
+C. Valli,A. Anastasio,5
+C. Valli,G. Trovato,6
+C. Tortora,G. D'Angelo,6
+L. Gonzalez Alea,F. Bianconi,4
+L. Gonzalez Alea,L. Chiaravalli,4
+S. Melloni,M. Natale,4
+P. Bentivoglio,A. Costanzo,8
+P. Bentivoglio,C. Gori,8
+C. Marrale,L. Valente,7
+C. Marrale,A. Ruggiero,7
+C. Marrale,A. Stellita,8
+L. Barazzetti,D. Pace,7
+L. Barazzetti,M. G. Gili,19
+L. Barazzetti,M. Panzeri,9
+S. Ortone,P. FinÃ ,10
+Cashin,D. Pace,10
+Cashin,S. Testi,10
+Cashin,M. Colucci,10
+Cashin,L. Carnacina,3
+D. L. Civaschi,N. Fasani,3
+D. L. Civaschi,S. Conforti,9
+D. L. Civaschi,S. Belisari,12
+D. Mungai,Achille Lauro,1
+D. Mungai,D. Petrella,5
+D. Mungai,D. Dezi,1
+M. Pasini,G. Novi,11
+M. Pasini,F. Serafini,7
+G. IsgrÃ²,A. De Sanctis,7
+D. Ciaramella,M. Tronco e G. Servillo,6
+D. Ciaramella,F. Spinetti,1
+D. Ciaramella,F. Mesolella,1
+M. Conti,D. Benedetti,6
+M. Conti,M. Munzi,6
+M. Conti,A. Ventura,6
+A. Canini,F. Di GesÃ¹,31
+Dardust,Charlie Charles,7
+A. Piccareta,G. Arena,4
+P. Gagliardi,G. Amendola,3
+F. Draicchio,M. Romagnoli,2
+F. Draicchio,L. Guenzi,2
+F. Draicchio,A. Guidetti,2
+F. Draicchio,A. Cazzola,2
+I. Ianne,T. Cutugno,4
+I. Ianne,F. Berlincioni,4
+I. Ianne,C. Malgioglio,8
+I. Ianne,C. Daiano,8
+I. Ianne,A. Cogliati,8
+S. Iodice,M. Di Francia,8
+S. Iodice,F. Berlincioni,5
+S. Iodice,F. Bongusto,3
+P. Pintucci,D. Masini,5
+Roberto Colombo,A. Ruggiero,6
+Noemi,R. Frenneaux,3
+Noemi,C. Ailin,3
+C. Pes,F. Migliacci,2
+C. Pes,J. Fontana,2
+R. Colombo,A. Ruggiero,7
+D. Mariano,D. Backy,10
+D. Mariano,Don Backy,9
+D. Mariano,Mogol,9
+M. Pagani,G. Paoli,2
+M. Pagani,S. Bardotti,2
+Y. Carrisi,R. Zero,2
+Y. Carrisi,V. Incenzo,18
+E. Mineo,S. Mineo,8
+L. Bacalov,S. Endrigo,8
+L. Bacalov,S. Bardotti,8
+Kynsha,M. Violante,10
+Kynsha,P. Martella,16
+P. Frassi,K. Ammar,9
+F. Fasano,G. Faiella,10
+F. Fasano,A. Cogliati,16
+F. Fasano,G. Anelli,10
+G. Mattei,L. Bechelli,10
+G. Mattei,M. Marati,9
+D. Bosio,C. Farolfi,1
+D. Bosio,D. De Marinis,8
+P. Mammaro,A. Carozza,2
+P. Mammaro,G. Nannini,3
+P. Mammaro,P. Romitelli,1
+P. Mammaro,E. Munda,2
+M. Guarniero,M. Pezzali,14
+C. Rigano,S. Romano,8
+D. Farina,T. Cutugno,10
+D. Farina,P. A. Cassella,2
+D. Farina,D. Pace,5
+D. Farina,E. Ghinazzi,5
+D. Farina,G. Rampazzo,5
+M. Patrignani,F. Evangelisti,5
+M. Patrignani,Laurex,8
+Comas,A. Bella,8
+Comas,A. Zitelli,7
+G. Morandi,Mogol,7
+L. Piscopo,M. Baglioni,4
+L. Piscopo,L. Baglioni,4
+V. Tariciotti,F. Migliacci,4
+V. Tariciotti,M. Marrocchi,7
+V. Tariciotti,Petaluma,4
+S. Cenci,E. Fratini,7
+S. Cenci,L. Silvi,9
+S. Cenci,F. Migliacci,7
+L. Fainello,D. Fainello,2
+L. Fainello,R. Tini,7
+F. Rendine,A. Pugliese,8
+F. Rendine,G. C. Testoni,5
+E. Vianello,V. Pallavicini,22
+Carlotta,Assolo,5
+Carlotta,D. Massa,12
+Carlotta,M. De Iaco,10
+F. Arrigoni,G. Argenio,6
+F. Arrigoni,D. Pace,10
+F. Arrigoni,C. Conti,5
+F. Arrigoni,M. Panzeri,5
+A. Leone,C. Noto,6
+A. Leone,G. Giorgilli,8
+A. Leone,L. Patruno,8
+M. Repetto,M. Pezzali,8
+N. Brunialti,G. Ortenzi,8
+G. Reitano,R. Bolognesi,10
+G. Reitano,F. Sacco,10
+C. Ruggiero,M. Pedretti,10
+C. Ruggiero,D. Calvio,10
+U. Iervolino,P. Renga,5
+A. Lo Vecchio,R. Vecchioni,5
+A. Lo Vecchio,S. Rocchetti,2
+A. Fornaciari,D. Pace,5
+A. Fornaciari,D. Milani,5
+A. Fornaciari,E. Malepasso,9
+A. Fornaciari,I. Fornaciari,9
+A. Fornaciari,D. Dattoli,3
+F. Fanigliulo,D. Pace,8
+F. Fanigliulo,R. Borghetti,8
+F. Fanigliulo,O. Avogadro,3
+R. Mogliotti,E. Ruggeri,17
+A. Genovese,L. Capello,8
+F. Boccia,C. Esposito,29
+B. Pallesi,V. Panzuti,8
+B. Pallesi,P. Calvi,8
+B. Pallesi,Pinchi,7
+B. Pallesi,W. Malgoni,8
+M. Schembri,E. Malepasso,7
+L. Cersosimo,C. Cecchetto,10
+E. Jannacci,P. Jannacci,10
+T. Palamara,F. C. Casellati,18
+S. Nasuti,E. Caterini,4
+S. Nasuti,S. Borzi,4
+G. Bigazzi,T. Savio,4
+G. Bigazzi,M. Signorini,4
+G. Bigazzi,M. Falagiani,2
+G. Bigazzi,M. Masini,2
+G. Bigazzi,U. Tozzi,2
+G. Bigazzi,F. Palmieri,2
+G. Bigazzi,R. Riefoli,2
+G. Bigazzi,S. Martelli,2
+S. Costantini,D. Ceruti,10
+E. Fratini,L. Silvi,10
+E. Fratini,F. Migliacci,10
+L. Valente,A. Stellita,10
+L. L. Martelli,G. Castellani,7
+G. Kramer,V. Pallavicini,5
+G. Kramer,G. C. Testoni,10
+L. Valori,L. Bruti,7
+L. Valori,M. Di Paolo,7
+G. Novi,F. Serafini,1
+L. Silvi,F. Migliacci,10
+F. Di GesÃ¹,C. Galbignani,10
+F. Di GesÃ¹,L. Beccafichi,10
+M. Mariotti,L. Gambetti,10
+R. Musumarra,S. Testi,1
+R. Musumarra,R. Zaneli,15
+M. Mastrangeli,M. Conidi,10
+D. Silvestri,F. Rondanini,5
+D. Silvestri,T. Iurcich,5
+F. Migliacci,F. Palazzolo,5
+F. Migliacci,F. Paulin,1
+F. Migliacci,L. Pellegrino,1
+F. Migliacci,M. Marrocchi,10
+F. Migliacci,Petaluma,10
+F. Migliacci,M. Cantini,10
+F. Migliacci,L. Bechelli,4
+F. Migliacci,J. Fontana,7
+F. Migliacci,D. Modugno,9
+F. Migliacci,L. Greco,9
+F. Migliacci,M. Goldsand,5
+F. Migliacci,F. Carraresi,17
+F. Migliacci,E. Sbriccoli,14
+F. Migliacci,I. Callegari,9
+D. Faini,C. De AndrÃ©,6
+D. Faini,A. Galbiati,3
+D. Faini,Stash,8
+D. Faini,R. Casalino,65
 D. Faini,D. Petrella,1
-D. Faini,Stash,1
-Duchesca,B. Zambrini,1
-M. Biondo,M. Fiorilla,1
-A. Mahmoud,F. Fugazza,1
-D. Bernazza,A. Piga,1
-D. Bernazza,Falco,1
-D. Bernazza,M. De Angelis,1
-G. Westley,G. Bella,1
-G. Westley,Mogol,1
-A. Ambrosino,T. Savio,1
-S. Iodice,Depsa,1
-D. Rettore,C. Rego,1
-B. Gilbo,S. Martelli,2
-N. Fasani,S. Conforti,1
-G. Golzi,C. Marrale,1
-G. Golzi,P. Cassano,1
-G. Golzi,A. Stellita,2
-Assolo,Carlotta,1
-Assolo,M. De Iaco,1
-Assolo,L. Angelosanti,2
-P. Brera,G. Godi,1
-Lubiak,F. Monti Arduini,1
-R. Brioschi,A. Salerno,1
-M. De Paolis,U. Bertini,1
-A. Salerno,C. Mattone,1
-A. Salerno,T. Cutugno,1
-A. Salerno,S. Borgia,1
-A. Salerno,R. Pareti,1
-A. Salerno,G. Bella,1
-A. Salerno,Alexia,1
-A. Salerno,A. Mango,1
-A. Salerno,P. Mango,1
-A. Salerno,C. Guidetti,1
-Noemi,C. Ailin,2
-A. Santonocito,L. Nigro,1
-A. Santonocito,F. Muggeo,1
-A. Anastasio,G. Trovato,1
-V. Tempera,A. Zurawski,1
-V. Tempera,M. Martellini,1
-N. Ravasini,Biri,1
-N. Ravasini,N. Salerno,1
-V. Tosetto,A. Cogliati,1
-L. Raggi,B. Pallini,1
-L. Raggi,U. Balsamo,2
-G. Zagni,R. Cellamare,2
-G. Zagni,F. Coppini,1
-N. Rastelli,A. Fragna,1
-C. Mattone,T. Cutugno,1
-C. Mattone,G. Wright,1
-C. Mattone,S. Borgia,1
-C. Mattone,R. Arbore,1
-C. Mattone,F. Migliacci,1
-C. Mattone,G. Faiella,1
-E. Giudizi,V. Centrone,1
-G. Mattei,M. Marati,1
-G. Mattei,L. Bechelli,1
-C. Minellono,T. Cutugno,1
-C. Minellono,D. Farina,1
-C. Minellono,U. Balsamo,1
-C. Minellono,G. De Stefani,1
-R. Power,V. Mercurio,1
-R. Power,A. Carrisi,1
-G. Colonnello,Nisa,1
-G. Colonnello,L. Albertelli,1
-F. De Benedittis,F. Gazzè,1
-F. De Benedittis,M. Gazzè,1
-G. Caccamo,M. Ayane,1
-G. Caccamo,Pacifico,1
-M. Marati,Depsa,1
-M. Marati,S. Monetti,1
-M. Marati,A. Valsiglio,1
-M. Marati,I. Spagna,1
-M. Marati,L. Bechelli,1
-M. Marati,D. Ciaramella,1
-M. Marati,R. Buti,1
-Carlotta,M. De Iaco,1
-Carlotta,L. Angelosanti,1
-C. Marrale,L. Valente,1
-C. Marrale,P. Cassano,2
-C. Marrale,S. Cossu,1
-C. Marrale,A. Stellita,1
-C. Marrale,M. Bassi,1
-D. De Santis,L. Bruti,1
-M. Perrone,Biri,1
-S. Simoni,A. Valleroni,1
-R. Di Benedetto,L. Fragola,1
-R. Di Benedetto,A. Filippelli,1
-U. Smaila,M. Lavezzi,1
-U. Smaila,A. Cogliati,1
-L. Valente,S. Cossu,1
-L. Valente,A. Stellita,1
-L. Valente,M. Bassi,1
-V. Capasso,G. Finizio,1
-S. Borzi,S. Nasuti,1
-S. Borzi,S. Mattoccia,1
-W. Bassani,E. Aldrighetti,1
-A. Fresa,Pacifico,1
-A. Leone,L. Rana,1
-A. Leone,C. Noto,1
-G. Amendola,P. Gagliardi,1
-Calibi,C. Donida,1
-F. Gazzè,M. Gazzè,1
-B. Lauzi,G. Guarnieri,1
-P. Romitelli,G. Curreri,1
-P. Romitelli,E. Munda,1
-P. Romitelli,A. Carozza,1
-A. Mirò,E. Ruggeri,1
-S. Cutugno,D. De Marinis,1
-S. Cutugno,Depsa,1
-A. De Curtis,S. Maiuolo,1
-L. Visentin,P. Cassano,1
-L. Visentin,A. Cogliati,1
-P. Armenise,M. Armani,1
-E. Sciorilli,D. Calcagno,1
-V. Negrini,R. Facchinetti,1
-V. Negrini,C. Facchinetti,1
-M. Pecora,T. Montelpare,1
-M. Pecora,Zenonazza,1
-F. Zampaglione,R. Sinigallia,1
-M. Vergnaghi,Zucchero Fornaciari,1
-P. P. Peroni,M. Guarniero,1
-P. P. Peroni,M. Pezzali,1
-Carrel,A. Valleroni,1
-L. Rana,C. Noto,1
-S. Endrigo,S. Bardotti,1
-S. Endrigo,L. Bacalov,2
-P. Turci,G. Chiocchio,1
-P. Turci,R. Casini,1
-P. Turci,C. Consoli,1
-P. Turci,G. Anania,1
-T. Cutugno,S. Borgia,1
-T. Cutugno,G. Rampazzo,3
-T. Cutugno,Depsa,2
-T. Cutugno,D. Farina,1
-G. F. Reverberi,Mogol,1
-G. F. Reverberi,M. Scommegna,1
-M. Ayane,Pacifico,1
-F. Maresca,M. Pagano,1
-P. Cassano,L. Bonometti,1
-P. Cassano,A. Stellita,1
-P. Cassano,M. Natale,1
-P. Cassano,A. Cogliati,1
-Biri,C. A. Rossi,1
-D. Baima Besquet,L. Albertelli,1
-D. Baima Besquet,L. Lopez,1
-T. Montelpare,S. Jurgens,1
-T. Montelpare,G. Galgani,1
-T. Montelpare,Zenonazza,2
-P. Iezzi,C. Iezzi,1
-M. Pagani,S. Bardotti,1
-M. Pagani,G. Paoli,1
-D.L. Pieretti,R. Sanna,1
-D. De Marinis,C. Farolfi,1
-M. Guarniero,M. Pezzali,1
-I. Fornaciari,D. Dattoli,1
-I. Fornaciari,M. Marcolini,1
-I. Fornaciari,A. Fornaciari,1
-A. Nanni,M. Casadei,1
-D. Petrella,Stash,2
-D. Petrella,Achille Lauro,1
-D. Petrella,D. Mungai,1
-D. Petrella,Boss Doms,1
-A. Baracco,E. Diana,1
-A. Baracco,R. Lo Mele,2
-S. Dionigi,G. Novi,2
-S. Dionigi,M. Pilato,2
-A. Zurawski,M. Martellini,2
-M. Pezzali,M. Repetto,1
-R. Gigli,F. Migliacci,3
-D. Calcagno,M. Marini,1
-D. Calcagno,N. Oliviero,1
-L. Fragola,A. Filippelli,1
-E. Toffoli,Zucchero Fornaciari,2
-A. Celentano,L. Fulci,1
-A. Celentano,N. de Luca,1
-A. Celentano,M. Del Prete,1
-A. Celentano,P. Vivarelli,1
-G. Wright,G. Faiella,1
-S. Profeta,A. Carnevali,1
-E. Ruggeri,M. Manzani,1
-E. Ruggeri,L. Schiavone,1
-Pellecalamaio,C. Canzian,1
-S. Bardotti,R. Cellamare,1
-S. Bardotti,L. Bacalov,1
-S. Bardotti,G. Cassia,1
-S. Bardotti,G. Paoli,1
-Nek,G. Fazio,1
-Nek,A. Bonomo,1
-L. Gambetti,A. Mari,1
-L. Gambetti,M. Mariotti,1
-M. Lavezzi,A. Cogliati,1
-A. Sopranzi,G. Fassino,1
-G. Curreri,S. Grandi,1
-A. Piga,Falco,1
-A. Piga,M. De Angelis,1
-F. Specchia,C. Dammicco,1
-D. Sacco,G. Carletti,1
-D. Sacco,C. Cattini,1
-D. De Vitis,L. Panico,1
-F. Facchinetti,S. Bertolotti,1
-F. Facchinetti,D. Calvetti,1
-M. Masini,M. Manzani,1
-M. Masini,A. Iammarino,1
-G. Novi,M. Pilato,1
-Kaballà,N. Zilli,1
-Kaballà,R. Colombo,1
-G. Marchetti,R. Satti,1
-G. Marchetti,Mogol,1
-P. Miano,M. Mudimbi,1
-P. Miano,A. Bonomo,1
-C. Ferrari,I. Porceddu,1
-M. Guazzone,D. Ceruti,4
-M. Guazzone,S. Costantini,1
-S. Bertolotti,D. Calvetti,1
-F. Salvi,S. Melloni,1
-F. Salvi,M. Natale,1
-D. Dattoli,A. Fornaciari,1
-G. Morandi,G. Bella,1
-G. Morandi,Mogol,1
-G. Pollex,M. Lusini,1
-G. Pollex,O. Angiuli,1
-G. Pollex,E. Marrone,1
-A. Pugliese,F. Rendine,1
-S. Cenci,F. Migliacci,1
-S. Cenci,E. Fratini,1
-M. Spenillo,A. De Carmine,1
-G. Rampazzo,D. Farina,1
-P. Pinna,G. Simonelli,1
-T. Sinatra,G. Trovato,1
-Lattuada,Rolla,1
-F. Palazzolo,F. Migliacci,1
-L. Bonometti,M. Natale,1
-G. Fazio,A. Bonomo,1
-A. Guidetti,A. Cazzola,1
-A. Guidetti,M. Romagnoli,1
-A. Guidetti,E. Roberto,1
-G. Padovan,A. De Sanctis,1
-Depsa,G. Andreetto,1
-Depsa,S. Monetti,1
-Depsa,A. Valsiglio,1
-Depsa,E. Malepasso,1
-Depsa,G. Faiella,1
-G. Puzzo,E. Capotosti,1
-G. Puzzo,B. Moglia,1
-Falco,M. De Angelis,1
-G. Belleno,V. De Scalzi,4
-E. Isola,Mogol,1
-S. Cossu,A. Stellita,1
-S. Cossu,M. Bassi,2
-E. Capotosti,B. Moglia,4
-F. Mobrici,R. Cardelli,1
-D. Fainello,R. Tini,1
-D. Fainello,L. Fainello,1
-M. Luca,P. Palma,1
-M. Calabrese,S. Fabiani,1
-M. Calabrese,M. D'Angelo,1
-M. Calabrese,P. Magoni,1
-C. Esposito,F. Boccia,1
-G. Anastasi,G. Mangiaracina,1
-G. Capuano,S. Boswell,1
+D. Faini,F. Renga,5
+D. Faini,D. Mancino,6
+G. Orlandi,M. Masini,22
+C. Noto,G. Giorgilli,1
+C. Noto,L. Patruno,11
+I. Spagna,F. Zanotti,10
+I. Spagna,G. Spagna,8
+I. Spagna,M. Marati,10
+I. Spagna,A. Valsiglio,4
+T. Cutugno,G. Rampazzo,10
+T. Cutugno,S. Borgia,10
+A. Anastasio,G. Trovato,9
+R. Righini,A. Rizzo,12
+M. Luca,P. Palma,12
+R. Mascellino,M. Venturiello,6
+R. Mascellino,Tosca,12
+R. Zero,V. Incenzo,1
+N. de Luca,A. Celentano,2
+T. Savio,A. Ambrosino,2
+G. Argenio,D. Pace,9
+G. Argenio,C. Conti,2
+G. Argenio,M. Panzeri,9
+L. Carboni,M. Armenise,9
+Zacar,Sentacruz,5
+Querencio,F. Specchia,5
+Querencio,Sentacruz,5
+G. Fazio,L. Chiaravalli,5
+A. Piga,M. De Angelis,5
+P. A. Cassella,A. Rosario,7
+P. A. Cassella,M. Zarrillo,14
+E. Fusco,M. Luberti,8
+V. Thoma,A. Cogliati,10
+M. Tirelli,A. Mingardi,10
+A. Ruggiero,A. Stellita,5
+Zibba,A. Balestrieri,5
+L. Lopez,M. Zarrillo,10
+L. Lopez,D. Baima Besquet,10
+M. Porru,M. Tansini,3
+D. Pace,S. Testi,8
+D. Pace,R. Borghetti,3
+D. Pace,M. G. Gili,3
+D. Pace,M. Fabrizio,8
+D. Pace,C. Conti,8
+D. Pace,E. Ghinazzi,2
+D. Pace,D. Milani,8
+D. Pace,M. Lavezzi,6
+D. Pace,M. Colucci,8
+D. Pace,L. Carnacina,4
+D. Pace,O. Avogadro,2
+D. Pace,M. Panzeri,2
+E. Diana,C. Lo Mele,8
+E. Diana,G. Giancursi,10
+E. Diana,T. Cerasuolo,10
+J. Dorelli,M. Panzeri,2
+Fedez,L. Fragola,2
+G. D'Amora,L. Urbani,10
+S. Testi,V. Incenzo,10
+S. Testi,M. Colucci,3
+S. Testi,R. Zaneli,3
+S. Testi,L. Carnacina,26
 A. Bella,A. Zitelli,1
-A. Bella,Comas,1
-F. Migliacci,M. Goldsand,1
-F. Migliacci,V. Tariciotti,1
-F. Migliacci,Petaluma,1
-F. Migliacci,D. Modugno,1
-F. Migliacci,C. Pes,1
-F. Migliacci,L. Bechelli,2
-F. Migliacci,E. Fratini,1
-F. Migliacci,E. Sbriccoli,1
-M. De Iaco,L. Angelosanti,1
-T. Palamara,M. Spina,1
-G. Bella,Mogol,1
-G. Bella,G. Paoli,1
-R. Vecchioni,A. Lo Vecchio,1
-Achille Lauro,D. Mungai,1
-Achille Lauro,Boss Doms,1
-R. Tini,L. Fainello,1
-K. Scherer,V. Stein,2
-F. Gargiulo,F. Michielin,1
-T. Iurcich,M. Agnelli,3
-T. Iurcich,F. Rondanini,1
-A. Rosario,P. A. Cassella,2
-R. Cellamare,S. Tamaro,2
-R. Cellamare,F. Coppini,1
-E. Mangia,R. Cardelli,1
-E. Mangia,F. Caprara,1
-M. Goldsand,L. Bechelli,1
-L. Cersosimo,L. Cherubini,1
-V. Tariciotti,Petaluma,1
-L. Fulci,P. Vivarelli,1
-G. Restelli,G. Di Michele,1
-E. Diana,R. Lo Mele,1
-E. Suligoj,D. Modugno,1
-G. Carletti,C. Cattini,1
-M. Agnelli,F. Rondanini,1
-N. de Luca,M. Del Prete,1
-D. Ceruti,S. Costantini,1
-Leozed,M. Malavasi,1
-Leozed,A. Sandri,1
-M. Buzzanca,R. Pippa,2
-A. Stellita,M. Bassi,2
-F. Bianconi,L. Gonzalez Alea,2
-A. Cazzola,M. Romagnoli,1
-A. Cazzola,E. Roberto,1
-R. Cardelli,F. Caprara,1
-R. Cardelli,T. Maiello,1
-C. Malgioglio,U. Balsamo,1
-M. Malavasi,G. Trovato,1
-M. Malavasi,A. Sandri,1
-C. Donida,Mogol,1
-F. Cavalli,P. Cremonesi,2
-F. Cavalli,A. Valsiglio,1
-M. Reitano,M. Battistini,1
-N. Brunialti,S. Cristicchi,1
-R. Sinigallia,D. Sinigallia,1
-V. Mercurio,A. Carrisi,1
-R. Cini,G. Cassia,1
-C. De Bei,G. Mango,1
-D. Mungai,Boss Doms,1
+G. Curreri,P. Romitelli,1
+G. Curreri,L. Chiaravalli,1
+G. Curreri,V. Rossi,10
+G. Curreri,G. Pulli,10
+P. Miano,F. Vaccari,2
+P. Miano,M. Mudimbi,9
+R. Gianco,G. Pieretti,9
+F. Riccardi,L. Santoro,9
+Duchesca,B. Zambrini,8
+M. Casadei,A. Nanni,8
+P. Iezzi,C. Iezzi,20
+M. Bizzarri,G. Marcucci,10
+M. Ruccione,G. Fiorelli,8
+V. Capasso,G. Finizio,8
+R. Pippa,A. Flora,8
+P. Barabani,E. Ghinazzi,8
+P. Barabani,D. Milani,8
+P. Barabani,G. P. Reverberi,3
+G. Caccamo,M. Ayane,7
+G. Caccamo,Cheope,7
+G. Caccamo,A. Flora,10
+F. Abbate,Cheope,2
+F. Abbate,F. Michielin,10
+F. Abbate,F. Gargiulo,10
+F. Fugazza,A. Mahmoud,3
+M. Romagnoli,L. Guenzi,3
+M. Romagnoli,A. Guidetti,9
+M. Romagnoli,A. Cazzola,10
+V. Ripa,M. Panzeri,9
+L. Pellegrino,L. Greco,3
+L. Pellegrino,E. Sbriccoli,9
+M. Varini,A. De Sanctis,10
+G. Giorgilli,L. Patruno,3
+F. Evangelisti,Laurex,6
+F. Evangelisti,S. Mattoccia,10
+F. Evangelisti,S. Borzi,6
+N. Fasani,S. Conforti,6
+N. Fasani,D. Civaschi,10
+N. Fasani,S. Belisari,2
+F. Ciccotti,F. Guasti,2
+F. Ciccotti,M. Musumeci,5
+R. Pazzaglia,D. Modugno,2
+R. Pazzaglia,G. Fabor,5
+P. P. Preti,G. Guarneri,6
+M. Di Francia,F. Bongusto,6
+R. Borghetti,O. Avogadro,6
+C. De AndrÃ©,D. Mancino,6
+V. Incenzo,M. Zarrillo,3
+V. Incenzo,Laurex,8
+Assolo,D. Massa,8
+Assolo,M. De Iaco,9
+M. Natale,L. Bonometti,9
+G. Puzzo,B. Moglia,8
+T. Maiello,F. Ferraguzzo,8
+T. Maiello,F. Zanotti,9
+D. Benedetti,M. Munzi,9
+D. Benedetti,A. Ventura,3
+V. Panzuti,Pinchi,18
+B. Rifo,R. Gualazzi,10
+A. Celentano,L. Fulci,3
+L. Bruti,M. Di Paolo,2
+P. Soffici,Mogol,2
+L. Raggi,B. Pallini,2
+E. Aldrighetti,W. Bassani,5
+E. Caterini,S. Borzi,5
+Stash,D. Petrella,5
+G. Russo,V. Magelli,5
+D. De Vitis,L. Panico,5
+C. Ferrari,A. Fontana,6
+A. Carozza,G. Nannini,3
+A. Carozza,P. Romitelli,7
+A. Carozza,E. Munda,10
+G. Nannini,P. Romitelli,7
+G. Nannini,E. Munda,3
+P. Romitelli,E. Munda,10
+P. Romitelli,D. Simonetta,10
+P. Romitelli,G. Pulli,10
+L. Guenzi,A. Guidetti,9
+L. Guenzi,A. Cazzola,10
+G. Todrani,M. Fabrizio,14
+G. Todrani,S. Sylvestre,8
+G. Todrani,M. Calabrese,8
+G. Todrani,V. Tosetto,17
+G. Todrani,S. Maiuolo,8
+G. Todrani,A. Cogliati,29
+G. Todrani,E. Ramazzotti,8
+L. Marielli,F. De AndrÃ©,5
+La Valle,Lattuada,8
+F. Bianconi,L. Chiaravalli,7
+D. Massa,M. De Iaco,8
+M. G. Gili,M. Panzeri,7
+S. Conforti,D. Civaschi,10
+S. Conforti,S. Belisari,8
+L. Fragola,F. Ferraguzzo,8
+L. Fragola,R. Di Benedetto,8
+L. Fragola,A. Filippelli,8
+L. Quarantotto,A. Napoletano,12
+L. Quarantotto,F. Sartori,5
+P. Magoni,M. D'Angelo,7
+P. Magoni,M. Calabrese,7
+M. Venturiello,Tosca,10
+M. Fabrizio,R. Fogli,10
+M. Fabrizio,S. D'Orazio,10
+M. Fabrizio,V. Spampinato,10
+A. Rosario,M. Zarrillo,4
+C. Rego,Cheope,8
+C. Rego,D. Rettore,5
+D. Sacco,G. Carletti,5
+D. Sacco,C. Cattini,9
+F. Camba,M. Masini,3
+F. Camba,D. Coro,9
+F. Berlincioni,S. Cutugno,2
+F. Berlincioni,V. Tosetto,7
+F. Berlincioni,F. Ciani,9
+F. Berlincioni,A. Cogliati,18
+F. Berlincioni,S. Bardotti,5
+N. Piras,C. Patti,16
+M. Alemanno,R. Costa,9
+C. Conti,M. Panzeri,7
+V. Pallavicini,Biri,6
+V. Pallavicini,S. Cutugno,9
+V. Pallavicini,P. Conte,9
+V. Pallavicini,V. Mercurio,9
+V. Pallavicini,P. Massara,9
+V. Pallavicini,G. Mescoli,3
+V. Pallavicini,W. Molco,3
+V. Pallavicini,G. P. Felisatti,8
+C. Farolfi,D. De Marinis,32
+M. Ayane,F. ArnÃ²,8
+M. Ayane,A. Flora,9
+Zucchero Fornaciari,M. Saggese,10
+Zucchero Fornaciari,E. Malepasso,10
+Zucchero Fornaciari,E. Toffoli,10
+G. Ciarella,M. De Peppe,10
+Sebastiani,E. Palumbo,10
+Sebastiani,V. Magelli,6
+Biri,W. Malgoni,6
+G. Fiorellino,A. Casaburi,18
+M. Zarrillo,D. Baima Besquet,2
+F. Ventura,P. Calabrese,8
+F. Ventura,L. Carnacina,6
+G. Guglielminetti,I. Fossati,6
+E. Ghinazzi,D. Milani,6
+E. Ghinazzi,G. P. Reverberi,6
+A. De Sanctis,M. Marrocchi,4
+A. De Sanctis,M. Telli,6
+Cheope,F. Michielin,10
+Cheope,M. Marati,10
+Cheope,O. Angelillo,10
+Cheope,A. Valsiglio,6
+Cheope,F. Tanini,10
+Cheope,D. Rettore,10
+Cheope,F. Gargiulo,8
+Cheope,R. Buti,10
+M. Marrocchi,Petaluma,5
+M. Marrocchi,S. Bardotti,10
+M. Ciappelli,V. Tosetto,10
+G. Anania,P. Turci,5
+G. Anania,D. Simonetta,10
+G. Anania,L. Chiaravalli,1
+M. Del Freo,D. Marchetti,9
+G. Carletti,C. Cattini,8
+U. Bertini,G. D'Anzi,8
+G. D'Anzi,N. Salerno,8
+G. D'Anzi,Pinchi,4
+F. Gabbani,F. Ilacqua,3
+F. Gabbani,L. Chiaravalli,3
+D. Milani,G. Trovato,1
+M. Pecora,Zenonazza,9
+D. Fossati,C. De AndrÃ¨,9
+M. Cantini,J. Fontana,26
+M. Cantini,L. Greco,10
+L. Bechelli,M. Goldsand,7
+L. Bechelli,M. Marati,5
+L. Bechelli,F. Carraresi,5
+R. Di Bella,P. Meneguzzo,7
+R. Di Bella,L. Mattioni,5
+A. Nicorelli,G. Pieretti,9
+S. Cutugno,D. De Marinis,8
+M. Masini,A. Iammarino,8
+M. Masini,D. Coro,5
+D. Fainello,R. Tini,5
+S. Endrigo,S. Bardotti,5
+M. Lavezzi,O. Avogadro,9
+M. Lavezzi,F. Ciani,7
+M. Lavezzi,A. Cogliati,7
+F. Specchia,Sentacruz,9
+C. Lo Mele,G. Giancursi,5
+C. Lo Mele,T. Cerasuolo,9
+D. Backy,Mogol,9
+E. Suligoj,D. Modugno,9
+R. Frenneaux,C. Ailin,9
+S. Boswell,G. Capuano,9
+A. Guidetti,A. Cazzola,9
+F. Ferraguzzo,R. Di Benedetto,9
+F. Ferraguzzo,F. Zanotti,4
+F. Ferraguzzo,A. Filippelli,4
+F. Ferraguzzo,E. Mangia,4
+F. Ferraguzzo,M. Del Forno,3
+M. Pedretti,D. Calvio,5
+M. Munzi,A. Ventura,5
+F. Silvestre,E. Palmosi,8
+F. Silvestre,L. Sala,8
+Laurex,G. Fulcheri,10
+G. Galgani,S. Jurgens,4
+P. Turci,D. Simonetta,10
+P. Turci,L. Chiaravalli,8
+P. Turci,C. Consoli,9
+V. Tempera,A. Zurawski,6
+F. Zampaglione,R. Sinigallia,9
+A. Scarrone,D. Simonetta,9
+J. Fontana,L. Greco,3
+L. Fiori,R. Lanzo,9
+M. Baglioni,L. Baglioni,10
+S. Mattoccia,S. Borzi,9
+P. Conte,P. Massara,6
+F. Rondanini,T. Iurcich,8
+A. Carnevali,A. Febo,10
+E. Paselli,F. Poli,10
+R. Salani,A. Costanzo,3
+F. Califano,Nisa,10
+F. Califano,G. Wright,10
+F. Califano,G. Faiella,10
+F. De Benedittis,R. Casalino,1
+F. De Benedittis,F. GazzÃ¨,1
+R. Di Benedetto,A. Filippelli,8
+F. Zanotti,G. Spagna,4
+F. Zanotti,M. Marati,10
+F. Zanotti,A. Valsiglio,10
+D. Simonetta,L. Chiaravalli,6
+Achille Lauro,D. Petrella,6
+Achille Lauro,D. Dezi,7
+S. Sylvestre,S. Maiuolo,15
+R. Casalino,N. Zilli,10
+G. D'Alessio,A. Tatangelo,8
+G. Spagna,M. Marati,10
+G. Spagna,A. Valsiglio,10
+L. Visentin,A. Cogliati,10
+C. A. Liman,L. Carmi,5
+M. D'Angelo,M. Calabrese,5
+F. Michielin,F. Gargiulo,3
+F. Vaccari,M. Mudimbi,8
+D. Petrella,D. Dezi,8
+M. Colucci,L. Carnacina,6
+M. Filardo,G. Mangiaracina,9
+A. Costanzo,C. Gori,9
+R. Vecchioni,M. Paoluzzi,9
+C. Chiodo,Bungaro,1
+E. Sciorilli,G. Calabrese,1
+B. D'Onghia,S. Bersani,1
+A. Febo,E. Meta,7
+R. Casale,G. Restelli,7
+R. Casale,G. Di Michele,10
+F. Renga,D. Mancino,7
+G. Paoli,S. Bardotti,8
+C. Donida,G. C. Testoni,3
+C. Donida,Mogol,3
+C. Donida,M. Panzeri,8
+C. Donida,Pinchi,9
+G. Westley,Mogol,9
+L. Greco,E. Sbriccoli,18
+E. Mangia,M. Del Forno,18
+E. Palmosi,L. Sala,9
 L. Nigro,F. Muggeo,1
-A. De Sanctis,P. Frescura,1
-A. De Sanctis,M. Telli,1
-E. Munda,A. Carozza,1
-A. Mari,M. Mariotti,1
-L. Baglioni,L. Piscopo,1
-S. Jurgens,G. Galgani,1
-D. Masini,P. Pintucci,1
-D. Masini,M. Scommegna,1
-D. Pinelli,V. Incenzo,1
-G. Marcucci,A. Carrisi,1
-T. Renis,Mogol,1
-D. Farina,G. De Stefani,1
-D. Farina,P. A. Cassella,1
-A. Caioli,P. Muscolino,1
-M. Romagnoli,E. Roberto,1
-E. Croce,R. Eleuteri,1
-L. Albertelli,Zucchero Fornaciari,1
-L. Albertelli,L. Lopez,1
-L. Albertelli,E. Malepasso,1
-L. Albertelli,A. Fornaciari,1
-R. Cocciante,Mogol,2
-G. Colonnelli,Irama,1
-G. Colonnelli,G. Nenna,1
-S. Monetti,A. Valsiglio,1
-P. Cremonesi,A. Valsiglio,1
-S. Melloni,M. Natale,1
-S. Rocchetti,A. Lo Vecchio,1
-Kynsha,C. Lessona,1
-Kynsha,P. Martella,1
-Zucchero Fornaciari,E. Malepasso,1
-A. Valsiglio,I. Spagna,1
-A. Valsiglio,D. Ciaramella,1
-A. Valsiglio,R. Buti,1
-L. Sepe,M. Schembri,1
-L. Sepe,E. Malepasso,1
-E. Marcelli,S. Cristicchi,4
-A. Mango,P. Mango,1
-A. Mango,G. Mango,2
-V. Incenzo,M. Di Cataldo,1
-R. Fiacchini,R. Serio,1
-C. Di Domenico,F. Ricci,1
-Irama,G. Nenna,1
-M. Mudimbi,A. Bonomo,1
-C. Lessona,P. Martella,5
-S. Galante,V. Thoma,1
-S. Galante,A. Cogliati,1
-A. Zitelli,Comas,1
-R. Satti,Mogol,1
-A. Filippelli,A. Di Martino,2
-G. Intra,E. Parazzini,1
-Zacar,C. Dammicco,1
-Zacar,S. Grieco,1
-Mogol,D. Backy,1
-Mogol,P. Soffici,1
-Mogol,L. D'Alessio,1
-Mogol,M. Scommegna,1
-O. Angiuli,E. Marrone,1
-C. Dammicco,S. Grieco,1
-M. Schembri,E. Malepasso,1
-P. Pintucci,M. Scommegna,1
-I. Fossati,O. Prudente,1
-C. Guidetti,A. Cogliati,2
-V. Thoma,A. Cogliati,1
-M. D'Angelo,P. Magoni,1
-E. Malepasso,A. Fornaciari,1
-B. Laurenti,M. Di Cataldo,1
+L. Nigro,A. Santonocito,1
+Alexia,A. Salerno,1
+G. Nenna,Irama,1
+P. Calabrese,L. Carnacina,20
+P. Calabrese,M. Calabrese,2
+M. Tronco e G. Servillo,F. Spinetti,9
+M. Tronco e G. Servillo,F. Mesolella,9
+C. Galbignani,L. Beccafichi,9
+G. C. Testoni,M. Panzeri,2
+V. Mercurio,W. Molco,10
+U. Tozzi,R. Riefoli,10
+F. Muggeo,A. Santonocito,8
+M. Goldsand,F. Carraresi,8
+Mogol,T. Renis,8
+Mogol,L. Battisti,8
+G. Restelli,G. Di Michele,8
+P. Mango,A. Mango,8
+P. Mango,A. Salerno,8
+F. Spinetti,F. Mesolella,8
+Leozed,A. Sandri,8
+A. Mango,A. Salerno,8
+M. Marati,A. Valsiglio,10
+M. Marati,F. Tanini,10
+M. Marati,R. Buti,7
+Nisa,M. Panzeri,7
+Nisa,G. Colonnello,7
+J. Monasta,G. Godi,10
+R. Bolognesi,F. Sacco,10
+V. Chiaravalle,A. Bergamaschi,4
+C. Di Domenico,A. Drusian,3
+G. Wright,G. Faiella,3
+M. Panzeri,U. Fusco,3
+M. Panzeri,G. Colonnello,4
+M. Marcolini,I. Fornaciari,10
+G. Giancursi,T. Cerasuolo,10
+A. Salerno,E. Ramazzotti,1
+A. Salerno,R. Pareti,9
+D. Civaschi,S. Belisari,10
+G. Simonelli,P. Pinna,4
+G. Simonelli,E. Palumbo,19
+F. Ilacqua,L. Chiaravalli,1
+V. Centrone,E. Giudizi,10
+C. Malgioglio,C. Daiano,10
+I. Fornaciari,D. Dattoli,9
+F. Guasti,M. Musumeci,9
+M. Di Franco,S. Moschetto,9
+C. Consoli,M. Venuti,9
+V. Tosetto,A. Cogliati,8
+V. Tosetto,E. Ramazzotti,8
+A. Valsiglio,F. Tanini,8
+A. Valsiglio,C. Daiano,8
+A. Valsiglio,R. Buti,7
+F. Tanini,R. Buti,7
+P. Meneguzzo,L. Mattioni,2
+R. Rubino,A. Rodini,8
+Pinchi,W. Malgoni,4
+F. Ciani,A. Cogliati,8
+F. Ciani,S. Bardotti,4
+O. Rubino,A. Rodini,8
+Lubiak,F. Monti Arduini,8
+P. Pinna,E. Palumbo,5
+G. P. Felisatti,Malise,5
+A. Cogliati,E. Ramazzotti,6
+A. Cogliati,G. Anelli,7
+M. Violante,P. Martella,7
+G. Anelli,G. Belleno,7
+E. Palumbo,V. Magelli,7
