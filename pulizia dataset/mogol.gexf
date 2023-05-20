@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-05-20">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="G. Morandi" label="G. Morandi" />
+      <node id="E. Isola" label="E. Isola" />
+      <node id="G. Bella" label="G. Bella" />
+      <node id="D. Backy" label="D. Backy" />
+      <node id="L. D'Alessio" label="L. D'Alessio" />
+      <node id="D. Mariano" label="D. Mariano" />
+      <node id="G. Marchetti" label="G. Marchetti" />
+      <node id="T. Renis" label="T. Renis" />
+      <node id="C. Donida" label="C. Donida" />
+      <node id="R. Cocciante" label="R. Cocciante" />
+      <node id="M. Scommegna" label="M. Scommegna" />
+      <node id="G. F. Reverberi" label="G. F. Reverberi" />
+      <node id="Donida" label="Donida" />
+      <node id="Mogol" label="Mogol" />
+      <node id="L. Battisti" label="L. Battisti" />
+      <node id="R. Satti" label="R. Satti" />
+      <node id="A. Testa" label="A. Testa" />
+      <node id="P. Soffici" label="P. Soffici" />
+      <node id="G. Westley" label="G. Westley" />
+    </nodes>
+    <edges>
+      <edge source="G. Morandi" target="Mogol" id="0" weight="9" />
+      <edge source="E. Isola" target="Mogol" id="1" weight="10" />
+      <edge source="G. Bella" target="Mogol" id="2" weight="6" />
+      <edge source="D. Backy" target="Mogol" id="3" weight="3" />
+      <edge source="L. D'Alessio" target="Mogol" id="4" weight="1" />
+      <edge source="D. Mariano" target="Mogol" id="5" weight="3" />
+      <edge source="G. Marchetti" target="Mogol" id="6" weight="6" />
+      <edge source="T. Renis" target="Mogol" id="7" weight="8" />
+      <edge source="C. Donida" target="Mogol" id="8" weight="4" />
+      <edge source="R. Cocciante" target="Mogol" id="9" weight="5" />
+      <edge source="M. Scommegna" target="Mogol" id="10" weight="4" />
+      <edge source="G. F. Reverberi" target="Mogol" id="11" weight="8" />
+      <edge source="Donida" target="Mogol" id="12" weight="8" />
+      <edge source="Mogol" target="L. Battisti" id="13" weight="26" />
+      <edge source="Mogol" target="R. Satti" id="14" weight="8" />
+      <edge source="Mogol" target="A. Testa" id="15" weight="8" />
+      <edge source="Mogol" target="P. Soffici" id="16" weight="10" />
+      <edge source="Mogol" target="G. Westley" id="17" weight="8" />
+    </edges>
+  </graph>
+</gexf>
