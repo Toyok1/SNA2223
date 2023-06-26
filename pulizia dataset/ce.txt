@@ -1,120 +1,120 @@
-T. Cerasuolo | C. Lo Mele | L'unica - 6
-T. Cerasuolo | A. Baracco | L'unica - 6
-T. Cerasuolo | E. Diana | L'unica - 6
-T. Cerasuolo | G. Giancursi | L'unica - 6
-T. Cerasuolo | R. Lo Mele | L'unica - 6
-C. Lo Mele | T. Cerasuolo | L'unica - 6
-C. Lo Mele | A. Baracco | L'unica - 6
-C. Lo Mele | E. Diana | L'unica - 6
-C. Lo Mele | G. Giancursi | L'unica - 6
-C. Lo Mele | R. Lo Mele | L'unica - 6
-A. Baracco | T. Cerasuolo | L'unica - 6
-A. Baracco | C. Lo Mele | L'unica - 6
-A. Baracco | E. Diana | L'unica - 6
-A. Baracco | G. Giancursi | L'unica - 6
-A. Baracco | R. Lo Mele | L'unica - 6
-E. Diana | T. Cerasuolo | L'unica - 6
-E. Diana | C. Lo Mele | L'unica - 6
-E. Diana | A. Baracco | L'unica - 6
-E. Diana | G. Giancursi | L'unica - 6
-E. Diana | R. Lo Mele | L'unica - 6
-G. Giancursi | T. Cerasuolo | L'unica - 6
-G. Giancursi | C. Lo Mele | L'unica - 6
-G. Giancursi | A. Baracco | L'unica - 6
-G. Giancursi | E. Diana | L'unica - 6
-G. Giancursi | R. Lo Mele | L'unica - 6
-R. Lo Mele | T. Cerasuolo | L'unica - 6
-R. Lo Mele | C. Lo Mele | L'unica - 6
-R. Lo Mele | A. Baracco | L'unica - 6
-R. Lo Mele | E. Diana | L'unica - 6
-R. Lo Mele | G. Giancursi | L'unica - 6
-M. Zangirolami | A. Bavo | Il mago - 3
-M. Zangirolami | P. Miano | Il mago - 3
-M. Zangirolami | M. Mudimbi | Il mago - 3
-M. Zangirolami | A. Bonomo | Il mago - 3
-M. Zangirolami | F. Vaccari | Il mago - 3
-A. Bavo | M. Zangirolami | Il mago - 3
-A. Bavo | P. Miano | Il mago - 3
-A. Bavo | M. Mudimbi | Il mago - 3
-A. Bavo | A. Bonomo | Il mago - 3
-A. Bavo | F. Vaccari | Il mago - 3
-P. Miano | M. Zangirolami | Il mago - 3
-P. Miano | A. Bavo | Il mago - 3
-P. Miano | M. Mudimbi | Il mago - 3
-P. Miano | A. Bonomo | Il mago - 3
-P. Miano | F. Vaccari | Il mago - 3
-M. Mudimbi | M. Zangirolami | Il mago - 3
-M. Mudimbi | A. Bavo | Il mago - 3
-M. Mudimbi | P. Miano | Il mago - 3
-M. Mudimbi | A. Bonomo | Il mago - 3
-M. Mudimbi | F. Vaccari | Il mago - 3
-A. Bonomo | M. Zangirolami | Il mago - 3
-A. Bonomo | A. Bavo | Il mago - 3
-A. Bonomo | P. Miano | Il mago - 3
-A. Bonomo | M. Mudimbi | Il mago - 3
-A. Bonomo | F. Vaccari | Il mago - 3
-F. Vaccari | M. Zangirolami | Il mago - 3
-F. Vaccari | A. Bavo | Il mago - 3
-F. Vaccari | P. Miano | Il mago - 3
-F. Vaccari | M. Mudimbi | Il mago - 3
-F. Vaccari | A. Bonomo | Il mago - 3
-M. Pilato | M. Monticelli | Fotografia - 6
-M. Pilato | F. Serafini | Fotografia - 6
-M. Pilato | S. Dionigi | Fotografia - 6
-M. Pilato | G. Novi | Fotografia - 6
-M. Pilato | M. Pasini | Fotografia - 6
-M. Monticelli | M. Pilato | Fotografia - 6
-M. Monticelli | F. Serafini | Fotografia - 6
-M. Monticelli | S. Dionigi | Fotografia - 6
-M. Monticelli | G. Novi | Fotografia - 6
-M. Monticelli | M. Pasini | Fotografia - 6
-F. Serafini | M. Pilato | Fotografia - 6
-F. Serafini | M. Monticelli | Fotografia - 6
-F. Serafini | S. Dionigi | Fotografia - 6
-F. Serafini | G. Novi | Fotografia - 6
-F. Serafini | M. Pasini | Fotografia - 6
-S. Dionigi | M. Pilato | Fotografia - 6
-S. Dionigi | M. Monticelli | Fotografia - 6
-S. Dionigi | F. Serafini | Fotografia - 6
-S. Dionigi | G. Novi | Fotografia - 6
-S. Dionigi | M. Pasini | Fotografia - 6
-G. Novi | M. Pilato | Fotografia - 6
-G. Novi | M. Monticelli | Fotografia - 6
-G. Novi | F. Serafini | Fotografia - 6
-G. Novi | S. Dionigi | Fotografia - 6
-G. Novi | M. Pasini | Fotografia - 6
-M. Pasini | M. Pilato | Fotografia - 6
-M. Pasini | M. Monticelli | Fotografia - 6
 M. Pasini | F. Serafini | Fotografia - 6
 M. Pasini | S. Dionigi | Fotografia - 6
+M. Pasini | M. Monticelli | Fotografia - 6
+M. Pasini | M. Pilato | Fotografia - 6
 M. Pasini | G. Novi | Fotografia - 6
-E. Roberto | A. Cazzola | Una vita in vacanza - 2
+F. Serafini | M. Pasini | Fotografia - 6
+F. Serafini | S. Dionigi | Fotografia - 6
+F. Serafini | M. Monticelli | Fotografia - 6
+F. Serafini | M. Pilato | Fotografia - 6
+F. Serafini | G. Novi | Fotografia - 6
+S. Dionigi | M. Pasini | Fotografia - 6
+S. Dionigi | F. Serafini | Fotografia - 6
+S. Dionigi | M. Monticelli | Fotografia - 6
+S. Dionigi | M. Pilato | Fotografia - 6
+S. Dionigi | G. Novi | Fotografia - 6
+M. Monticelli | M. Pasini | Fotografia - 6
+M. Monticelli | F. Serafini | Fotografia - 6
+M. Monticelli | S. Dionigi | Fotografia - 6
+M. Monticelli | M. Pilato | Fotografia - 6
+M. Monticelli | G. Novi | Fotografia - 6
+M. Pilato | M. Pasini | Fotografia - 6
+M. Pilato | F. Serafini | Fotografia - 6
+M. Pilato | S. Dionigi | Fotografia - 6
+M. Pilato | M. Monticelli | Fotografia - 6
+M. Pilato | G. Novi | Fotografia - 6
+G. Novi | M. Pasini | Fotografia - 6
+G. Novi | F. Serafini | Fotografia - 6
+G. Novi | S. Dionigi | Fotografia - 6
+G. Novi | M. Monticelli | Fotografia - 6
+G. Novi | M. Pilato | Fotografia - 6
 E. Roberto | M. Romagnoli | Una vita in vacanza - 2
+E. Roberto | A. Guidetti | Una vita in vacanza - 2
+E. Roberto | A. Cazzola | Una vita in vacanza - 2
 E. Roberto | F. Draicchio | Una vita in vacanza - 2
 E. Roberto | L. Guenzi | Una vita in vacanza - 2
-E. Roberto | A. Guidetti | Una vita in vacanza - 2
-A. Cazzola | E. Roberto | Una vita in vacanza - 2
-A. Cazzola | M. Romagnoli | Una vita in vacanza - 2
-A. Cazzola | F. Draicchio | Una vita in vacanza - 2
-A. Cazzola | L. Guenzi | Una vita in vacanza - 2
-A. Cazzola | A. Guidetti | Una vita in vacanza - 2
 M. Romagnoli | E. Roberto | Una vita in vacanza - 2
+M. Romagnoli | A. Guidetti | Una vita in vacanza - 2
 M. Romagnoli | A. Cazzola | Una vita in vacanza - 2
 M. Romagnoli | F. Draicchio | Una vita in vacanza - 2
 M. Romagnoli | L. Guenzi | Una vita in vacanza - 2
-M. Romagnoli | A. Guidetti | Una vita in vacanza - 2
-F. Draicchio | E. Roberto | Una vita in vacanza - 2
-F. Draicchio | A. Cazzola | Una vita in vacanza - 2
-F. Draicchio | M. Romagnoli | Una vita in vacanza - 2
-F. Draicchio | L. Guenzi | Una vita in vacanza - 2
-F. Draicchio | A. Guidetti | Una vita in vacanza - 2
-L. Guenzi | E. Roberto | Una vita in vacanza - 2
-L. Guenzi | A. Cazzola | Una vita in vacanza - 2
-L. Guenzi | M. Romagnoli | Una vita in vacanza - 2
-L. Guenzi | F. Draicchio | Una vita in vacanza - 2
-L. Guenzi | A. Guidetti | Una vita in vacanza - 2
 A. Guidetti | E. Roberto | Una vita in vacanza - 2
-A. Guidetti | A. Cazzola | Una vita in vacanza - 2
 A. Guidetti | M. Romagnoli | Una vita in vacanza - 2
+A. Guidetti | A. Cazzola | Una vita in vacanza - 2
 A. Guidetti | F. Draicchio | Una vita in vacanza - 2
 A. Guidetti | L. Guenzi | Una vita in vacanza - 2
+A. Cazzola | E. Roberto | Una vita in vacanza - 2
+A. Cazzola | M. Romagnoli | Una vita in vacanza - 2
+A. Cazzola | A. Guidetti | Una vita in vacanza - 2
+A. Cazzola | F. Draicchio | Una vita in vacanza - 2
+A. Cazzola | L. Guenzi | Una vita in vacanza - 2
+F. Draicchio | E. Roberto | Una vita in vacanza - 2
+F. Draicchio | M. Romagnoli | Una vita in vacanza - 2
+F. Draicchio | A. Guidetti | Una vita in vacanza - 2
+F. Draicchio | A. Cazzola | Una vita in vacanza - 2
+F. Draicchio | L. Guenzi | Una vita in vacanza - 2
+L. Guenzi | E. Roberto | Una vita in vacanza - 2
+L. Guenzi | M. Romagnoli | Una vita in vacanza - 2
+L. Guenzi | A. Guidetti | Una vita in vacanza - 2
+L. Guenzi | A. Cazzola | Una vita in vacanza - 2
+L. Guenzi | F. Draicchio | Una vita in vacanza - 2
+A. Bavo | M. Mudimbi | Il mago - 3
+A. Bavo | P. Miano | Il mago - 3
+A. Bavo | M. Zangirolami | Il mago - 3
+A. Bavo | F. Vaccari | Il mago - 3
+A. Bavo | A. Bonomo | Il mago - 3
+M. Mudimbi | A. Bavo | Il mago - 3
+M. Mudimbi | P. Miano | Il mago - 3
+M. Mudimbi | M. Zangirolami | Il mago - 3
+M. Mudimbi | F. Vaccari | Il mago - 3
+M. Mudimbi | A. Bonomo | Il mago - 3
+P. Miano | A. Bavo | Il mago - 3
+P. Miano | M. Mudimbi | Il mago - 3
+P. Miano | M. Zangirolami | Il mago - 3
+P. Miano | F. Vaccari | Il mago - 3
+P. Miano | A. Bonomo | Il mago - 3
+M. Zangirolami | A. Bavo | Il mago - 3
+M. Zangirolami | M. Mudimbi | Il mago - 3
+M. Zangirolami | P. Miano | Il mago - 3
+M. Zangirolami | F. Vaccari | Il mago - 3
+M. Zangirolami | A. Bonomo | Il mago - 3
+F. Vaccari | A. Bavo | Il mago - 3
+F. Vaccari | M. Mudimbi | Il mago - 3
+F. Vaccari | P. Miano | Il mago - 3
+F. Vaccari | M. Zangirolami | Il mago - 3
+F. Vaccari | A. Bonomo | Il mago - 3
+A. Bonomo | A. Bavo | Il mago - 3
+A. Bonomo | M. Mudimbi | Il mago - 3
+A. Bonomo | P. Miano | Il mago - 3
+A. Bonomo | M. Zangirolami | Il mago - 3
+A. Bonomo | F. Vaccari | Il mago - 3
+C. Lo Mele | G. Giancursi | L'unica - 6
+C. Lo Mele | E. Diana | L'unica - 6
+C. Lo Mele | R. Lo Mele | L'unica - 6
+C. Lo Mele | A. Baracco | L'unica - 6
+C. Lo Mele | T. Cerasuolo | L'unica - 6
+G. Giancursi | C. Lo Mele | L'unica - 6
+G. Giancursi | E. Diana | L'unica - 6
+G. Giancursi | R. Lo Mele | L'unica - 6
+G. Giancursi | A. Baracco | L'unica - 6
+G. Giancursi | T. Cerasuolo | L'unica - 6
+E. Diana | C. Lo Mele | L'unica - 6
+E. Diana | G. Giancursi | L'unica - 6
+E. Diana | R. Lo Mele | L'unica - 6
+E. Diana | A. Baracco | L'unica - 6
+E. Diana | T. Cerasuolo | L'unica - 6
+R. Lo Mele | C. Lo Mele | L'unica - 6
+R. Lo Mele | G. Giancursi | L'unica - 6
+R. Lo Mele | E. Diana | L'unica - 6
+R. Lo Mele | A. Baracco | L'unica - 6
+R. Lo Mele | T. Cerasuolo | L'unica - 6
+A. Baracco | C. Lo Mele | L'unica - 6
+A. Baracco | G. Giancursi | L'unica - 6
+A. Baracco | E. Diana | L'unica - 6
+A. Baracco | R. Lo Mele | L'unica - 6
+A. Baracco | T. Cerasuolo | L'unica - 6
+T. Cerasuolo | C. Lo Mele | L'unica - 6
+T. Cerasuolo | G. Giancursi | L'unica - 6
+T. Cerasuolo | E. Diana | L'unica - 6
+T. Cerasuolo | R. Lo Mele | L'unica - 6
+T. Cerasuolo | A. Baracco | L'unica - 6
