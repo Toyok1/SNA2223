@@ -228,15 +228,12 @@ for k in range(2, 8):
 # create subgraph with all nodes and edges connected to node "D. Pace"
 list_nodes_connected = list(nx.node_connected_component(G, "D. Pace"))
 
+
 # calculate small world coefficient
 print("small world coefficient")
 print(nx.algorithms.smallworld.sigma(G.subgraph(
-    list_nodes_connected), niter=10, nrand=1, seed=None), '\n')
+    list_nodes_connected), niter=10, nrand=1, seed=42), '\n')
 
-# scale free coefficient
-print("scale free coefficient")
-print(nx.algorithms.smallworld.omega(G.subgraph(
-    list_nodes_connected), niter=10, nrand=1, seed=None), '\n')
 
 #############################
 '''plt.rcParams['figure.figsize'] = [15, 10]
